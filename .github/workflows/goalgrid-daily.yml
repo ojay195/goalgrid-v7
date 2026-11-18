@@ -16,6 +16,8 @@ jobs:
     steps:
       - name: Check out GoalGrid
         uses: actions/checkout@v4
+        with:
+          ref: automation-test
 
       - name: Set up Python
         uses: actions/setup-python@v5
