@@ -279,7 +279,6 @@ Premier League,2027-05-30T15:00:00Z,Ipswich,Everton
 Premier League,2027-05-30T15:00:00Z,Liverpool,Bournemouth
 Premier League,2027-05-30T15:00:00Z,Man Utd,Fulham
 Premier League,2027-05-30T15:00:00Z,Sunderland,Man City
-La Liga,2026-11-20T20:00:00Z,Athletic Club,RCD Espanyol de Barcelona
 La Liga,2026-11-21T13:00:00Z,Deportivo Alavés,RC Deportivo
 La Liga,2026-11-21T15:15:00Z,Rayo Vallecano,Valencia CF
 La Liga,2026-11-21T17:30:00Z,Sevilla FC,Real Betis
@@ -301,16 +300,16 @@ La Liga,2026-11-29T20:00:00Z,Real Sociedad,Sevilla FC
 La Liga,2026-11-30T20:00:00Z,RCD Espanyol de Barcelona,Getafe CF
 La Liga,2026-12-02T18:00:00Z,Real Sociedad,Real Madrid
 La Liga,2026-12-02T20:30:00Z,FC Barcelona,Atlético de Madrid
-La Liga,2026-12-06T00:00:00Z,Athletic Club,Real Madrid
-La Liga,2026-12-06T00:00:00Z,Atlético de Madrid,Real Betis
-La Liga,2026-12-06T00:00:00Z,CA Osasuna,Elche CF
-La Liga,2026-12-06T00:00:00Z,Deportivo Alavés,RCD Espanyol de Barcelona
-La Liga,2026-12-06T00:00:00Z,FC Barcelona,Celta
-La Liga,2026-12-06T00:00:00Z,Getafe CF,Valencia CF
-La Liga,2026-12-06T00:00:00Z,R. Racing Club,RC Deportivo
-La Liga,2026-12-06T00:00:00Z,Rayo Vallecano,Levante UD
-La Liga,2026-12-06T00:00:00Z,Sevilla FC,Málaga CF
-La Liga,2026-12-06T00:00:00Z,Villarreal CF,Real Sociedad
+La Liga,2026-12-04T20:00:00Z,Deportivo Alavés,RCD Espanyol de Barcelona
+La Liga,2026-12-05T13:00:00Z,R. Racing Club,RC Deportivo
+La Liga,2026-12-05T15:15:00Z,Rayo Vallecano,Levante UD
+La Liga,2026-12-05T17:30:00Z,Villarreal CF,Real Sociedad
+La Liga,2026-12-05T20:00:00Z,FC Barcelona,Celta
+La Liga,2026-12-06T13:00:00Z,CA Osasuna,Elche CF
+La Liga,2026-12-06T15:15:00Z,Athletic Club,Real Madrid
+La Liga,2026-12-06T17:30:00Z,Getafe CF,Valencia CF
+La Liga,2026-12-06T20:00:00Z,Atlético de Madrid,Real Betis
+La Liga,2026-12-07T20:00:00Z,Sevilla FC,Málaga CF
 La Liga,2026-12-09T19:00:00Z,Rayo Vallecano,Athletic Club
 La Liga,2026-12-13T00:00:00Z,Atlético de Madrid,Valencia CF
 La Liga,2026-12-13T00:00:00Z,Elche CF,Sevilla FC
@@ -540,7 +539,6 @@ La Liga,2027-05-30T00:00:00Z,RCD Espanyol de Barcelona,Deportivo Alavés
 La Liga,2027-05-30T00:00:00Z,Real Betis,Atlético de Madrid
 La Liga,2027-05-30T00:00:00Z,Real Madrid,RC Deportivo
 La Liga,2027-05-30T00:00:00Z,Real Sociedad,Villarreal CF
-Bundesliga,2026-11-20T19:30:00Z,FC Bayern München,1. FC Köln
 Bundesliga,2026-11-21T14:30:00Z,1. FC Union Berlin,RB Leipzig
 Bundesliga,2026-11-21T14:30:00Z,Bayer 04 Leverkusen,SC Paderborn 07
 Bundesliga,2026-11-21T14:30:00Z,Borussia Mönchengladbach,Borussia Dortmund
@@ -1035,7 +1033,6 @@ Serie A,2027-05-30T00:00:00Z,Milan,Udinese
 Serie A,2027-05-30T00:00:00Z,Monza,Torino
 Serie A,2027-05-30T00:00:00Z,Napoli,Atalanta
 Serie A,2027-05-30T00:00:00Z,Sassuolo,Internazionale
-Ligue 1,2026-11-20T19:45:00Z,Estac Troyes,Havre Athletic Club
 Ligue 1,2026-11-21T16:15:00Z,OGC Nice,Paris Saint-Germain
 Ligue 1,2026-11-21T19:45:00Z,AS Monaco,AJ Auxerre
 Ligue 1,2026-11-21T19:45:00Z,LOSC Lille,Olympique Lyonnais
@@ -1075,10 +1072,10 @@ Ligue 1,2027-01-02T16:00:00Z,Stade Brestois 29,Olympique de Marseille
 Ligue 1,2027-01-02T20:00:00Z,AS Monaco,OGC Nice
 Ligue 1,2027-01-02T20:00:00Z,Estac Troyes,Stade Rennais FC
 Ligue 1,2027-01-02T20:00:00Z,FC Lorient,AJ Auxerre
-Ligue 1,2027-01-02T20:00:00Z,Paris FC,Havre Athletic Club
 Ligue 1,2027-01-02T20:00:00Z,Toulouse FC,Angers SCO
 Ligue 1,2027-01-03T14:00:00Z,Le Mans FC,Olympique Lyonnais
 Ligue 1,2027-01-03T16:15:00Z,LOSC Lille,RC Strasbourg Alsace
+Ligue 1,2027-01-03T16:15:00Z,Paris FC,Havre Athletic Club
 Ligue 1,2027-01-03T19:45:00Z,RC Lens,Paris Saint-Germain
 Ligue 1,2027-01-15T19:45:00Z,Olympique de Marseille,LOSC Lille
 Ligue 1,2027-01-16T16:15:00Z,Angers SCO,Paris Saint-Germain

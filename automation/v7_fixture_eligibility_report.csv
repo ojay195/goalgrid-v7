@@ -279,7 +279,6 @@ Premier League,2027-05-30T15:00:00Z,Ipswich,Everton,Ipswich,Everton FC,5,24,READ
 Premier League,2027-05-30T15:00:00Z,Liverpool,Bournemouth,Liverpool FC,AFC Bournemouth,24,24,READY,YES
 Premier League,2027-05-30T15:00:00Z,Man Utd,Fulham,Manchester United FC,Fulham FC,24,24,READY,YES
 Premier League,2027-05-30T15:00:00Z,Sunderland,Man City,Sunderland AFC,Manchester City FC,24,24,READY,YES
-La Liga,2026-11-20T20:00:00Z,Athletic Club,RCD Espanyol de Barcelona,Athletic Club,RCD Espanyol de Barcelona,25,25,READY,YES
 La Liga,2026-11-21T13:00:00Z,Deportivo Alavés,RC Deportivo,Deportivo Alavés,RC Deportivo,25,6,READY,YES
 La Liga,2026-11-21T15:15:00Z,Rayo Vallecano,Valencia CF,Rayo Vallecano de Madrid,Valencia CF,24,24,READY,YES
 La Liga,2026-11-21T17:30:00Z,Sevilla FC,Real Betis,Sevilla FC,Real Betis Balompié,25,25,READY,YES
@@ -301,16 +300,16 @@ La Liga,2026-11-29T20:00:00Z,Real Sociedad,Sevilla FC,Real Sociedad de Fútbol,S
 La Liga,2026-11-30T20:00:00Z,RCD Espanyol de Barcelona,Getafe CF,RCD Espanyol de Barcelona,Getafe CF,25,25,READY,YES
 La Liga,2026-12-02T18:00:00Z,Real Sociedad,Real Madrid,Real Sociedad de Fútbol,Real Madrid CF,25,26,READY,YES
 La Liga,2026-12-02T20:30:00Z,FC Barcelona,Atlético de Madrid,FC Barcelona,Club Atlético de Madrid,25,25,READY,YES
-La Liga,2026-12-06T00:00:00Z,Athletic Club,Real Madrid,Athletic Club,Real Madrid CF,25,26,READY,YES
-La Liga,2026-12-06T00:00:00Z,Atlético de Madrid,Real Betis,Club Atlético de Madrid,Real Betis Balompié,25,25,READY,YES
-La Liga,2026-12-06T00:00:00Z,CA Osasuna,Elche CF,CA Osasuna,Elche CF,25,25,READY,YES
-La Liga,2026-12-06T00:00:00Z,Deportivo Alavés,RCD Espanyol de Barcelona,Deportivo Alavés,RCD Espanyol de Barcelona,25,25,READY,YES
-La Liga,2026-12-06T00:00:00Z,FC Barcelona,Celta,FC Barcelona,RC Celta de Vigo,25,24,READY,YES
-La Liga,2026-12-06T00:00:00Z,Getafe CF,Valencia CF,Getafe CF,Valencia CF,25,24,READY,YES
-La Liga,2026-12-06T00:00:00Z,R. Racing Club,RC Deportivo,R. Racing Club,RC Deportivo,6,6,READY,YES
-La Liga,2026-12-06T00:00:00Z,Rayo Vallecano,Levante UD,Rayo Vallecano de Madrid,Levante UD,24,26,READY,YES
-La Liga,2026-12-06T00:00:00Z,Sevilla FC,Málaga CF,Sevilla FC,Málaga CF,25,6,READY,YES
-La Liga,2026-12-06T00:00:00Z,Villarreal CF,Real Sociedad,Villarreal CF,Real Sociedad de Fútbol,25,25,READY,YES
+La Liga,2026-12-04T20:00:00Z,Deportivo Alavés,RCD Espanyol de Barcelona,Deportivo Alavés,RCD Espanyol de Barcelona,25,25,READY,YES
+La Liga,2026-12-05T13:00:00Z,R. Racing Club,RC Deportivo,R. Racing Club,RC Deportivo,6,6,READY,YES
+La Liga,2026-12-05T15:15:00Z,Rayo Vallecano,Levante UD,Rayo Vallecano de Madrid,Levante UD,24,26,READY,YES
+La Liga,2026-12-05T17:30:00Z,Villarreal CF,Real Sociedad,Villarreal CF,Real Sociedad de Fútbol,25,25,READY,YES
+La Liga,2026-12-05T20:00:00Z,FC Barcelona,Celta,FC Barcelona,RC Celta de Vigo,25,24,READY,YES
+La Liga,2026-12-06T13:00:00Z,CA Osasuna,Elche CF,CA Osasuna,Elche CF,25,25,READY,YES
+La Liga,2026-12-06T15:15:00Z,Athletic Club,Real Madrid,Athletic Club,Real Madrid CF,25,26,READY,YES
+La Liga,2026-12-06T17:30:00Z,Getafe CF,Valencia CF,Getafe CF,Valencia CF,25,24,READY,YES
+La Liga,2026-12-06T20:00:00Z,Atlético de Madrid,Real Betis,Club Atlético de Madrid,Real Betis Balompié,25,25,READY,YES
+La Liga,2026-12-07T20:00:00Z,Sevilla FC,Málaga CF,Sevilla FC,Málaga CF,25,6,READY,YES
 La Liga,2026-12-09T19:00:00Z,Rayo Vallecano,Athletic Club,Rayo Vallecano de Madrid,Athletic Club,24,24,READY,YES
 La Liga,2026-12-13T00:00:00Z,Atlético de Madrid,Valencia CF,Club Atlético de Madrid,Valencia CF,25,24,READY,YES
 La Liga,2026-12-13T00:00:00Z,Elche CF,Sevilla FC,Elche CF,Sevilla FC,25,25,READY,YES
@@ -540,7 +539,6 @@ La Liga,2027-05-30T00:00:00Z,RCD Espanyol de Barcelona,Deportivo Alavés,RCD Esp
 La Liga,2027-05-30T00:00:00Z,Real Betis,Atlético de Madrid,Real Betis Balompié,Club Atlético de Madrid,25,25,READY,YES
 La Liga,2027-05-30T00:00:00Z,Real Madrid,RC Deportivo,Real Madrid CF,RC Deportivo,24,6,READY,YES
 La Liga,2027-05-30T00:00:00Z,Real Sociedad,Villarreal CF,Real Sociedad de Fútbol,Villarreal CF,25,25,READY,YES
-Bundesliga,2026-11-20T19:30:00Z,FC Bayern München,1. FC Köln,FC Bayern München,1. FC Köln,21,21,READY,YES
 Bundesliga,2026-11-21T14:30:00Z,1. FC Union Berlin,RB Leipzig,1. FC Union Berlin,RB Leipzig,22,21,READY,YES
 Bundesliga,2026-11-21T14:30:00Z,Bayer 04 Leverkusen,SC Paderborn 07,Bayer 04 Leverkusen,SC Paderborn 07,21,4,INSUFFICIENT_HISTORY,YES
 Bundesliga,2026-11-21T14:30:00Z,Borussia Mönchengladbach,Borussia Dortmund,Borussia Mönchengladbach,Borussia Dortmund,21,21,READY,YES
@@ -1035,7 +1033,6 @@ Serie A,2027-05-30T00:00:00Z,Milan,Udinese,AC Milan,Udinese Calcio,24,24,READY,Y
 Serie A,2027-05-30T00:00:00Z,Monza,Torino,Monza,Torino FC,5,24,READY,YES
 Serie A,2027-05-30T00:00:00Z,Napoli,Atalanta,SSC Napoli,Atalanta BC,24,24,READY,YES
 Serie A,2027-05-30T00:00:00Z,Sassuolo,Internazionale,US Sassuolo Calcio,FC Internazionale Milano,24,24,READY,YES
-Ligue 1,2026-11-20T19:45:00Z,Estac Troyes,Havre Athletic Club,Estac Troyes,Le Havre AC,5,21,READY,YES
 Ligue 1,2026-11-21T16:15:00Z,OGC Nice,Paris Saint-Germain,OGC Nice,Paris Saint-Germain FC,22,23,READY,YES
 Ligue 1,2026-11-21T19:45:00Z,AS Monaco,AJ Auxerre,AS Monaco FC,AJ Auxerre,21,22,READY,YES
 Ligue 1,2026-11-21T19:45:00Z,LOSC Lille,Olympique Lyonnais,Lille OSC,Olympique Lyonnais,22,22,READY,YES
@@ -1075,10 +1072,10 @@ Ligue 1,2027-01-02T16:00:00Z,Stade Brestois 29,Olympique de Marseille,Stade Bres
 Ligue 1,2027-01-02T20:00:00Z,AS Monaco,OGC Nice,AS Monaco FC,OGC Nice,21,22,READY,YES
 Ligue 1,2027-01-02T20:00:00Z,Estac Troyes,Stade Rennais FC,Estac Troyes,Stade Rennais FC 1901,5,21,READY,YES
 Ligue 1,2027-01-02T20:00:00Z,FC Lorient,AJ Auxerre,FC Lorient,AJ Auxerre,22,22,READY,YES
-Ligue 1,2027-01-02T20:00:00Z,Paris FC,Havre Athletic Club,Paris FC,Le Havre AC,22,21,READY,YES
 Ligue 1,2027-01-02T20:00:00Z,Toulouse FC,Angers SCO,Toulouse FC,Angers SCO,22,21,READY,YES
 Ligue 1,2027-01-03T14:00:00Z,Le Mans FC,Olympique Lyonnais,Le Mans FC,Olympique Lyonnais,5,22,READY,YES
 Ligue 1,2027-01-03T16:15:00Z,LOSC Lille,RC Strasbourg Alsace,Lille OSC,RC Strasbourg Alsace,22,23,READY,YES
+Ligue 1,2027-01-03T16:15:00Z,Paris FC,Havre Athletic Club,Paris FC,Le Havre AC,22,21,READY,YES
 Ligue 1,2027-01-03T19:45:00Z,RC Lens,Paris Saint-Germain,Racing Club de Lens,Paris Saint-Germain FC,22,23,READY,YES
 Ligue 1,2027-01-15T19:45:00Z,Olympique de Marseille,LOSC Lille,Olympique de Marseille,Lille OSC,22,22,READY,YES
 Ligue 1,2027-01-16T16:15:00Z,Angers SCO,Paris Saint-Germain,Angers SCO,Paris Saint-Germain FC,23,23,READY,YES
