@@ -9,7 +9,9 @@ from collections import defaultdict
 ROOT = Path(__file__).resolve().parent
 BASE = "https://raw.githubusercontent.com/oladeeayo/open-matchday/master/data"
 SEASON = "2627"
+
 LEAGUES = {
+    # Existing eight competitions
     "Premier League": ("ENG_1_premier-league", "Premier League"),
     "La Liga": ("ESP_1_la-liga", "La Liga"),
     "Bundesliga": ("GER_1_bundesliga", "Bundesliga"),
@@ -18,7 +20,45 @@ LEAGUES = {
     "Eredivisie": ("NED_1_eredivisie", "Eredivisie"),
     "Primeira Liga": ("POR_1_primeira-liga", "Primeira Liga"),
     "English Championship": ("ENG_2_championship", "EFL Championship"),
+
+    # UEFA competitions
+    "UEFA Champions League": (
+        "UEFA_1_champions-league", "UEFA Champions League"
+    ),
+    "UEFA Europa League": (
+        "UEFA_1_europa-league", "UEFA Europa League"
+    ),
+    "UEFA Conference League": (
+        "UEFA_1_conference-league", "UEFA Conference League"
+    ),
+
+    # Stage A domestic expansion
+    "Belgian Pro League": (
+        "BEL_1_pro-league", "Belgian Pro League"
+    ),
+    "Süper Lig": (
+        "TUR_1_super-lig", "Süper Lig"
+    ),
+    "Scottish Premiership": (
+        "SCO_1_premiership", "Scottish Premiership"
+    ),
+    "2. Bundesliga": (
+        "GER_2_2-bundesliga", "2. Bundesliga"
+    ),
+    "Ligue 2": (
+        "FRA_2_ligue-2", "Ligue 2"
+    ),
+    "Ekstraklasa": (
+        "POL_1_ekstraklasa", "Ekstraklasa"
+    ),
+    "Chance Liga": (
+        "CZE_1_chance-liga", "Chance Liga"
+    ),
+    "Liga I": (
+        "ROU_1_liga-1", "Liga I"
+    ),
 }
+
 
 
 def norm(s):
