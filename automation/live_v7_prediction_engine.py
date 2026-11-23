@@ -94,6 +94,25 @@ def main():
 
     # Point the unchanged V7 loader at the separate combined live history.
     v7.DATA_FILE = str(HISTORY_FILE)
+    # Extend supported competitions without changing V7 calculations.
+ADDITIONAL_LEAGUES = [
+    "UEFA Champions League",
+    "UEFA Europa League",
+    "UEFA Conference League",
+    "Belgian Pro League",
+    "Süper Lig",
+    "Scottish Premiership",
+    "2. Bundesliga",
+    "Ligue 2",
+    "Ekstraklasa",
+    "Chance Liga",
+    "Liga I",
+]
+
+v7.LEAGUES = list(v7.LEAGUES) + [
+    league for league in ADDITIONAL_LEAGUES
+    if league not in v7.LEAGUES
+]
     matches = v7.load_matches()
     aliases = load_aliases()
     fixtures = read_csv(FIXTURES_FILE)
