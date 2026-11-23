@@ -1,6 +1,4 @@
 league,date,home,away
-Premier League,2026-11-22T14:00:00Z,Hull,Brighton
-Premier League,2026-11-22T16:30:00Z,Liverpool,Man Utd
 Premier League,2026-11-23T20:00:00Z,Brentford,Everton
 Premier League,2026-11-27T20:00:00Z,Nott'm Forest,Chelsea
 Premier League,2026-11-28T15:00:00Z,Leeds,Coventry
@@ -92,36 +90,36 @@ Premier League,2027-01-06T19:30:00Z,Fulham,Spurs
 Premier League,2027-01-06T19:30:00Z,Ipswich,Coventry
 Premier League,2027-01-06T20:15:00Z,Leeds,Man City
 Premier League,2027-01-07T20:00:00Z,Man Utd,Newcastle
-Premier League,2027-01-16T15:00:00Z,Aston Villa,Man Utd
-Premier League,2027-01-16T15:00:00Z,Bournemouth,Ipswich
-Premier League,2027-01-16T15:00:00Z,Brentford,Brighton
+Premier League,2027-01-16T12:30:00Z,Coventry,Everton
 Premier League,2027-01-16T15:00:00Z,Chelsea,Sunderland
-Premier League,2027-01-16T15:00:00Z,Coventry,Everton
 Premier League,2027-01-16T15:00:00Z,Hull,Arsenal
 Premier League,2027-01-16T15:00:00Z,Liverpool,Crystal Palace
 Premier League,2027-01-16T15:00:00Z,Man City,Nott'm Forest
 Premier League,2027-01-16T15:00:00Z,Newcastle,Fulham
-Premier League,2027-01-16T15:00:00Z,Spurs,Leeds
-Premier League,2027-01-23T15:00:00Z,Arsenal,Newcastle
-Premier League,2027-01-23T15:00:00Z,Brighton,Man City
-Premier League,2027-01-23T15:00:00Z,Crystal Palace,Spurs
-Premier League,2027-01-23T15:00:00Z,Everton,Brentford
+Premier League,2027-01-16T17:30:00Z,Aston Villa,Man Utd
+Premier League,2027-01-17T14:00:00Z,Bournemouth,Ipswich
+Premier League,2027-01-17T16:30:00Z,Spurs,Leeds
+Premier League,2027-01-18T20:00:00Z,Brentford,Brighton
 Premier League,2027-01-23T15:00:00Z,Fulham,Aston Villa
 Premier League,2027-01-23T15:00:00Z,Ipswich,Hull
-Premier League,2027-01-23T15:00:00Z,Leeds,Chelsea
-Premier League,2027-01-23T15:00:00Z,Man Utd,Liverpool
-Premier League,2027-01-23T15:00:00Z,Nott'm Forest,Bournemouth
-Premier League,2027-01-23T15:00:00Z,Sunderland,Coventry
+Premier League,2027-01-23T17:30:00Z,Arsenal,Newcastle
+Premier League,2027-01-23T20:00:00Z,Brighton,Man City
+Premier League,2027-01-24T14:00:00Z,Crystal Palace,Spurs
+Premier League,2027-01-24T14:00:00Z,Everton,Brentford
+Premier League,2027-01-24T14:00:00Z,Nott'm Forest,Bournemouth
+Premier League,2027-01-24T14:00:00Z,Sunderland,Coventry
+Premier League,2027-01-24T16:30:00Z,Man Utd,Liverpool
+Premier League,2027-01-25T20:00:00Z,Leeds,Chelsea
+Premier League,2027-01-30T12:30:00Z,Liverpool,Everton
 Premier League,2027-01-30T15:00:00Z,Aston Villa,Ipswich
-Premier League,2027-01-30T15:00:00Z,Bournemouth,Fulham
-Premier League,2027-01-30T15:00:00Z,Brentford,Man Utd
-Premier League,2027-01-30T15:00:00Z,Chelsea,Nott'm Forest
-Premier League,2027-01-30T15:00:00Z,Coventry,Leeds
-Premier League,2027-01-30T15:00:00Z,Hull,Crystal Palace
-Premier League,2027-01-30T15:00:00Z,Liverpool,Everton
-Premier League,2027-01-30T15:00:00Z,Man City,Arsenal
 Premier League,2027-01-30T15:00:00Z,Newcastle,Brighton
-Premier League,2027-01-30T15:00:00Z,Spurs,Sunderland
+Premier League,2027-01-30T17:30:00Z,Chelsea,Nott'm Forest
+Premier League,2027-01-31T14:00:00Z,Bournemouth,Fulham
+Premier League,2027-01-31T14:00:00Z,Coventry,Leeds
+Premier League,2027-01-31T14:00:00Z,Hull,Crystal Palace
+Premier League,2027-01-31T14:00:00Z,Spurs,Sunderland
+Premier League,2027-01-31T16:30:00Z,Man City,Arsenal
+Premier League,2027-02-01T20:00:00Z,Brentford,Man Utd
 Premier League,2027-02-06T15:00:00Z,Arsenal,Liverpool
 Premier League,2027-02-06T15:00:00Z,Brighton,Hull
 Premier League,2027-02-06T15:00:00Z,Crystal Palace,Coventry
@@ -272,10 +270,6 @@ Premier League,2027-05-30T15:00:00Z,Ipswich,Everton
 Premier League,2027-05-30T15:00:00Z,Liverpool,Bournemouth
 Premier League,2027-05-30T15:00:00Z,Man Utd,Fulham
 Premier League,2027-05-30T15:00:00Z,Sunderland,Man City
-La Liga,2026-11-22T13:00:00Z,FC Barcelona,Villarreal CF
-La Liga,2026-11-22T15:15:00Z,R. Racing Club,Real Sociedad
-La Liga,2026-11-22T17:30:00Z,CA Osasuna,Málaga CF
-La Liga,2026-11-22T20:00:00Z,Getafe CF,Atlético de Madrid
 La Liga,2026-11-23T20:00:00Z,Levante UD,Elche CF
 La Liga,2026-11-27T20:00:00Z,Levante UD,R. Racing Club
 La Liga,2026-11-28T13:00:00Z,Real Betis,Rayo Vallecano
@@ -528,8 +522,6 @@ La Liga,2027-05-30T00:00:00Z,RCD Espanyol de Barcelona,Deportivo Alavés
 La Liga,2027-05-30T00:00:00Z,Real Betis,Atlético de Madrid
 La Liga,2027-05-30T00:00:00Z,Real Madrid,RC Deportivo
 La Liga,2027-05-30T00:00:00Z,Real Sociedad,Villarreal CF
-Bundesliga,2026-11-22T14:30:00Z,FC Augsburg,1. FSV Mainz 05
-Bundesliga,2026-11-22T16:30:00Z,SV Werder Bremen,Hamburger SV
 Bundesliga,2026-11-27T19:30:00Z,SV Werder Bremen,Borussia Mönchengladbach
 Bundesliga,2026-11-28T14:30:00Z,1. FC Köln,SV 07 Elversberg
 Bundesliga,2026-11-28T14:30:00Z,1. FSV Mainz 05,1. FC Union Berlin
@@ -746,11 +738,6 @@ Bundesliga,2027-05-22T13:30:00Z,FC Schalke 04,Bayer 04 Leverkusen
 Bundesliga,2027-05-22T13:30:00Z,RB Leipzig,TSG Hoffenheim
 Bundesliga,2027-05-22T13:30:00Z,SC Freiburg,Borussia Dortmund
 Bundesliga,2027-05-22T13:30:00Z,SV 07 Elversberg,SV Werder Bremen
-Serie A,2026-11-22T11:30:00Z,Juventus,Venezia
-Serie A,2026-11-22T14:00:00Z,Bologna,Udinese
-Serie A,2026-11-22T14:00:00Z,Sassuolo,Genoa
-Serie A,2026-11-22T17:00:00Z,Milan,Frosinone
-Serie A,2026-11-22T19:45:00Z,Atalanta,Internazionale
 Serie A,2026-11-23T19:45:00Z,Monza,Fiorentina
 Serie A,2026-11-27T19:45:00Z,Venezia,Bologna
 Serie A,2026-11-28T14:00:00Z,Frosinone,Parma
@@ -1012,9 +999,6 @@ Serie A,2027-05-30T00:00:00Z,Milan,Udinese
 Serie A,2027-05-30T00:00:00Z,Monza,Torino
 Serie A,2027-05-30T00:00:00Z,Napoli,Atalanta
 Serie A,2027-05-30T00:00:00Z,Sassuolo,Internazionale
-Ligue 1,2026-11-22T14:00:00Z,Paris FC,Angers SCO
-Ligue 1,2026-11-22T16:15:00Z,FC Lorient,Stade Rennais FC
-Ligue 1,2026-11-22T19:45:00Z,Olympique de Marseille,Le Mans FC
 Ligue 1,2026-11-27T19:45:00Z,Stade Brestois 29,Paris FC
 Ligue 1,2026-11-28T16:15:00Z,Angers SCO,RC Lens
 Ligue 1,2026-11-28T19:45:00Z,Havre Athletic Club,RC Strasbourg Alsace
@@ -1222,10 +1206,6 @@ Ligue 1,2027-05-28T22:00:00Z,Paris Saint-Germain,Toulouse FC
 Ligue 1,2027-05-28T22:00:00Z,RC Strasbourg Alsace,OGC Nice
 Ligue 1,2027-05-28T22:00:00Z,Stade Brestois 29,RC Lens
 Ligue 1,2027-05-28T22:00:00Z,Stade Rennais FC,Angers SCO
-Eredivisie,2026-11-22T11:15:00Z,FC Twente,Willem II
-Eredivisie,2026-11-22T13:30:00Z,Ajax,ADO Den Haag
-Eredivisie,2026-11-22T13:30:00Z,Sparta Rotterdam,AZ
-Eredivisie,2026-11-22T15:45:00Z,Go Ahead Eagles,Fortuna Sittard
 Eredivisie,2026-11-27T19:00:00Z,FC Groningen,Willem II
 Eredivisie,2026-11-28T15:30:00Z,Excelsior Rotterdam,Telstar
 Eredivisie,2026-11-28T17:45:00Z,PSV,Go Ahead Eagles
@@ -1623,7 +1603,6 @@ Primeira Liga,2027-05-14T23:00:00Z,Moreirense FC,Rio Ave FC
 Primeira Liga,2027-05-14T23:00:00Z,SL Benfica,FC Arouca
 Primeira Liga,2027-05-14T23:00:00Z,Santa Clara,Sporting CP
 Primeira Liga,2027-05-14T23:00:00Z,Vitória SC,FC Famalicão
-English Championship,2026-11-22T12:00:00Z,Burnley,Blackburn Rovers
 English Championship,2026-11-24T19:45:00Z,Bristol City,Wrexham
 English Championship,2026-11-24T19:45:00Z,Cardiff City,Preston North End
 English Championship,2026-11-24T19:45:00Z,Charlton Athletic,Lincoln City
@@ -1984,3 +1963,1104 @@ English Championship,2027-05-01T11:30:00Z,Swansea City,Middlesbrough
 English Championship,2027-05-01T11:30:00Z,West Bromwich Albion,Bolton Wanderers
 English Championship,2027-05-01T11:30:00Z,West Ham United,Portsmouth
 English Championship,2027-05-01T11:30:00Z,Wrexham,Bristol City
+UEFA Champions League,2026-11-24T17:45:00Z,Bodø/Glimt,LASK
+UEFA Champions League,2026-11-24T17:45:00Z,Galatasaray,Aston Villa
+UEFA Champions League,2026-11-24T20:00:00Z,Arsenal,B. Dortmund
+UEFA Champions League,2026-11-24T20:00:00Z,Como,AEK Athens
+UEFA Champions League,2026-11-24T20:00:00Z,Feyenoord,Porto
+UEFA Champions League,2026-11-24T20:00:00Z,Leipzig,Lens
+UEFA Champions League,2026-11-24T20:00:00Z,Man City,Napoli
+UEFA Champions League,2026-11-24T20:00:00Z,Real Madrid,PSV
+UEFA Champions League,2026-11-24T20:00:00Z,S. Bratislava,Real Betis
+UEFA Champions League,2026-11-25T17:45:00Z,Sabah,Barcelona
+UEFA Champions League,2026-11-25T17:45:00Z,Slavia Praha,Villarreal
+UEFA Champions League,2026-11-25T20:00:00Z,Atleti,Viking
+UEFA Champions League,2026-11-25T20:00:00Z,Club Brugge,Liverpool
+UEFA Champions League,2026-11-25T20:00:00Z,Inter,Stuttgart
+UEFA Champions League,2026-11-25T20:00:00Z,Lille,Bayern München
+UEFA Champions League,2026-11-25T20:00:00Z,Paris,Roma
+UEFA Champions League,2026-11-25T20:00:00Z,Shakhtar,Fenerbahçe
+UEFA Champions League,2026-11-25T20:00:00Z,Sporting CP,Man Utd
+UEFA Champions League,2026-12-08T17:45:00Z,Viking,Feyenoord
+UEFA Champions League,2026-12-08T17:45:00Z,Villarreal,Sabah
+UEFA Champions League,2026-12-08T20:00:00Z,AEK Athens,Galatasaray
+UEFA Champions League,2026-12-08T20:00:00Z,Aston Villa,Paris
+UEFA Champions League,2026-12-08T20:00:00Z,Barcelona,Man City
+UEFA Champions League,2026-12-08T20:00:00Z,Bayern München,Slavia Praha
+UEFA Champions League,2026-12-08T20:00:00Z,Man Utd,Leipzig
+UEFA Champions League,2026-12-08T20:00:00Z,Napoli,Club Brugge
+UEFA Champions League,2026-12-08T20:00:00Z,Roma,Sporting CP
+UEFA Champions League,2026-12-09T17:45:00Z,Real Betis,Como
+UEFA Champions League,2026-12-09T17:45:00Z,S. Bratislava,Shakhtar
+UEFA Champions League,2026-12-09T20:00:00Z,Arsenal,Real Madrid
+UEFA Champions League,2026-12-09T20:00:00Z,B. Dortmund,Inter
+UEFA Champions League,2026-12-09T20:00:00Z,LASK,Fenerbahçe
+UEFA Champions League,2026-12-09T20:00:00Z,Lens,Bodø/Glimt
+UEFA Champions League,2026-12-09T20:00:00Z,Liverpool,Porto
+UEFA Champions League,2026-12-09T20:00:00Z,PSV,Atleti
+UEFA Champions League,2026-12-09T20:00:00Z,Stuttgart,Lille
+UEFA Champions League,2027-01-19T17:45:00Z,Bodø/Glimt,Atleti
+UEFA Champions League,2027-01-19T17:45:00Z,Galatasaray,Feyenoord
+UEFA Champions League,2027-01-19T20:00:00Z,AEK Athens,Roma
+UEFA Champions League,2027-01-19T20:00:00Z,Aston Villa,B. Dortmund
+UEFA Champions League,2027-01-19T20:00:00Z,Inter,Liverpool
+UEFA Champions League,2027-01-19T20:00:00Z,Lille,S. Bratislava
+UEFA Champions League,2027-01-19T20:00:00Z,Porto,Slavia Praha
+UEFA Champions League,2027-01-19T20:00:00Z,Real Madrid,LASK
+UEFA Champions League,2027-01-19T20:00:00Z,Stuttgart,Club Brugge
+UEFA Champions League,2027-01-20T17:45:00Z,Fenerbahçe,Villarreal
+UEFA Champions League,2027-01-20T17:45:00Z,Sabah,Napoli
+UEFA Champions League,2027-01-20T20:00:00Z,Como,Paris
+UEFA Champions League,2027-01-20T20:00:00Z,Leipzig,Shakhtar
+UEFA Champions League,2027-01-20T20:00:00Z,Lens,Man City
+UEFA Champions League,2027-01-20T20:00:00Z,Man Utd,Bayern München
+UEFA Champions League,2027-01-20T20:00:00Z,Real Betis,Arsenal
+UEFA Champions League,2027-01-20T20:00:00Z,Sporting CP,Barcelona
+UEFA Champions League,2027-01-20T20:00:00Z,Viking,PSV
+UEFA Champions League,2027-01-27T20:00:00Z,Arsenal,Sabah
+UEFA Champions League,2027-01-27T20:00:00Z,Atleti,Fenerbahçe
+UEFA Champions League,2027-01-27T20:00:00Z,B. Dortmund,AEK Athens
+UEFA Champions League,2027-01-27T20:00:00Z,Barcelona,Como
+UEFA Champions League,2027-01-27T20:00:00Z,Bayern München,Real Betis
+UEFA Champions League,2027-01-27T20:00:00Z,Club Brugge,Bodø/Glimt
+UEFA Champions League,2027-01-27T20:00:00Z,Feyenoord,Leipzig
+UEFA Champions League,2027-01-27T20:00:00Z,LASK,Porto
+UEFA Champions League,2027-01-27T20:00:00Z,Liverpool,Lens
+UEFA Champions League,2027-01-27T20:00:00Z,Man City,Sporting CP
+UEFA Champions League,2027-01-27T20:00:00Z,Napoli,Viking
+UEFA Champions League,2027-01-27T20:00:00Z,PSV,Stuttgart
+UEFA Champions League,2027-01-27T20:00:00Z,Paris,Galatasaray
+UEFA Champions League,2027-01-27T20:00:00Z,Roma,Lille
+UEFA Champions League,2027-01-27T20:00:00Z,S. Bratislava,Inter
+UEFA Champions League,2027-01-27T20:00:00Z,Shakhtar,Real Madrid
+UEFA Champions League,2027-01-27T20:00:00Z,Slavia Praha,Aston Villa
+UEFA Champions League,2027-01-27T20:00:00Z,Villarreal,Man Utd
+UEFA Europa League,2026-11-26T17:45:00Z,Besiktas,H. Beer-Sheva
+UEFA Europa League,2026-11-26T17:45:00Z,Celta,Bournemouth
+UEFA Europa League,2026-11-26T17:45:00Z,GNK Dinamo,Leverkusen
+UEFA Europa League,2026-11-26T17:45:00Z,Marseille,Levski Sofia
+UEFA Europa League,2026-11-26T17:45:00Z,Olympiacos,Milan
+UEFA Europa League,2026-11-26T17:45:00Z,Salzburg,Ararat-Armenia
+UEFA Europa League,2026-11-26T17:45:00Z,Union SG,Lech Poznan
+UEFA Europa League,2026-11-26T17:45:00Z,Viktoria Plzen,Benfica
+UEFA Europa League,2026-11-26T20:00:00Z,Crystal Palace,Real Sociedad
+UEFA Europa League,2026-11-26T20:00:00Z,Ferencváros,Celje
+UEFA Europa League,2026-11-26T20:00:00Z,Hoffenheim,Sturm Graz
+UEFA Europa League,2026-11-26T20:00:00Z,Juventus,Omonia
+UEFA Europa League,2026-11-26T20:00:00Z,Lyon,Lillestrøm
+UEFA Europa League,2026-11-26T20:00:00Z,N.E.C.,Rennes
+UEFA Europa League,2026-11-26T20:00:00Z,OFI Crete,Anderlecht
+UEFA Europa League,2026-11-26T20:00:00Z,Sparta Praha,AZ Alkmaar
+UEFA Europa League,2026-11-26T20:00:00Z,Sunderland,Jagiellonia
+UEFA Europa League,2026-11-26T20:00:00Z,Torreense,Celtic
+UEFA Europa League,2026-12-10T17:45:00Z,AZ Alkmaar,Sturm Graz
+UEFA Europa League,2026-12-10T17:45:00Z,Anderlecht,Hoffenheim
+UEFA Europa League,2026-12-10T17:45:00Z,Ararat-Armenia,N.E.C.
+UEFA Europa League,2026-12-10T17:45:00Z,Celje,Olympiacos
+UEFA Europa League,2026-12-10T17:45:00Z,H. Beer-Sheva,Juventus
+UEFA Europa League,2026-12-10T17:45:00Z,Jagiellonia,Crystal Palace
+UEFA Europa League,2026-12-10T17:45:00Z,Marseille,Celta
+UEFA Europa League,2026-12-10T17:45:00Z,Omonia,Celtic
+UEFA Europa League,2026-12-10T17:45:00Z,Rennes,GNK Dinamo
+UEFA Europa League,2026-12-10T20:00:00Z,Benfica,OFI Crete
+UEFA Europa League,2026-12-10T20:00:00Z,Bournemouth,Viktoria Plzen
+UEFA Europa League,2026-12-10T20:00:00Z,Lech Poznan,Ferencváros
+UEFA Europa League,2026-12-10T20:00:00Z,Leverkusen,Besiktas
+UEFA Europa League,2026-12-10T20:00:00Z,Levski Sofia,Lillestrøm
+UEFA Europa League,2026-12-10T20:00:00Z,Lyon,Union SG
+UEFA Europa League,2026-12-10T20:00:00Z,Milan,Sunderland
+UEFA Europa League,2026-12-10T20:00:00Z,Real Sociedad,Torreense
+UEFA Europa League,2026-12-10T20:00:00Z,Salzburg,Sparta Praha
+UEFA Europa League,2027-01-21T17:45:00Z,Ararat-Armenia,Celje
+UEFA Europa League,2027-01-21T17:45:00Z,Besiktas,Union SG
+UEFA Europa League,2027-01-21T17:45:00Z,Ferencváros,Juventus
+UEFA Europa League,2027-01-21T17:45:00Z,Jagiellonia,Lyon
+UEFA Europa League,2027-01-21T17:45:00Z,Lillestrøm,Bournemouth
+UEFA Europa League,2027-01-21T17:45:00Z,N.E.C.,Benfica
+UEFA Europa League,2027-01-21T17:45:00Z,Olympiacos,Hoffenheim
+UEFA Europa League,2027-01-21T17:45:00Z,Real Sociedad,Viktoria Plzen
+UEFA Europa League,2027-01-21T17:45:00Z,Sturm Graz,OFI Crete
+UEFA Europa League,2027-01-21T20:00:00Z,AZ Alkmaar,GNK Dinamo
+UEFA Europa League,2027-01-21T20:00:00Z,Anderlecht,Sunderland
+UEFA Europa League,2027-01-21T20:00:00Z,Celtic,Marseille
+UEFA Europa League,2027-01-21T20:00:00Z,Crystal Palace,Sparta Praha
+UEFA Europa League,2027-01-21T20:00:00Z,H. Beer-Sheva,Celta
+UEFA Europa League,2027-01-21T20:00:00Z,Lech Poznan,Torreense
+UEFA Europa League,2027-01-21T20:00:00Z,Leverkusen,Salzburg
+UEFA Europa League,2027-01-21T20:00:00Z,Levski Sofia,Milan
+UEFA Europa League,2027-01-21T20:00:00Z,Rennes,Omonia
+UEFA Europa League,2027-01-28T20:00:00Z,Benfica,AZ Alkmaar
+UEFA Europa League,2027-01-28T20:00:00Z,Bournemouth,H. Beer-Sheva
+UEFA Europa League,2027-01-28T20:00:00Z,Celje,N.E.C.
+UEFA Europa League,2027-01-28T20:00:00Z,Celta,Lillestrøm
+UEFA Europa League,2027-01-28T20:00:00Z,GNK Dinamo,Sturm Graz
+UEFA Europa League,2027-01-28T20:00:00Z,Hoffenheim,Ferencváros
+UEFA Europa League,2027-01-28T20:00:00Z,Juventus,Real Sociedad
+UEFA Europa League,2027-01-28T20:00:00Z,Lyon,Leverkusen
+UEFA Europa League,2027-01-28T20:00:00Z,Marseille,Anderlecht
+UEFA Europa League,2027-01-28T20:00:00Z,Milan,Ararat-Armenia
+UEFA Europa League,2027-01-28T20:00:00Z,OFI Crete,Lech Poznan
+UEFA Europa League,2027-01-28T20:00:00Z,Omonia,Besiktas
+UEFA Europa League,2027-01-28T20:00:00Z,Salzburg,Crystal Palace
+UEFA Europa League,2027-01-28T20:00:00Z,Sparta Praha,Rennes
+UEFA Europa League,2027-01-28T20:00:00Z,Sunderland,Levski Sofia
+UEFA Europa League,2027-01-28T20:00:00Z,Torreense,Olympiacos
+UEFA Europa League,2027-01-28T20:00:00Z,Union SG,Celtic
+UEFA Europa League,2027-01-28T20:00:00Z,Viktoria Plzen,Jagiellonia
+UEFA Conference League,2026-11-26T15:30:00Z,Kairat Almaty,Mjällby
+UEFA Conference League,2026-11-26T17:45:00Z,Ajax,Thun
+UEFA Conference League,2026-11-26T17:45:00Z,Brann,Aarhus
+UEFA Conference League,2026-11-26T17:45:00Z,Brighton,U. Craiova
+UEFA Conference League,2026-11-26T17:45:00Z,Egnatia,L. Red Imps
+UEFA Conference League,2026-11-26T17:45:00Z,Hearts,Monaco
+UEFA Conference League,2026-11-26T17:45:00Z,Iberia Tbilisi,Getafe
+UEFA Conference League,2026-11-26T17:45:00Z,Jablonec,Lugano
+UEFA Conference League,2026-11-26T17:45:00Z,Kauno Žalgiris,Riga
+UEFA Conference League,2026-11-26T17:45:00Z,Pafos,Midtjylland
+UEFA Conference League,2026-11-26T20:00:00Z,Borac,Atalanta
+UEFA Conference League,2026-11-26T20:00:00Z,Braga,KuPS Kuopio
+UEFA Conference League,2026-11-26T20:00:00Z,CSKA Sofia,Trabzonspor
+UEFA Conference League,2026-11-26T20:00:00Z,Freiburg,Twente
+UEFA Conference League,2026-11-26T20:00:00Z,Gent,Crvena Zvezda
+UEFA Conference League,2026-11-26T20:00:00Z,Hajduk Split,Sint-Truidense
+UEFA Conference League,2026-11-26T20:00:00Z,Inter Escaldes,Copenhagen
+UEFA Conference League,2026-11-26T20:00:00Z,Nordsjælland,Panathinaikos
+UEFA Conference League,2026-12-10T15:30:00Z,Kairat Almaty,U. Craiova
+UEFA Conference League,2026-12-10T17:45:00Z,Brann,Braga
+UEFA Conference League,2026-12-10T17:45:00Z,Copenhagen,Lugano
+UEFA Conference League,2026-12-10T17:45:00Z,Freiburg,Panathinaikos
+UEFA Conference League,2026-12-10T17:45:00Z,Getafe,Inter Escaldes
+UEFA Conference League,2026-12-10T17:45:00Z,Iberia Tbilisi,Crvena Zvezda
+UEFA Conference League,2026-12-10T17:45:00Z,KuPS Kuopio,CSKA Sofia
+UEFA Conference League,2026-12-10T17:45:00Z,L. Red Imps,Midtjylland
+UEFA Conference League,2026-12-10T17:45:00Z,Riga,Atalanta
+UEFA Conference League,2026-12-10T17:45:00Z,Trabzonspor,Jablonec
+UEFA Conference League,2026-12-10T20:00:00Z,Aarhus,Twente
+UEFA Conference League,2026-12-10T20:00:00Z,Brighton,Monaco
+UEFA Conference League,2026-12-10T20:00:00Z,Egnatia,Kauno Žalgiris
+UEFA Conference League,2026-12-10T20:00:00Z,Hajduk Split,Nordsjælland
+UEFA Conference League,2026-12-10T20:00:00Z,Hearts,Borac
+UEFA Conference League,2026-12-10T20:00:00Z,Mjällby,Pafos
+UEFA Conference League,2026-12-10T20:00:00Z,Sint-Truidense,Ajax
+UEFA Conference League,2026-12-10T20:00:00Z,Thun,Gent
+UEFA Conference League,2026-12-17T20:00:00Z,Ajax,Getafe
+UEFA Conference League,2026-12-17T20:00:00Z,Atalanta,Mjällby
+UEFA Conference League,2026-12-17T20:00:00Z,Borac,Riga
+UEFA Conference League,2026-12-17T20:00:00Z,Braga,Egnatia
+UEFA Conference League,2026-12-17T20:00:00Z,CSKA Sofia,Thun
+UEFA Conference League,2026-12-17T20:00:00Z,Crvena Zvezda,Trabzonspor
+UEFA Conference League,2026-12-17T20:00:00Z,Gent,Brann
+UEFA Conference League,2026-12-17T20:00:00Z,Inter Escaldes,Aarhus
+UEFA Conference League,2026-12-17T20:00:00Z,Jablonec,Iberia Tbilisi
+UEFA Conference League,2026-12-17T20:00:00Z,Kauno Žalgiris,Freiburg
+UEFA Conference League,2026-12-17T20:00:00Z,Lugano,Sint-Truidense
+UEFA Conference League,2026-12-17T20:00:00Z,Midtjylland,Hajduk Split
+UEFA Conference League,2026-12-17T20:00:00Z,Monaco,L. Red Imps
+UEFA Conference League,2026-12-17T20:00:00Z,Nordsjælland,KuPS Kuopio
+UEFA Conference League,2026-12-17T20:00:00Z,Pafos,Hearts
+UEFA Conference League,2026-12-17T20:00:00Z,Panathinaikos,Brighton
+UEFA Conference League,2026-12-17T20:00:00Z,Twente,Kairat Almaty
+UEFA Conference League,2026-12-17T20:00:00Z,U. Craiova,Copenhagen
+Belgian Pro League,2026-11-27T19:45:00Z,OH Leuven,KV Kortrijk
+Belgian Pro League,2026-11-28T15:00:00Z,KVC Westerlo,RAAL La Louvière
+Belgian Pro League,2026-11-28T17:15:00Z,Cercle Brugge KSV,KV Mechelen
+Belgian Pro League,2026-11-28T19:45:00Z,Lommel SK,Zulte-Waregem
+Belgian Pro League,2026-11-28T19:45:00Z,Royal Charleroi SC,Waasland-Beveren
+Belgian Pro League,2026-11-29T12:30:00Z,Sint-Truidense,Racing Genk
+Belgian Pro League,2026-11-29T15:00:00Z,Antwerp,Anderlecht
+Belgian Pro League,2026-11-29T17:30:00Z,Standard Liege,Club Brugge
+Belgian Pro League,2026-11-29T18:15:00Z,Union St.-Gilloise,KAA Gent
+Belgian Pro League,2026-12-11T19:45:00Z,Racing Genk,OH Leuven
+Belgian Pro League,2026-12-12T15:00:00Z,KV Kortrijk,Lommel SK
+Belgian Pro League,2026-12-12T17:15:00Z,RAAL La Louvière,Antwerp
+Belgian Pro League,2026-12-12T19:45:00Z,Waasland-Beveren,Cercle Brugge KSV
+Belgian Pro League,2026-12-12T19:45:00Z,Zulte-Waregem,Standard Liege
+Belgian Pro League,2026-12-13T12:30:00Z,Anderlecht,Royal Charleroi SC
+Belgian Pro League,2026-12-13T15:00:00Z,Club Brugge,KVC Westerlo
+Belgian Pro League,2026-12-13T17:30:00Z,KV Mechelen,Union St.-Gilloise
+Belgian Pro League,2026-12-13T18:15:00Z,KAA Gent,Sint-Truidense
+Belgian Pro League,2026-12-18T19:45:00Z,Antwerp,OH Leuven
+Belgian Pro League,2026-12-19T15:00:00Z,Waasland-Beveren,KV Mechelen
+Belgian Pro League,2026-12-19T17:15:00Z,Cercle Brugge KSV,Zulte-Waregem
+Belgian Pro League,2026-12-19T19:45:00Z,Lommel SK,RAAL La Louvière
+Belgian Pro League,2026-12-19T19:45:00Z,Royal Charleroi SC,Racing Genk
+Belgian Pro League,2026-12-20T12:30:00Z,Standard Liege,Anderlecht
+Belgian Pro League,2026-12-20T15:00:00Z,Sint-Truidense,KV Kortrijk
+Belgian Pro League,2026-12-20T17:30:00Z,Union St.-Gilloise,Club Brugge
+Belgian Pro League,2026-12-20T18:15:00Z,KVC Westerlo,KAA Gent
+Belgian Pro League,2026-12-26T12:30:00Z,Club Brugge,Royal Charleroi SC
+Belgian Pro League,2026-12-26T15:00:00Z,KV Kortrijk,Cercle Brugge KSV
+Belgian Pro League,2026-12-26T17:15:00Z,OH Leuven,KVC Westerlo
+Belgian Pro League,2026-12-26T19:45:00Z,RAAL La Louvière,Waasland-Beveren
+Belgian Pro League,2026-12-26T19:45:00Z,Standard Liege,Union St.-Gilloise
+Belgian Pro League,2026-12-27T12:30:00Z,Anderlecht,Sint-Truidense
+Belgian Pro League,2026-12-27T15:00:00Z,Racing Genk,Lommel SK
+Belgian Pro League,2026-12-27T17:30:00Z,KAA Gent,Antwerp
+Belgian Pro League,2026-12-27T18:15:00Z,KV Mechelen,Zulte-Waregem
+Belgian Pro League,2027-01-15T19:45:00Z,Waasland-Beveren,Club Brugge
+Belgian Pro League,2027-01-16T15:00:00Z,Lommel SK,Anderlecht
+Belgian Pro League,2027-01-16T17:15:00Z,Union St.-Gilloise,RAAL La Louvière
+Belgian Pro League,2027-01-16T19:45:00Z,Antwerp,KV Mechelen
+Belgian Pro League,2027-01-16T19:45:00Z,KVC Westerlo,KV Kortrijk
+Belgian Pro League,2027-01-17T12:30:00Z,Sint-Truidense,Standard Liege
+Belgian Pro League,2027-01-17T15:00:00Z,Cercle Brugge KSV,Racing Genk
+Belgian Pro League,2027-01-17T17:30:00Z,Royal Charleroi SC,KAA Gent
+Belgian Pro League,2027-01-17T18:15:00Z,Zulte-Waregem,OH Leuven
+Belgian Pro League,2027-01-23T20:00:00Z,Club Brugge,RAAL La Louvière
+Belgian Pro League,2027-01-23T20:00:00Z,KAA Gent,Cercle Brugge KSV
+Belgian Pro League,2027-01-23T20:00:00Z,KV Kortrijk,Anderlecht
+Belgian Pro League,2027-01-23T20:00:00Z,KV Mechelen,Lommel SK
+Belgian Pro League,2027-01-23T20:00:00Z,OH Leuven,Sint-Truidense
+Belgian Pro League,2027-01-23T20:00:00Z,Racing Genk,Zulte-Waregem
+Belgian Pro League,2027-01-23T20:00:00Z,Royal Charleroi SC,Antwerp
+Belgian Pro League,2027-01-23T20:00:00Z,Standard Liege,KVC Westerlo
+Belgian Pro League,2027-01-23T20:00:00Z,Union St.-Gilloise,Waasland-Beveren
+Belgian Pro League,2027-01-30T20:00:00Z,Anderlecht,KAA Gent
+Belgian Pro League,2027-01-30T20:00:00Z,Antwerp,Club Brugge
+Belgian Pro League,2027-01-30T20:00:00Z,Cercle Brugge KSV,Standard Liege
+Belgian Pro League,2027-01-30T20:00:00Z,KVC Westerlo,Racing Genk
+Belgian Pro League,2027-01-30T20:00:00Z,Lommel SK,OH Leuven
+Belgian Pro League,2027-01-30T20:00:00Z,RAAL La Louvière,Royal Charleroi SC
+Belgian Pro League,2027-01-30T20:00:00Z,Sint-Truidense,KV Mechelen
+Belgian Pro League,2027-01-30T20:00:00Z,Waasland-Beveren,KV Kortrijk
+Belgian Pro League,2027-01-30T20:00:00Z,Zulte-Waregem,Union St.-Gilloise
+Belgian Pro League,2027-02-06T20:00:00Z,Club Brugge,Standard Liege
+Belgian Pro League,2027-02-06T20:00:00Z,KAA Gent,Waasland-Beveren
+Belgian Pro League,2027-02-06T20:00:00Z,KV Kortrijk,RAAL La Louvière
+Belgian Pro League,2027-02-06T20:00:00Z,KV Mechelen,Cercle Brugge KSV
+Belgian Pro League,2027-02-06T20:00:00Z,OH Leuven,Anderlecht
+Belgian Pro League,2027-02-06T20:00:00Z,Racing Genk,Antwerp
+Belgian Pro League,2027-02-06T20:00:00Z,Royal Charleroi SC,KVC Westerlo
+Belgian Pro League,2027-02-06T20:00:00Z,Union St.-Gilloise,Sint-Truidense
+Belgian Pro League,2027-02-06T20:00:00Z,Zulte-Waregem,Lommel SK
+Belgian Pro League,2027-02-13T20:00:00Z,Anderlecht,KV Mechelen
+Belgian Pro League,2027-02-13T20:00:00Z,Antwerp,KV Kortrijk
+Belgian Pro League,2027-02-13T20:00:00Z,Cercle Brugge KSV,Royal Charleroi SC
+Belgian Pro League,2027-02-13T20:00:00Z,KVC Westerlo,Club Brugge
+Belgian Pro League,2027-02-13T20:00:00Z,Lommel SK,Union St.-Gilloise
+Belgian Pro League,2027-02-13T20:00:00Z,RAAL La Louvière,OH Leuven
+Belgian Pro League,2027-02-13T20:00:00Z,Sint-Truidense,KAA Gent
+Belgian Pro League,2027-02-13T20:00:00Z,Standard Liege,Zulte-Waregem
+Belgian Pro League,2027-02-13T20:00:00Z,Waasland-Beveren,Racing Genk
+Belgian Pro League,2027-02-20T20:00:00Z,Club Brugge,Lommel SK
+Belgian Pro League,2027-02-20T20:00:00Z,KAA Gent,RAAL La Louvière
+Belgian Pro League,2027-02-20T20:00:00Z,KV Kortrijk,Racing Genk
+Belgian Pro League,2027-02-20T20:00:00Z,KV Mechelen,Waasland-Beveren
+Belgian Pro League,2027-02-20T20:00:00Z,OH Leuven,Antwerp
+Belgian Pro League,2027-02-20T20:00:00Z,Royal Charleroi SC,Standard Liege
+Belgian Pro League,2027-02-20T20:00:00Z,Sint-Truidense,Cercle Brugge KSV
+Belgian Pro League,2027-02-20T20:00:00Z,Union St.-Gilloise,KVC Westerlo
+Belgian Pro League,2027-02-20T20:00:00Z,Zulte-Waregem,Anderlecht
+Belgian Pro League,2027-02-27T20:00:00Z,Anderlecht,Club Brugge
+Belgian Pro League,2027-02-27T20:00:00Z,Antwerp,Zulte-Waregem
+Belgian Pro League,2027-02-27T20:00:00Z,Cercle Brugge KSV,OH Leuven
+Belgian Pro League,2027-02-27T20:00:00Z,KVC Westerlo,KV Mechelen
+Belgian Pro League,2027-02-27T20:00:00Z,Lommel SK,KV Kortrijk
+Belgian Pro League,2027-02-27T20:00:00Z,RAAL La Louvière,Sint-Truidense
+Belgian Pro League,2027-02-27T20:00:00Z,Racing Genk,Union St.-Gilloise
+Belgian Pro League,2027-02-27T20:00:00Z,Standard Liege,KAA Gent
+Belgian Pro League,2027-02-27T20:00:00Z,Waasland-Beveren,Royal Charleroi SC
+Belgian Pro League,2027-03-06T20:00:00Z,Club Brugge,Waasland-Beveren
+Belgian Pro League,2027-03-06T20:00:00Z,KAA Gent,Royal Charleroi SC
+Belgian Pro League,2027-03-06T20:00:00Z,KV Mechelen,KV Kortrijk
+Belgian Pro League,2027-03-06T20:00:00Z,KVC Westerlo,Anderlecht
+Belgian Pro League,2027-03-06T20:00:00Z,OH Leuven,Racing Genk
+Belgian Pro League,2027-03-06T20:00:00Z,RAAL La Louvière,Lommel SK
+Belgian Pro League,2027-03-06T20:00:00Z,Sint-Truidense,Antwerp
+Belgian Pro League,2027-03-06T20:00:00Z,Union St.-Gilloise,Standard Liege
+Belgian Pro League,2027-03-06T20:00:00Z,Zulte-Waregem,Cercle Brugge KSV
+Belgian Pro League,2027-03-13T20:00:00Z,Anderlecht,Lommel SK
+Belgian Pro League,2027-03-13T20:00:00Z,Antwerp,RAAL La Louvière
+Belgian Pro League,2027-03-13T20:00:00Z,Cercle Brugge KSV,Union St.-Gilloise
+Belgian Pro League,2027-03-13T20:00:00Z,KAA Gent,Zulte-Waregem
+Belgian Pro League,2027-03-13T20:00:00Z,KV Kortrijk,OH Leuven
+Belgian Pro League,2027-03-13T20:00:00Z,Racing Genk,Sint-Truidense
+Belgian Pro League,2027-03-13T20:00:00Z,Royal Charleroi SC,Club Brugge
+Belgian Pro League,2027-03-13T20:00:00Z,Standard Liege,KV Mechelen
+Belgian Pro League,2027-03-13T20:00:00Z,Waasland-Beveren,KVC Westerlo
+Belgian Pro League,2027-03-20T18:00:00Z,Anderlecht,Standard Liege
+Belgian Pro League,2027-03-20T18:00:00Z,Club Brugge,KAA Gent
+Belgian Pro League,2027-03-20T18:00:00Z,KV Mechelen,Royal Charleroi SC
+Belgian Pro League,2027-03-20T18:00:00Z,KVC Westerlo,Cercle Brugge KSV
+Belgian Pro League,2027-03-20T18:00:00Z,Lommel SK,Antwerp
+Belgian Pro League,2027-03-20T18:00:00Z,OH Leuven,Union St.-Gilloise
+Belgian Pro League,2027-03-20T18:00:00Z,RAAL La Louvière,Racing Genk
+Belgian Pro League,2027-03-20T18:00:00Z,Sint-Truidense,Waasland-Beveren
+Belgian Pro League,2027-03-20T18:00:00Z,Zulte-Waregem,KV Kortrijk
+Belgian Pro League,2027-04-03T18:00:00Z,Cercle Brugge KSV,RAAL La Louvière
+Belgian Pro League,2027-04-03T18:00:00Z,KAA Gent,KVC Westerlo
+Belgian Pro League,2027-04-03T18:00:00Z,KV Kortrijk,Club Brugge
+Belgian Pro League,2027-04-03T18:00:00Z,OH Leuven,Zulte-Waregem
+Belgian Pro League,2027-04-03T18:00:00Z,Racing Genk,Anderlecht
+Belgian Pro League,2027-04-03T18:00:00Z,Royal Charleroi SC,Lommel SK
+Belgian Pro League,2027-04-03T18:00:00Z,Standard Liege,Sint-Truidense
+Belgian Pro League,2027-04-03T18:00:00Z,Union St.-Gilloise,KV Mechelen
+Belgian Pro League,2027-04-03T18:00:00Z,Waasland-Beveren,Antwerp
+Belgian Pro League,2027-04-10T18:00:00Z,Anderlecht,Waasland-Beveren
+Belgian Pro League,2027-04-10T18:00:00Z,Antwerp,Cercle Brugge KSV
+Belgian Pro League,2027-04-10T18:00:00Z,Club Brugge,OH Leuven
+Belgian Pro League,2027-04-10T18:00:00Z,KV Kortrijk,Standard Liege
+Belgian Pro League,2027-04-10T18:00:00Z,KV Mechelen,KAA Gent
+Belgian Pro League,2027-04-10T18:00:00Z,Lommel SK,Racing Genk
+Belgian Pro League,2027-04-10T18:00:00Z,RAAL La Louvière,Union St.-Gilloise
+Belgian Pro League,2027-04-10T18:00:00Z,Sint-Truidense,Royal Charleroi SC
+Belgian Pro League,2027-04-10T18:00:00Z,Zulte-Waregem,KVC Westerlo
+Belgian Pro League,2027-04-17T18:00:00Z,Cercle Brugge KSV,KV Kortrijk
+Belgian Pro League,2027-04-17T18:00:00Z,KAA Gent,Lommel SK
+Belgian Pro League,2027-04-17T18:00:00Z,KV Mechelen,RAAL La Louvière
+Belgian Pro League,2027-04-17T18:00:00Z,KVC Westerlo,Sint-Truidense
+Belgian Pro League,2027-04-17T18:00:00Z,Racing Genk,Club Brugge
+Belgian Pro League,2027-04-17T18:00:00Z,Royal Charleroi SC,Anderlecht
+Belgian Pro League,2027-04-17T18:00:00Z,Standard Liege,OH Leuven
+Belgian Pro League,2027-04-17T18:00:00Z,Union St.-Gilloise,Antwerp
+Belgian Pro League,2027-04-17T18:00:00Z,Waasland-Beveren,Zulte-Waregem
+Belgian Pro League,2027-04-24T18:00:00Z,Anderlecht,Cercle Brugge KSV
+Belgian Pro League,2027-04-24T18:00:00Z,Antwerp,KAA Gent
+Belgian Pro League,2027-04-24T18:00:00Z,Club Brugge,Union St.-Gilloise
+Belgian Pro League,2027-04-24T18:00:00Z,KV Kortrijk,KVC Westerlo
+Belgian Pro League,2027-04-24T18:00:00Z,Lommel SK,Sint-Truidense
+Belgian Pro League,2027-04-24T18:00:00Z,OH Leuven,Waasland-Beveren
+Belgian Pro League,2027-04-24T18:00:00Z,RAAL La Louvière,Standard Liege
+Belgian Pro League,2027-04-24T18:00:00Z,Racing Genk,Royal Charleroi SC
+Belgian Pro League,2027-04-24T18:00:00Z,Zulte-Waregem,KV Mechelen
+Belgian Pro League,2027-05-01T18:00:00Z,Cercle Brugge KSV,Club Brugge
+Belgian Pro League,2027-05-01T18:00:00Z,KAA Gent,Racing Genk
+Belgian Pro League,2027-05-01T18:00:00Z,KV Mechelen,Antwerp
+Belgian Pro League,2027-05-01T18:00:00Z,KVC Westerlo,OH Leuven
+Belgian Pro League,2027-05-01T18:00:00Z,Royal Charleroi SC,Zulte-Waregem
+Belgian Pro League,2027-05-01T18:00:00Z,Sint-Truidense,Anderlecht
+Belgian Pro League,2027-05-01T18:00:00Z,Standard Liege,Lommel SK
+Belgian Pro League,2027-05-01T18:00:00Z,Union St.-Gilloise,KV Kortrijk
+Belgian Pro League,2027-05-01T18:00:00Z,Waasland-Beveren,RAAL La Louvière
+Belgian Pro League,2027-05-08T18:00:00Z,Anderlecht,Union St.-Gilloise
+Belgian Pro League,2027-05-08T18:00:00Z,Antwerp,Standard Liege
+Belgian Pro League,2027-05-08T18:00:00Z,Club Brugge,KV Mechelen
+Belgian Pro League,2027-05-08T18:00:00Z,KV Kortrijk,KAA Gent
+Belgian Pro League,2027-05-08T18:00:00Z,Lommel SK,Waasland-Beveren
+Belgian Pro League,2027-05-08T18:00:00Z,OH Leuven,Royal Charleroi SC
+Belgian Pro League,2027-05-08T18:00:00Z,RAAL La Louvière,KVC Westerlo
+Belgian Pro League,2027-05-08T18:00:00Z,Racing Genk,Cercle Brugge KSV
+Belgian Pro League,2027-05-08T18:00:00Z,Zulte-Waregem,Sint-Truidense
+Belgian Pro League,2027-05-15T18:00:00Z,Anderlecht,Antwerp
+Belgian Pro League,2027-05-15T18:00:00Z,Cercle Brugge KSV,Waasland-Beveren
+Belgian Pro League,2027-05-15T18:00:00Z,KAA Gent,Union St.-Gilloise
+Belgian Pro League,2027-05-15T18:00:00Z,KV Mechelen,OH Leuven
+Belgian Pro League,2027-05-15T18:00:00Z,KVC Westerlo,Lommel SK
+Belgian Pro League,2027-05-15T18:00:00Z,Royal Charleroi SC,KV Kortrijk
+Belgian Pro League,2027-05-15T18:00:00Z,Sint-Truidense,Club Brugge
+Belgian Pro League,2027-05-15T18:00:00Z,Standard Liege,Racing Genk
+Belgian Pro League,2027-05-15T18:00:00Z,Zulte-Waregem,RAAL La Louvière
+Belgian Pro League,2027-05-22T18:00:00Z,Antwerp,KVC Westerlo
+Belgian Pro League,2027-05-22T18:00:00Z,Club Brugge,Zulte-Waregem
+Belgian Pro League,2027-05-22T18:00:00Z,KV Kortrijk,Sint-Truidense
+Belgian Pro League,2027-05-22T18:00:00Z,Lommel SK,Cercle Brugge KSV
+Belgian Pro League,2027-05-22T18:00:00Z,OH Leuven,KAA Gent
+Belgian Pro League,2027-05-22T18:00:00Z,RAAL La Louvière,Anderlecht
+Belgian Pro League,2027-05-22T18:00:00Z,Racing Genk,KV Mechelen
+Belgian Pro League,2027-05-22T18:00:00Z,Union St.-Gilloise,Royal Charleroi SC
+Belgian Pro League,2027-05-22T18:00:00Z,Waasland-Beveren,Standard Liege
+Süper Lig,2026-11-23T17:00:00Z,Istanbul Basaksehir,Çorum
+Süper Lig,2026-11-27T17:00:00Z,Alanyaspor,Konyaspor
+Süper Lig,2026-11-27T17:00:00Z,Çaykur Rizespor,Kasimpasa
+Süper Lig,2026-11-28T13:00:00Z,Samsunspor,Gençlerbirligi
+Süper Lig,2026-11-28T16:00:00Z,Gaziantep,Amedspor
+Süper Lig,2026-11-29T10:30:00Z,Çorum,Kocaelispor
+Süper Lig,2026-11-29T13:00:00Z,Eyüpspor,Istanbul Basaksehir
+Süper Lig,2026-11-29T16:00:00Z,Fenerbahçe,Erzurumspor
+Süper Lig,2026-11-30T16:00:00Z,Göztepe,Trabzonspor
+Süper Lig,2026-11-30T18:00:00Z,Besiktas,Galatasaray
+Süper Lig,2026-12-04T17:00:00Z,Galatasaray,Çaykur Rizespor
+Süper Lig,2026-12-05T10:30:00Z,Konyaspor,Gaziantep
+Süper Lig,2026-12-05T13:00:00Z,Amedspor,Alanyaspor
+Süper Lig,2026-12-05T16:00:00Z,Istanbul Basaksehir,Fenerbahçe
+Süper Lig,2026-12-06T10:30:00Z,Erzurumspor,Kocaelispor
+Süper Lig,2026-12-06T13:00:00Z,Besiktas,Samsunspor
+Süper Lig,2026-12-06T13:00:00Z,Gençlerbirligi,Eyüpspor
+Süper Lig,2026-12-06T16:00:00Z,Trabzonspor,Çorum
+Süper Lig,2026-12-07T17:00:00Z,Kasimpasa,Göztepe
+Süper Lig,2026-12-11T17:00:00Z,Çorum,Amedspor
+Süper Lig,2026-12-12T10:30:00Z,Erzurumspor,Kasimpasa
+Süper Lig,2026-12-12T13:00:00Z,Alanyaspor,Samsunspor
+Süper Lig,2026-12-12T16:00:00Z,Eyüpspor,Galatasaray
+Süper Lig,2026-12-13T10:30:00Z,Kocaelispor,Gençlerbirligi
+Süper Lig,2026-12-13T13:00:00Z,Göztepe,Konyaspor
+Süper Lig,2026-12-13T13:00:00Z,Çaykur Rizespor,Istanbul Basaksehir
+Süper Lig,2026-12-13T16:00:00Z,Fenerbahçe,Trabzonspor
+Süper Lig,2026-12-14T17:00:00Z,Gaziantep,Besiktas
+Süper Lig,2026-12-18T17:00:00Z,Amedspor,Göztepe
+Süper Lig,2026-12-18T17:00:00Z,Kasimpasa,Fenerbahçe
+Süper Lig,2026-12-19T10:30:00Z,Konyaspor,Eyüpspor
+Süper Lig,2026-12-19T13:00:00Z,Istanbul Basaksehir,Erzurumspor
+Süper Lig,2026-12-19T16:00:00Z,Galatasaray,Alanyaspor
+Süper Lig,2026-12-20T10:30:00Z,Gençlerbirligi,Çorum
+Süper Lig,2026-12-20T13:00:00Z,Samsunspor,Gaziantep
+Süper Lig,2026-12-20T16:00:00Z,Besiktas,Çaykur Rizespor
+Süper Lig,2026-12-21T17:00:00Z,Trabzonspor,Kocaelispor
+Süper Lig,2027-01-16T21:00:00Z,Alanyaspor,Istanbul Basaksehir
+Süper Lig,2027-01-16T21:00:00Z,Erzurumspor,Trabzonspor
+Süper Lig,2027-01-16T21:00:00Z,Eyüpspor,Samsunspor
+Süper Lig,2027-01-16T21:00:00Z,Fenerbahçe,Amedspor
+Süper Lig,2027-01-16T21:00:00Z,Gaziantep,Galatasaray
+Süper Lig,2027-01-16T21:00:00Z,Göztepe,Besiktas
+Süper Lig,2027-01-16T21:00:00Z,Kocaelispor,Kasimpasa
+Süper Lig,2027-01-16T21:00:00Z,Çaykur Rizespor,Gençlerbirligi
+Süper Lig,2027-01-16T21:00:00Z,Çorum,Konyaspor
+Süper Lig,2027-01-23T21:00:00Z,Alanyaspor,Gaziantep
+Süper Lig,2027-01-23T21:00:00Z,Erzurumspor,Amedspor
+Süper Lig,2027-01-23T21:00:00Z,Eyüpspor,Besiktas
+Süper Lig,2027-01-23T21:00:00Z,Fenerbahçe,Gençlerbirligi
+Süper Lig,2027-01-23T21:00:00Z,Göztepe,Samsunspor
+Süper Lig,2027-01-23T21:00:00Z,Kocaelispor,Istanbul Basaksehir
+Süper Lig,2027-01-23T21:00:00Z,Trabzonspor,Kasimpasa
+Süper Lig,2027-01-23T21:00:00Z,Çaykur Rizespor,Konyaspor
+Süper Lig,2027-01-23T21:00:00Z,Çorum,Galatasaray
+Süper Lig,2027-01-30T21:00:00Z,Amedspor,Kocaelispor
+Süper Lig,2027-01-30T21:00:00Z,Besiktas,Alanyaspor
+Süper Lig,2027-01-30T21:00:00Z,Galatasaray,Erzurumspor
+Süper Lig,2027-01-30T21:00:00Z,Gaziantep,Eyüpspor
+Süper Lig,2027-01-30T21:00:00Z,Gençlerbirligi,Göztepe
+Süper Lig,2027-01-30T21:00:00Z,Istanbul Basaksehir,Trabzonspor
+Süper Lig,2027-01-30T21:00:00Z,Kasimpasa,Çorum
+Süper Lig,2027-01-30T21:00:00Z,Konyaspor,Fenerbahçe
+Süper Lig,2027-01-30T21:00:00Z,Samsunspor,Çaykur Rizespor
+Süper Lig,2027-02-06T21:00:00Z,Alanyaspor,Eyüpspor
+Süper Lig,2027-02-06T21:00:00Z,Erzurumspor,Gençlerbirligi
+Süper Lig,2027-02-06T21:00:00Z,Fenerbahçe,Samsunspor
+Süper Lig,2027-02-06T21:00:00Z,Göztepe,Galatasaray
+Süper Lig,2027-02-06T21:00:00Z,Kasimpasa,Istanbul Basaksehir
+Süper Lig,2027-02-06T21:00:00Z,Kocaelispor,Konyaspor
+Süper Lig,2027-02-06T21:00:00Z,Trabzonspor,Amedspor
+Süper Lig,2027-02-06T21:00:00Z,Çaykur Rizespor,Gaziantep
+Süper Lig,2027-02-06T21:00:00Z,Çorum,Besiktas
+Süper Lig,2027-02-13T21:00:00Z,Alanyaspor,Çaykur Rizespor
+Süper Lig,2027-02-13T21:00:00Z,Amedspor,Kasimpasa
+Süper Lig,2027-02-13T21:00:00Z,Besiktas,Fenerbahçe
+Süper Lig,2027-02-13T21:00:00Z,Eyüpspor,Çorum
+Süper Lig,2027-02-13T21:00:00Z,Galatasaray,Istanbul Basaksehir
+Süper Lig,2027-02-13T21:00:00Z,Gaziantep,Göztepe
+Süper Lig,2027-02-13T21:00:00Z,Gençlerbirligi,Trabzonspor
+Süper Lig,2027-02-13T21:00:00Z,Konyaspor,Erzurumspor
+Süper Lig,2027-02-13T21:00:00Z,Samsunspor,Kocaelispor
+Süper Lig,2027-02-20T21:00:00Z,Erzurumspor,Besiktas
+Süper Lig,2027-02-20T21:00:00Z,Fenerbahçe,Gaziantep
+Süper Lig,2027-02-20T21:00:00Z,Göztepe,Alanyaspor
+Süper Lig,2027-02-20T21:00:00Z,Istanbul Basaksehir,Amedspor
+Süper Lig,2027-02-20T21:00:00Z,Kasimpasa,Gençlerbirligi
+Süper Lig,2027-02-20T21:00:00Z,Kocaelispor,Galatasaray
+Süper Lig,2027-02-20T21:00:00Z,Trabzonspor,Konyaspor
+Süper Lig,2027-02-20T21:00:00Z,Çaykur Rizespor,Eyüpspor
+Süper Lig,2027-02-20T21:00:00Z,Çorum,Samsunspor
+Süper Lig,2027-02-27T21:00:00Z,Alanyaspor,Çorum
+Süper Lig,2027-02-27T21:00:00Z,Besiktas,Amedspor
+Süper Lig,2027-02-27T21:00:00Z,Eyüpspor,Fenerbahçe
+Süper Lig,2027-02-27T21:00:00Z,Galatasaray,Trabzonspor
+Süper Lig,2027-02-27T21:00:00Z,Gaziantep,Kocaelispor
+Süper Lig,2027-02-27T21:00:00Z,Gençlerbirligi,Istanbul Basaksehir
+Süper Lig,2027-02-27T21:00:00Z,Konyaspor,Kasimpasa
+Süper Lig,2027-02-27T21:00:00Z,Samsunspor,Erzurumspor
+Süper Lig,2027-02-27T21:00:00Z,Çaykur Rizespor,Göztepe
+Süper Lig,2027-03-06T21:00:00Z,Amedspor,Gençlerbirligi
+Süper Lig,2027-03-06T21:00:00Z,Erzurumspor,Alanyaspor
+Süper Lig,2027-03-06T21:00:00Z,Fenerbahçe,Çaykur Rizespor
+Süper Lig,2027-03-06T21:00:00Z,Göztepe,Eyüpspor
+Süper Lig,2027-03-06T21:00:00Z,Istanbul Basaksehir,Konyaspor
+Süper Lig,2027-03-06T21:00:00Z,Kasimpasa,Galatasaray
+Süper Lig,2027-03-06T21:00:00Z,Kocaelispor,Besiktas
+Süper Lig,2027-03-06T21:00:00Z,Trabzonspor,Samsunspor
+Süper Lig,2027-03-06T21:00:00Z,Çorum,Gaziantep
+Süper Lig,2027-03-13T21:00:00Z,Alanyaspor,Fenerbahçe
+Süper Lig,2027-03-13T21:00:00Z,Besiktas,Trabzonspor
+Süper Lig,2027-03-13T21:00:00Z,Eyüpspor,Erzurumspor
+Süper Lig,2027-03-13T21:00:00Z,Galatasaray,Gençlerbirligi
+Süper Lig,2027-03-13T21:00:00Z,Gaziantep,Istanbul Basaksehir
+Süper Lig,2027-03-13T21:00:00Z,Göztepe,Kocaelispor
+Süper Lig,2027-03-13T21:00:00Z,Konyaspor,Amedspor
+Süper Lig,2027-03-13T21:00:00Z,Samsunspor,Kasimpasa
+Süper Lig,2027-03-13T21:00:00Z,Çaykur Rizespor,Çorum
+Süper Lig,2027-03-20T21:00:00Z,Amedspor,Samsunspor
+Süper Lig,2027-03-20T21:00:00Z,Erzurumspor,Gaziantep
+Süper Lig,2027-03-20T21:00:00Z,Fenerbahçe,Galatasaray
+Süper Lig,2027-03-20T21:00:00Z,Gençlerbirligi,Konyaspor
+Süper Lig,2027-03-20T21:00:00Z,Istanbul Basaksehir,Besiktas
+Süper Lig,2027-03-20T21:00:00Z,Kasimpasa,Eyüpspor
+Süper Lig,2027-03-20T21:00:00Z,Kocaelispor,Alanyaspor
+Süper Lig,2027-03-20T21:00:00Z,Trabzonspor,Çaykur Rizespor
+Süper Lig,2027-03-20T21:00:00Z,Çorum,Göztepe
+Süper Lig,2027-04-03T21:00:00Z,Alanyaspor,Gençlerbirligi
+Süper Lig,2027-04-03T21:00:00Z,Besiktas,Kasimpasa
+Süper Lig,2027-04-03T21:00:00Z,Eyüpspor,Amedspor
+Süper Lig,2027-04-03T21:00:00Z,Galatasaray,Konyaspor
+Süper Lig,2027-04-03T21:00:00Z,Gaziantep,Trabzonspor
+Süper Lig,2027-04-03T21:00:00Z,Göztepe,Fenerbahçe
+Süper Lig,2027-04-03T21:00:00Z,Samsunspor,Istanbul Basaksehir
+Süper Lig,2027-04-03T21:00:00Z,Çaykur Rizespor,Kocaelispor
+Süper Lig,2027-04-03T21:00:00Z,Çorum,Erzurumspor
+Süper Lig,2027-04-10T21:00:00Z,Amedspor,Galatasaray
+Süper Lig,2027-04-10T21:00:00Z,Erzurumspor,Çaykur Rizespor
+Süper Lig,2027-04-10T21:00:00Z,Fenerbahçe,Çorum
+Süper Lig,2027-04-10T21:00:00Z,Gençlerbirligi,Besiktas
+Süper Lig,2027-04-10T21:00:00Z,Istanbul Basaksehir,Göztepe
+Süper Lig,2027-04-10T21:00:00Z,Kasimpasa,Gaziantep
+Süper Lig,2027-04-10T21:00:00Z,Kocaelispor,Eyüpspor
+Süper Lig,2027-04-10T21:00:00Z,Konyaspor,Samsunspor
+Süper Lig,2027-04-10T21:00:00Z,Trabzonspor,Alanyaspor
+Süper Lig,2027-04-17T21:00:00Z,Alanyaspor,Kasimpasa
+Süper Lig,2027-04-17T21:00:00Z,Besiktas,Konyaspor
+Süper Lig,2027-04-17T21:00:00Z,Eyüpspor,Trabzonspor
+Süper Lig,2027-04-17T21:00:00Z,Fenerbahçe,Kocaelispor
+Süper Lig,2027-04-17T21:00:00Z,Gaziantep,Gençlerbirligi
+Süper Lig,2027-04-17T21:00:00Z,Göztepe,Erzurumspor
+Süper Lig,2027-04-17T21:00:00Z,Samsunspor,Galatasaray
+Süper Lig,2027-04-17T21:00:00Z,Çaykur Rizespor,Amedspor
+Süper Lig,2027-04-17T21:00:00Z,Çorum,Istanbul Basaksehir
+Süper Lig,2027-04-24T21:00:00Z,Amedspor,Gaziantep
+Süper Lig,2027-04-24T21:00:00Z,Erzurumspor,Fenerbahçe
+Süper Lig,2027-04-24T21:00:00Z,Galatasaray,Besiktas
+Süper Lig,2027-04-24T21:00:00Z,Gençlerbirligi,Samsunspor
+Süper Lig,2027-04-24T21:00:00Z,Istanbul Basaksehir,Eyüpspor
+Süper Lig,2027-04-24T21:00:00Z,Kasimpasa,Çaykur Rizespor
+Süper Lig,2027-04-24T21:00:00Z,Kocaelispor,Çorum
+Süper Lig,2027-04-24T21:00:00Z,Konyaspor,Alanyaspor
+Süper Lig,2027-04-24T21:00:00Z,Trabzonspor,Göztepe
+Süper Lig,2027-05-01T21:00:00Z,Alanyaspor,Amedspor
+Süper Lig,2027-05-01T21:00:00Z,Eyüpspor,Gençlerbirligi
+Süper Lig,2027-05-01T21:00:00Z,Fenerbahçe,Istanbul Basaksehir
+Süper Lig,2027-05-01T21:00:00Z,Gaziantep,Konyaspor
+Süper Lig,2027-05-01T21:00:00Z,Göztepe,Kasimpasa
+Süper Lig,2027-05-01T21:00:00Z,Kocaelispor,Erzurumspor
+Süper Lig,2027-05-01T21:00:00Z,Samsunspor,Besiktas
+Süper Lig,2027-05-01T21:00:00Z,Çaykur Rizespor,Galatasaray
+Süper Lig,2027-05-01T21:00:00Z,Çorum,Trabzonspor
+Süper Lig,2027-05-08T21:00:00Z,Amedspor,Çorum
+Süper Lig,2027-05-08T21:00:00Z,Besiktas,Gaziantep
+Süper Lig,2027-05-08T21:00:00Z,Galatasaray,Eyüpspor
+Süper Lig,2027-05-08T21:00:00Z,Gençlerbirligi,Kocaelispor
+Süper Lig,2027-05-08T21:00:00Z,Istanbul Basaksehir,Çaykur Rizespor
+Süper Lig,2027-05-08T21:00:00Z,Kasimpasa,Erzurumspor
+Süper Lig,2027-05-08T21:00:00Z,Konyaspor,Göztepe
+Süper Lig,2027-05-08T21:00:00Z,Samsunspor,Alanyaspor
+Süper Lig,2027-05-08T21:00:00Z,Trabzonspor,Fenerbahçe
+Süper Lig,2027-05-15T21:00:00Z,Alanyaspor,Galatasaray
+Süper Lig,2027-05-15T21:00:00Z,Erzurumspor,Istanbul Basaksehir
+Süper Lig,2027-05-15T21:00:00Z,Eyüpspor,Konyaspor
+Süper Lig,2027-05-15T21:00:00Z,Fenerbahçe,Kasimpasa
+Süper Lig,2027-05-15T21:00:00Z,Gaziantep,Samsunspor
+Süper Lig,2027-05-15T21:00:00Z,Göztepe,Amedspor
+Süper Lig,2027-05-15T21:00:00Z,Kocaelispor,Trabzonspor
+Süper Lig,2027-05-15T21:00:00Z,Çaykur Rizespor,Besiktas
+Süper Lig,2027-05-15T21:00:00Z,Çorum,Gençlerbirligi
+Süper Lig,2027-05-22T21:00:00Z,Amedspor,Fenerbahçe
+Süper Lig,2027-05-22T21:00:00Z,Besiktas,Göztepe
+Süper Lig,2027-05-22T21:00:00Z,Galatasaray,Gaziantep
+Süper Lig,2027-05-22T21:00:00Z,Gençlerbirligi,Çaykur Rizespor
+Süper Lig,2027-05-22T21:00:00Z,Istanbul Basaksehir,Alanyaspor
+Süper Lig,2027-05-22T21:00:00Z,Kasimpasa,Kocaelispor
+Süper Lig,2027-05-22T21:00:00Z,Konyaspor,Çorum
+Süper Lig,2027-05-22T21:00:00Z,Samsunspor,Eyüpspor
+Süper Lig,2027-05-22T21:00:00Z,Trabzonspor,Erzurumspor
+Scottish Premiership,2026-11-24T19:45:00Z,Hibernian,Dundee
+Scottish Premiership,2026-11-24T20:00:00Z,Rangers,Aberdeen
+Scottish Premiership,2026-11-28T15:00:00Z,Aberdeen,Dundee
+Scottish Premiership,2026-11-28T15:00:00Z,Dundee United,St. Johnstone
+Scottish Premiership,2026-11-28T15:00:00Z,Rangers,Falkirk
+Scottish Premiership,2026-11-28T15:00:00Z,St. Mirren,Kilmarnock
+Scottish Premiership,2026-11-28T17:45:00Z,Motherwell,Hibernian
+Scottish Premiership,2026-11-29T15:00:00Z,Heart of Midlothian,Celtic
+Scottish Premiership,2026-12-02T19:45:00Z,Dundee,Celtic
+Scottish Premiership,2026-12-02T19:45:00Z,Falkirk,Motherwell
+Scottish Premiership,2026-12-02T19:45:00Z,Heart of Midlothian,Aberdeen
+Scottish Premiership,2026-12-02T19:45:00Z,Kilmarnock,Hibernian
+Scottish Premiership,2026-12-02T19:45:00Z,Rangers,Dundee United
+Scottish Premiership,2026-12-02T19:45:00Z,St. Johnstone,St. Mirren
+Scottish Premiership,2026-12-05T15:00:00Z,Aberdeen,Dundee United
+Scottish Premiership,2026-12-05T15:00:00Z,Celtic,St. Johnstone
+Scottish Premiership,2026-12-05T15:00:00Z,Dundee,Falkirk
+Scottish Premiership,2026-12-05T15:00:00Z,Motherwell,Kilmarnock
+Scottish Premiership,2026-12-05T17:30:00Z,St. Mirren,Heart of Midlothian
+Scottish Premiership,2026-12-07T20:00:00Z,Hibernian,Rangers
+Scottish Premiership,2026-12-12T15:00:00Z,Dundee United,St. Mirren
+Scottish Premiership,2026-12-12T15:00:00Z,Falkirk,Aberdeen
+Scottish Premiership,2026-12-12T15:00:00Z,Kilmarnock,Dundee
+Scottish Premiership,2026-12-13T15:00:00Z,Heart of Midlothian,Motherwell
+Scottish Premiership,2026-12-19T15:00:00Z,Dundee United,Kilmarnock
+Scottish Premiership,2026-12-19T15:00:00Z,Hibernian,St. Johnstone
+Scottish Premiership,2026-12-19T15:00:00Z,Motherwell,Dundee
+Scottish Premiership,2026-12-19T15:00:00Z,St. Mirren,Falkirk
+Scottish Premiership,2026-12-20T12:00:00Z,Aberdeen,Celtic
+Scottish Premiership,2026-12-20T14:30:00Z,Rangers,Heart of Midlothian
+Scottish Premiership,2026-12-26T15:00:00Z,Celtic,Motherwell
+Scottish Premiership,2026-12-26T15:00:00Z,Dundee,St. Mirren
+Scottish Premiership,2026-12-26T15:00:00Z,Falkirk,Dundee United
+Scottish Premiership,2026-12-26T15:00:00Z,St. Johnstone,Aberdeen
+Scottish Premiership,2026-12-26T17:45:00Z,Kilmarnock,Rangers
+Scottish Premiership,2026-12-27T12:00:00Z,Heart of Midlothian,Hibernian
+Scottish Premiership,2026-12-30T19:45:00Z,Aberdeen,Motherwell
+Scottish Premiership,2026-12-30T19:45:00Z,Dundee United,Celtic
+Scottish Premiership,2026-12-30T19:45:00Z,Hibernian,St. Mirren
+Scottish Premiership,2026-12-30T19:45:00Z,Kilmarnock,Falkirk
+Scottish Premiership,2026-12-30T19:45:00Z,Rangers,Dundee
+Scottish Premiership,2026-12-30T19:45:00Z,St. Johnstone,Heart of Midlothian
+Scottish Premiership,2027-01-02T12:30:00Z,Dundee,Dundee United
+Scottish Premiership,2027-01-02T15:00:00Z,Falkirk,Hibernian
+Scottish Premiership,2027-01-02T15:00:00Z,Heart of Midlothian,Kilmarnock
+Scottish Premiership,2027-01-02T15:00:00Z,Motherwell,St. Johnstone
+Scottish Premiership,2027-01-03T12:00:00Z,Rangers,Celtic
+Scottish Premiership,2027-01-03T14:30:00Z,St. Mirren,Aberdeen
+Scottish Premiership,2027-01-09T15:00:00Z,Aberdeen,Heart of Midlothian
+Scottish Premiership,2027-01-09T15:00:00Z,Celtic,Dundee
+Scottish Premiership,2027-01-09T15:00:00Z,Hibernian,Motherwell
+Scottish Premiership,2027-01-09T15:00:00Z,Kilmarnock,St. Mirren
+Scottish Premiership,2027-01-09T15:00:00Z,St. Johnstone,Falkirk
+Scottish Premiership,2027-01-09T17:30:00Z,Dundee United,Rangers
+Scottish Premiership,2027-01-12T19:45:00Z,Dundee United,Heart of Midlothian
+Scottish Premiership,2027-01-13T19:45:00Z,Celtic,Hibernian
+Scottish Premiership,2027-01-13T20:00:00Z,St. Johnstone,Rangers
+Scottish Premiership,2027-01-23T15:00:00Z,Dundee,Aberdeen
+Scottish Premiership,2027-01-23T15:00:00Z,Falkirk,Heart of Midlothian
+Scottish Premiership,2027-01-23T15:00:00Z,Hibernian,Kilmarnock
+Scottish Premiership,2027-01-23T15:00:00Z,Motherwell,Dundee United
+Scottish Premiership,2027-01-23T15:00:00Z,Rangers,St. Johnstone
+Scottish Premiership,2027-01-24T15:00:00Z,St. Mirren,Celtic
+Scottish Premiership,2027-01-30T15:00:00Z,Aberdeen,Rangers
+Scottish Premiership,2027-01-30T15:00:00Z,Dundee,Hibernian
+Scottish Premiership,2027-01-30T15:00:00Z,Heart of Midlothian,St. Mirren
+Scottish Premiership,2027-01-30T15:00:00Z,Kilmarnock,Motherwell
+Scottish Premiership,2027-01-30T15:00:00Z,St. Johnstone,Dundee United
+Scottish Premiership,2027-01-31T15:00:00Z,Celtic,Falkirk
+Scottish Premiership,2027-02-03T19:45:00Z,Aberdeen,Falkirk
+Scottish Premiership,2027-02-03T19:45:00Z,Dundee United,Hibernian
+Scottish Premiership,2027-02-03T19:45:00Z,Heart of Midlothian,Dundee
+Scottish Premiership,2027-02-03T19:45:00Z,Motherwell,Celtic
+Scottish Premiership,2027-02-03T19:45:00Z,Rangers,Kilmarnock
+Scottish Premiership,2027-02-03T19:45:00Z,St. Mirren,St. Johnstone
+Scottish Premiership,2027-02-13T15:00:00Z,Celtic,Heart of Midlothian
+Scottish Premiership,2027-02-13T15:00:00Z,Dundee,St. Johnstone
+Scottish Premiership,2027-02-13T15:00:00Z,Falkirk,Rangers
+Scottish Premiership,2027-02-13T15:00:00Z,Hibernian,Aberdeen
+Scottish Premiership,2027-02-13T15:00:00Z,Kilmarnock,Dundee United
+Scottish Premiership,2027-02-13T15:00:00Z,St. Mirren,Motherwell
+Scottish Premiership,2027-02-20T15:00:00Z,Dundee United,Aberdeen
+Scottish Premiership,2027-02-20T15:00:00Z,Falkirk,Dundee
+Scottish Premiership,2027-02-20T15:00:00Z,Hibernian,Celtic
+Scottish Premiership,2027-02-20T15:00:00Z,Motherwell,Heart of Midlothian
+Scottish Premiership,2027-02-20T15:00:00Z,Rangers,St. Mirren
+Scottish Premiership,2027-02-20T15:00:00Z,St. Johnstone,Kilmarnock
+Scottish Premiership,2027-02-27T15:00:00Z,Aberdeen,St. Johnstone
+Scottish Premiership,2027-02-27T15:00:00Z,Celtic,Rangers
+Scottish Premiership,2027-02-27T15:00:00Z,Dundee,Kilmarnock
+Scottish Premiership,2027-02-27T15:00:00Z,Heart of Midlothian,Dundee United
+Scottish Premiership,2027-02-27T15:00:00Z,Motherwell,Falkirk
+Scottish Premiership,2027-02-27T15:00:00Z,St. Mirren,Hibernian
+Scottish Premiership,2027-03-13T15:00:00Z,Aberdeen,St. Mirren
+Scottish Premiership,2027-03-13T15:00:00Z,Dundee United,Dundee
+Scottish Premiership,2027-03-13T15:00:00Z,Hibernian,Falkirk
+Scottish Premiership,2027-03-13T15:00:00Z,Kilmarnock,Heart of Midlothian
+Scottish Premiership,2027-03-13T15:00:00Z,Rangers,Motherwell
+Scottish Premiership,2027-03-13T15:00:00Z,St. Johnstone,Celtic
+Scottish Premiership,2027-03-20T15:00:00Z,Celtic,Aberdeen
+Scottish Premiership,2027-03-20T15:00:00Z,Dundee,Motherwell
+Scottish Premiership,2027-03-20T15:00:00Z,Falkirk,Kilmarnock
+Scottish Premiership,2027-03-20T15:00:00Z,Heart of Midlothian,Rangers
+Scottish Premiership,2027-03-20T15:00:00Z,St. Johnstone,Hibernian
+Scottish Premiership,2027-03-20T15:00:00Z,St. Mirren,Dundee United
+Scottish Premiership,2027-04-03T14:00:00Z,Dundee United,Falkirk
+Scottish Premiership,2027-04-03T14:00:00Z,Heart of Midlothian,St. Johnstone
+Scottish Premiership,2027-04-03T14:00:00Z,Kilmarnock,Celtic
+Scottish Premiership,2027-04-03T14:00:00Z,Motherwell,Aberdeen
+Scottish Premiership,2027-04-03T14:00:00Z,Rangers,Hibernian
+Scottish Premiership,2027-04-03T14:00:00Z,St. Mirren,Dundee
+Scottish Premiership,2027-04-10T14:00:00Z,Aberdeen,Kilmarnock
+Scottish Premiership,2027-04-10T14:00:00Z,Celtic,Dundee United
+Scottish Premiership,2027-04-10T14:00:00Z,Dundee,Rangers
+Scottish Premiership,2027-04-10T14:00:00Z,Falkirk,St. Mirren
+Scottish Premiership,2027-04-10T14:00:00Z,Hibernian,Heart of Midlothian
+Scottish Premiership,2027-04-10T14:00:00Z,St. Johnstone,Motherwell
+2. Bundesliga,2026-11-27T17:30:00Z,1. FC Heidenheim 1846,1. FC Nürnberg
+2. Bundesliga,2026-11-27T17:30:00Z,VfL Bochum,SV Darmstadt 98
+2. Bundesliga,2026-11-28T12:00:00Z,Dynamo Dresden,FC St. Pauli
+2. Bundesliga,2026-11-28T12:00:00Z,Hertha BSC,Karlsruher SC
+2. Bundesliga,2026-11-28T12:00:00Z,Holstein Kiel,1. FC Kaiserslautern
+2. Bundesliga,2026-11-28T19:30:00Z,VfL Osnabrück,Hannover 96
+2. Bundesliga,2026-11-29T12:30:00Z,1. FC Magdeburg,Energie Cottbus
+2. Bundesliga,2026-11-29T12:30:00Z,Eintracht Braunschweig,VfL Wolfsburg
+2. Bundesliga,2026-11-29T12:30:00Z,SpVgg Greuther Fürth,DSC Arminia Bielefeld
+2. Bundesliga,2026-12-04T17:30:00Z,DSC Arminia Bielefeld,Dynamo Dresden
+2. Bundesliga,2026-12-04T17:30:00Z,Energie Cottbus,VfL Osnabrück
+2. Bundesliga,2026-12-05T12:00:00Z,1. FC Kaiserslautern,SpVgg Greuther Fürth
+2. Bundesliga,2026-12-05T12:00:00Z,1. FC Nürnberg,VfL Bochum
+2. Bundesliga,2026-12-05T12:00:00Z,Karlsruher SC,Holstein Kiel
+2. Bundesliga,2026-12-05T19:30:00Z,Hannover 96,Hertha BSC
+2. Bundesliga,2026-12-06T12:30:00Z,FC St. Pauli,1. FC Heidenheim 1846
+2. Bundesliga,2026-12-06T12:30:00Z,SV Darmstadt 98,Eintracht Braunschweig
+2. Bundesliga,2026-12-06T12:30:00Z,VfL Wolfsburg,1. FC Magdeburg
+2. Bundesliga,2026-12-11T17:30:00Z,1. FC Magdeburg,1. FC Nürnberg
+2. Bundesliga,2026-12-11T17:30:00Z,DSC Arminia Bielefeld,1. FC Kaiserslautern
+2. Bundesliga,2026-12-12T12:00:00Z,Eintracht Braunschweig,Karlsruher SC
+2. Bundesliga,2026-12-12T12:00:00Z,Hertha BSC,SV Darmstadt 98
+2. Bundesliga,2026-12-12T12:00:00Z,Holstein Kiel,Hannover 96
+2. Bundesliga,2026-12-12T19:30:00Z,Dynamo Dresden,Energie Cottbus
+2. Bundesliga,2026-12-13T12:30:00Z,SpVgg Greuther Fürth,VfL Wolfsburg
+2. Bundesliga,2026-12-13T12:30:00Z,VfL Bochum,1. FC Heidenheim 1846
+2. Bundesliga,2026-12-13T12:30:00Z,VfL Osnabrück,FC St. Pauli
+2. Bundesliga,2026-12-18T17:30:00Z,1. FC Nürnberg,VfL Osnabrück
+2. Bundesliga,2026-12-18T17:30:00Z,Energie Cottbus,Holstein Kiel
+2. Bundesliga,2026-12-19T12:00:00Z,FC St. Pauli,Hertha BSC
+2. Bundesliga,2026-12-19T12:00:00Z,Karlsruher SC,Dynamo Dresden
+2. Bundesliga,2026-12-19T12:00:00Z,VfL Wolfsburg,DSC Arminia Bielefeld
+2. Bundesliga,2026-12-19T19:30:00Z,VfL Bochum,1. FC Magdeburg
+2. Bundesliga,2026-12-20T12:30:00Z,1. FC Heidenheim 1846,Eintracht Braunschweig
+2. Bundesliga,2026-12-20T12:30:00Z,Hannover 96,1. FC Kaiserslautern
+2. Bundesliga,2026-12-20T12:30:00Z,SV Darmstadt 98,SpVgg Greuther Fürth
+2. Bundesliga,2027-01-15T17:30:00Z,DSC Arminia Bielefeld,Hannover 96
+2. Bundesliga,2027-01-15T17:30:00Z,SpVgg Greuther Fürth,Karlsruher SC
+2. Bundesliga,2027-01-16T12:00:00Z,1. FC Magdeburg,1. FC Heidenheim 1846
+2. Bundesliga,2027-01-16T12:00:00Z,Eintracht Braunschweig,FC St. Pauli
+2. Bundesliga,2027-01-16T12:00:00Z,Holstein Kiel,VfL Bochum
+2. Bundesliga,2027-01-16T19:30:00Z,Hertha BSC,1. FC Nürnberg
+2. Bundesliga,2027-01-17T12:30:00Z,1. FC Kaiserslautern,Energie Cottbus
+2. Bundesliga,2027-01-17T12:30:00Z,Dynamo Dresden,VfL Wolfsburg
+2. Bundesliga,2027-01-17T12:30:00Z,VfL Osnabrück,SV Darmstadt 98
+2. Bundesliga,2027-01-22T17:30:00Z,Dynamo Dresden,1. FC Nürnberg
+2. Bundesliga,2027-01-22T17:30:00Z,Eintracht Braunschweig,1. FC Magdeburg
+2. Bundesliga,2027-01-23T12:00:00Z,Hannover 96,Energie Cottbus
+2. Bundesliga,2027-01-23T12:00:00Z,Hertha BSC,VfL Bochum
+2. Bundesliga,2027-01-23T12:00:00Z,VfL Osnabrück,1. FC Heidenheim 1846
+2. Bundesliga,2027-01-23T19:30:00Z,1. FC Kaiserslautern,VfL Wolfsburg
+2. Bundesliga,2027-01-24T12:30:00Z,DSC Arminia Bielefeld,Karlsruher SC
+2. Bundesliga,2027-01-24T12:30:00Z,Holstein Kiel,SV Darmstadt 98
+2. Bundesliga,2027-01-24T12:30:00Z,SpVgg Greuther Fürth,FC St. Pauli
+2. Bundesliga,2027-01-31T12:30:00Z,1. FC Heidenheim 1846,Hertha BSC
+2. Bundesliga,2027-01-31T12:30:00Z,1. FC Magdeburg,VfL Osnabrück
+2. Bundesliga,2027-01-31T12:30:00Z,1. FC Nürnberg,SpVgg Greuther Fürth
+2. Bundesliga,2027-01-31T12:30:00Z,Energie Cottbus,DSC Arminia Bielefeld
+2. Bundesliga,2027-01-31T12:30:00Z,FC St. Pauli,Holstein Kiel
+2. Bundesliga,2027-01-31T12:30:00Z,Karlsruher SC,1. FC Kaiserslautern
+2. Bundesliga,2027-01-31T12:30:00Z,SV Darmstadt 98,Dynamo Dresden
+2. Bundesliga,2027-01-31T12:30:00Z,VfL Bochum,Eintracht Braunschweig
+2. Bundesliga,2027-01-31T12:30:00Z,VfL Wolfsburg,Hannover 96
+2. Bundesliga,2027-02-07T12:30:00Z,1. FC Kaiserslautern,FC St. Pauli
+2. Bundesliga,2027-02-07T12:30:00Z,DSC Arminia Bielefeld,1. FC Nürnberg
+2. Bundesliga,2027-02-07T12:30:00Z,Dynamo Dresden,1. FC Heidenheim 1846
+2. Bundesliga,2027-02-07T12:30:00Z,Hannover 96,SV Darmstadt 98
+2. Bundesliga,2027-02-07T12:30:00Z,Hertha BSC,Eintracht Braunschweig
+2. Bundesliga,2027-02-07T12:30:00Z,Holstein Kiel,1. FC Magdeburg
+2. Bundesliga,2027-02-07T12:30:00Z,SpVgg Greuther Fürth,Energie Cottbus
+2. Bundesliga,2027-02-07T12:30:00Z,VfL Osnabrück,VfL Bochum
+2. Bundesliga,2027-02-07T12:30:00Z,VfL Wolfsburg,Karlsruher SC
+2. Bundesliga,2027-02-14T12:30:00Z,1. FC Heidenheim 1846,SpVgg Greuther Fürth
+2. Bundesliga,2027-02-14T12:30:00Z,1. FC Magdeburg,Hertha BSC
+2. Bundesliga,2027-02-14T12:30:00Z,1. FC Nürnberg,Holstein Kiel
+2. Bundesliga,2027-02-14T12:30:00Z,Eintracht Braunschweig,VfL Osnabrück
+2. Bundesliga,2027-02-14T12:30:00Z,Energie Cottbus,VfL Wolfsburg
+2. Bundesliga,2027-02-14T12:30:00Z,FC St. Pauli,DSC Arminia Bielefeld
+2. Bundesliga,2027-02-14T12:30:00Z,Karlsruher SC,Hannover 96
+2. Bundesliga,2027-02-14T12:30:00Z,SV Darmstadt 98,1. FC Kaiserslautern
+2. Bundesliga,2027-02-14T12:30:00Z,VfL Bochum,Dynamo Dresden
+2. Bundesliga,2027-02-21T12:30:00Z,1. FC Kaiserslautern,1. FC Magdeburg
+2. Bundesliga,2027-02-21T12:30:00Z,DSC Arminia Bielefeld,SV Darmstadt 98
+2. Bundesliga,2027-02-21T12:30:00Z,Dynamo Dresden,Eintracht Braunschweig
+2. Bundesliga,2027-02-21T12:30:00Z,Energie Cottbus,Karlsruher SC
+2. Bundesliga,2027-02-21T12:30:00Z,Hannover 96,1. FC Nürnberg
+2. Bundesliga,2027-02-21T12:30:00Z,Hertha BSC,VfL Osnabrück
+2. Bundesliga,2027-02-21T12:30:00Z,Holstein Kiel,1. FC Heidenheim 1846
+2. Bundesliga,2027-02-21T12:30:00Z,SpVgg Greuther Fürth,VfL Bochum
+2. Bundesliga,2027-02-21T12:30:00Z,VfL Wolfsburg,FC St. Pauli
+2. Bundesliga,2027-02-28T12:30:00Z,1. FC Heidenheim 1846,DSC Arminia Bielefeld
+2. Bundesliga,2027-02-28T12:30:00Z,1. FC Magdeburg,SpVgg Greuther Fürth
+2. Bundesliga,2027-02-28T12:30:00Z,1. FC Nürnberg,Karlsruher SC
+2. Bundesliga,2027-02-28T12:30:00Z,Eintracht Braunschweig,1. FC Kaiserslautern
+2. Bundesliga,2027-02-28T12:30:00Z,FC St. Pauli,Energie Cottbus
+2. Bundesliga,2027-02-28T12:30:00Z,Hertha BSC,Dynamo Dresden
+2. Bundesliga,2027-02-28T12:30:00Z,SV Darmstadt 98,VfL Wolfsburg
+2. Bundesliga,2027-02-28T12:30:00Z,VfL Bochum,Hannover 96
+2. Bundesliga,2027-02-28T12:30:00Z,VfL Osnabrück,Holstein Kiel
+2. Bundesliga,2027-03-03T17:30:00Z,1. FC Kaiserslautern,1. FC Heidenheim 1846
+2. Bundesliga,2027-03-03T17:30:00Z,DSC Arminia Bielefeld,VfL Bochum
+2. Bundesliga,2027-03-03T17:30:00Z,Dynamo Dresden,VfL Osnabrück
+2. Bundesliga,2027-03-03T17:30:00Z,Energie Cottbus,SV Darmstadt 98
+2. Bundesliga,2027-03-03T17:30:00Z,Hannover 96,1. FC Magdeburg
+2. Bundesliga,2027-03-03T17:30:00Z,Holstein Kiel,Eintracht Braunschweig
+2. Bundesliga,2027-03-03T17:30:00Z,Karlsruher SC,FC St. Pauli
+2. Bundesliga,2027-03-03T17:30:00Z,SpVgg Greuther Fürth,Hertha BSC
+2. Bundesliga,2027-03-03T17:30:00Z,VfL Wolfsburg,1. FC Nürnberg
+2. Bundesliga,2027-03-07T12:30:00Z,1. FC Heidenheim 1846,VfL Wolfsburg
+2. Bundesliga,2027-03-07T12:30:00Z,1. FC Magdeburg,Dynamo Dresden
+2. Bundesliga,2027-03-07T12:30:00Z,1. FC Nürnberg,Energie Cottbus
+2. Bundesliga,2027-03-07T12:30:00Z,Eintracht Braunschweig,SpVgg Greuther Fürth
+2. Bundesliga,2027-03-07T12:30:00Z,FC St. Pauli,Hannover 96
+2. Bundesliga,2027-03-07T12:30:00Z,Hertha BSC,Holstein Kiel
+2. Bundesliga,2027-03-07T12:30:00Z,SV Darmstadt 98,Karlsruher SC
+2. Bundesliga,2027-03-07T12:30:00Z,VfL Bochum,1. FC Kaiserslautern
+2. Bundesliga,2027-03-07T12:30:00Z,VfL Osnabrück,DSC Arminia Bielefeld
+2. Bundesliga,2027-03-14T12:30:00Z,1. FC Kaiserslautern,1. FC Nürnberg
+2. Bundesliga,2027-03-14T12:30:00Z,DSC Arminia Bielefeld,Hertha BSC
+2. Bundesliga,2027-03-14T12:30:00Z,Dynamo Dresden,Holstein Kiel
+2. Bundesliga,2027-03-14T12:30:00Z,Energie Cottbus,1. FC Heidenheim 1846
+2. Bundesliga,2027-03-14T12:30:00Z,FC St. Pauli,SV Darmstadt 98
+2. Bundesliga,2027-03-14T12:30:00Z,Hannover 96,Eintracht Braunschweig
+2. Bundesliga,2027-03-14T12:30:00Z,Karlsruher SC,1. FC Magdeburg
+2. Bundesliga,2027-03-14T12:30:00Z,SpVgg Greuther Fürth,VfL Osnabrück
+2. Bundesliga,2027-03-14T12:30:00Z,VfL Wolfsburg,VfL Bochum
+2. Bundesliga,2027-03-21T12:30:00Z,1. FC Heidenheim 1846,Karlsruher SC
+2. Bundesliga,2027-03-21T12:30:00Z,1. FC Magdeburg,SV Darmstadt 98
+2. Bundesliga,2027-03-21T12:30:00Z,1. FC Nürnberg,FC St. Pauli
+2. Bundesliga,2027-03-21T12:30:00Z,Dynamo Dresden,Hannover 96
+2. Bundesliga,2027-03-21T12:30:00Z,Eintracht Braunschweig,DSC Arminia Bielefeld
+2. Bundesliga,2027-03-21T12:30:00Z,Hertha BSC,1. FC Kaiserslautern
+2. Bundesliga,2027-03-21T12:30:00Z,Holstein Kiel,SpVgg Greuther Fürth
+2. Bundesliga,2027-03-21T12:30:00Z,VfL Bochum,Energie Cottbus
+2. Bundesliga,2027-03-21T12:30:00Z,VfL Osnabrück,VfL Wolfsburg
+2. Bundesliga,2027-04-04T11:30:00Z,1. FC Kaiserslautern,VfL Osnabrück
+2. Bundesliga,2027-04-04T11:30:00Z,DSC Arminia Bielefeld,Holstein Kiel
+2. Bundesliga,2027-04-04T11:30:00Z,Energie Cottbus,Eintracht Braunschweig
+2. Bundesliga,2027-04-04T11:30:00Z,FC St. Pauli,1. FC Magdeburg
+2. Bundesliga,2027-04-04T11:30:00Z,Hannover 96,1. FC Heidenheim 1846
+2. Bundesliga,2027-04-04T11:30:00Z,Karlsruher SC,VfL Bochum
+2. Bundesliga,2027-04-04T11:30:00Z,SV Darmstadt 98,1. FC Nürnberg
+2. Bundesliga,2027-04-04T11:30:00Z,SpVgg Greuther Fürth,Dynamo Dresden
+2. Bundesliga,2027-04-04T11:30:00Z,VfL Wolfsburg,Hertha BSC
+2. Bundesliga,2027-04-11T11:30:00Z,1. FC Heidenheim 1846,SV Darmstadt 98
+2. Bundesliga,2027-04-11T11:30:00Z,1. FC Magdeburg,DSC Arminia Bielefeld
+2. Bundesliga,2027-04-11T11:30:00Z,Dynamo Dresden,1. FC Kaiserslautern
+2. Bundesliga,2027-04-11T11:30:00Z,Eintracht Braunschweig,1. FC Nürnberg
+2. Bundesliga,2027-04-11T11:30:00Z,Hertha BSC,Energie Cottbus
+2. Bundesliga,2027-04-11T11:30:00Z,Holstein Kiel,VfL Wolfsburg
+2. Bundesliga,2027-04-11T11:30:00Z,SpVgg Greuther Fürth,Hannover 96
+2. Bundesliga,2027-04-11T11:30:00Z,VfL Bochum,FC St. Pauli
+2. Bundesliga,2027-04-11T11:30:00Z,VfL Osnabrück,Karlsruher SC
+2. Bundesliga,2027-04-18T11:30:00Z,1. FC Kaiserslautern,Holstein Kiel
+2. Bundesliga,2027-04-18T11:30:00Z,1. FC Nürnberg,1. FC Heidenheim 1846
+2. Bundesliga,2027-04-18T11:30:00Z,DSC Arminia Bielefeld,SpVgg Greuther Fürth
+2. Bundesliga,2027-04-18T11:30:00Z,Energie Cottbus,1. FC Magdeburg
+2. Bundesliga,2027-04-18T11:30:00Z,FC St. Pauli,Dynamo Dresden
+2. Bundesliga,2027-04-18T11:30:00Z,Hannover 96,VfL Osnabrück
+2. Bundesliga,2027-04-18T11:30:00Z,Karlsruher SC,Hertha BSC
+2. Bundesliga,2027-04-18T11:30:00Z,SV Darmstadt 98,VfL Bochum
+2. Bundesliga,2027-04-18T11:30:00Z,VfL Wolfsburg,Eintracht Braunschweig
+2. Bundesliga,2027-04-25T11:30:00Z,1. FC Heidenheim 1846,FC St. Pauli
+2. Bundesliga,2027-04-25T11:30:00Z,1. FC Magdeburg,VfL Wolfsburg
+2. Bundesliga,2027-04-25T11:30:00Z,Dynamo Dresden,DSC Arminia Bielefeld
+2. Bundesliga,2027-04-25T11:30:00Z,Eintracht Braunschweig,SV Darmstadt 98
+2. Bundesliga,2027-04-25T11:30:00Z,Hertha BSC,Hannover 96
+2. Bundesliga,2027-04-25T11:30:00Z,Holstein Kiel,Karlsruher SC
+2. Bundesliga,2027-04-25T11:30:00Z,SpVgg Greuther Fürth,1. FC Kaiserslautern
+2. Bundesliga,2027-04-25T11:30:00Z,VfL Bochum,1. FC Nürnberg
+2. Bundesliga,2027-04-25T11:30:00Z,VfL Osnabrück,Energie Cottbus
+2. Bundesliga,2027-05-09T11:30:00Z,1. FC Heidenheim 1846,VfL Bochum
+2. Bundesliga,2027-05-09T11:30:00Z,1. FC Kaiserslautern,DSC Arminia Bielefeld
+2. Bundesliga,2027-05-09T11:30:00Z,1. FC Nürnberg,1. FC Magdeburg
+2. Bundesliga,2027-05-09T11:30:00Z,Energie Cottbus,Dynamo Dresden
+2. Bundesliga,2027-05-09T11:30:00Z,FC St. Pauli,VfL Osnabrück
+2. Bundesliga,2027-05-09T11:30:00Z,Hannover 96,Holstein Kiel
+2. Bundesliga,2027-05-09T11:30:00Z,Karlsruher SC,Eintracht Braunschweig
+2. Bundesliga,2027-05-09T11:30:00Z,SV Darmstadt 98,Hertha BSC
+2. Bundesliga,2027-05-09T11:30:00Z,VfL Wolfsburg,SpVgg Greuther Fürth
+2. Bundesliga,2027-05-16T11:30:00Z,1. FC Kaiserslautern,Hannover 96
+2. Bundesliga,2027-05-16T11:30:00Z,1. FC Magdeburg,VfL Bochum
+2. Bundesliga,2027-05-16T11:30:00Z,DSC Arminia Bielefeld,VfL Wolfsburg
+2. Bundesliga,2027-05-16T11:30:00Z,Dynamo Dresden,Karlsruher SC
+2. Bundesliga,2027-05-16T11:30:00Z,Eintracht Braunschweig,1. FC Heidenheim 1846
+2. Bundesliga,2027-05-16T11:30:00Z,Hertha BSC,FC St. Pauli
+2. Bundesliga,2027-05-16T11:30:00Z,Holstein Kiel,Energie Cottbus
+2. Bundesliga,2027-05-16T11:30:00Z,SpVgg Greuther Fürth,SV Darmstadt 98
+2. Bundesliga,2027-05-16T11:30:00Z,VfL Osnabrück,1. FC Nürnberg
+2. Bundesliga,2027-05-23T13:30:00Z,1. FC Heidenheim 1846,1. FC Magdeburg
+2. Bundesliga,2027-05-23T13:30:00Z,1. FC Nürnberg,Hertha BSC
+2. Bundesliga,2027-05-23T13:30:00Z,Energie Cottbus,1. FC Kaiserslautern
+2. Bundesliga,2027-05-23T13:30:00Z,FC St. Pauli,Eintracht Braunschweig
+2. Bundesliga,2027-05-23T13:30:00Z,Hannover 96,DSC Arminia Bielefeld
+2. Bundesliga,2027-05-23T13:30:00Z,Karlsruher SC,SpVgg Greuther Fürth
+2. Bundesliga,2027-05-23T13:30:00Z,SV Darmstadt 98,VfL Osnabrück
+2. Bundesliga,2027-05-23T13:30:00Z,VfL Bochum,Holstein Kiel
+2. Bundesliga,2027-05-23T13:30:00Z,VfL Wolfsburg,Dynamo Dresden
+Ligue 2,2026-11-23T19:45:00Z,FC Nantes,Grenoble Foot 38
+Ligue 2,2026-11-23T19:45:00Z,FC Sochaux-Montbéliard,USL Dunkerque
+Ligue 2,2026-12-04T19:00:00Z,Clermont Foot 63,FC Metz
+Ligue 2,2026-12-04T19:00:00Z,Dijon FCO,FC Sochaux-Montbéliard
+Ligue 2,2026-12-04T19:00:00Z,FC Annecy,Stade Lavallois MFC
+Ligue 2,2026-12-04T19:00:00Z,Grenoble Foot 38,EN Avant Guingamp
+Ligue 2,2026-12-04T19:00:00Z,US Boulogne CO,Pau FC
+Ligue 2,2026-12-05T13:00:00Z,Montpellier Hérault SC,FC Nantes
+Ligue 2,2026-12-05T13:00:00Z,USL Dunkerque,Red Star FC
+Ligue 2,2026-12-05T19:45:00Z,AS Saint-Étienne,AS Nancy Lorraine
+Ligue 2,2026-12-07T19:45:00Z,Rodez Aveyron Football,Stade DE Reims
+Ligue 2,2026-12-11T19:00:00Z,AS Nancy Lorraine,Clermont Foot 63
+Ligue 2,2026-12-11T19:00:00Z,EN Avant Guingamp,Dijon FCO
+Ligue 2,2026-12-11T19:00:00Z,FC Nantes,FC Annecy
+Ligue 2,2026-12-11T19:00:00Z,Stade Lavallois MFC,USL Dunkerque
+Ligue 2,2026-12-11T19:00:00Z,US Boulogne CO,Rodez Aveyron Football
+Ligue 2,2026-12-12T13:00:00Z,Pau FC,AS Saint-Étienne
+Ligue 2,2026-12-12T13:00:00Z,Red Star FC,Grenoble Foot 38
+Ligue 2,2026-12-12T19:00:00Z,FC Metz,Stade DE Reims
+Ligue 2,2026-12-14T19:45:00Z,FC Sochaux-Montbéliard,Montpellier Hérault SC
+Ligue 2,2027-01-02T13:00:00Z,FC Metz,AS Nancy Lorraine
+Ligue 2,2027-01-02T18:00:00Z,Clermont Foot 63,Pau FC
+Ligue 2,2027-01-02T18:00:00Z,Dijon FCO,FC Nantes
+Ligue 2,2027-01-02T18:00:00Z,Grenoble Foot 38,FC Sochaux-Montbéliard
+Ligue 2,2027-01-02T18:00:00Z,Montpellier Hérault SC,EN Avant Guingamp
+Ligue 2,2027-01-02T18:00:00Z,Rodez Aveyron Football,Red Star FC
+Ligue 2,2027-01-02T18:00:00Z,Stade DE Reims,Stade Lavallois MFC
+Ligue 2,2027-01-02T18:00:00Z,USL Dunkerque,US Boulogne CO
+Ligue 2,2027-01-04T19:45:00Z,FC Annecy,AS Saint-Étienne
+Ligue 2,2027-01-13T23:00:00Z,AS Nancy Lorraine,Grenoble Foot 38
+Ligue 2,2027-01-13T23:00:00Z,AS Saint-Étienne,US Boulogne CO
+Ligue 2,2027-01-13T23:00:00Z,Dijon FCO,USL Dunkerque
+Ligue 2,2027-01-13T23:00:00Z,FC Nantes,FC Metz
+Ligue 2,2027-01-13T23:00:00Z,FC Sochaux-Montbéliard,Rodez Aveyron Football
+Ligue 2,2027-01-13T23:00:00Z,Montpellier Hérault SC,Clermont Foot 63
+Ligue 2,2027-01-13T23:00:00Z,Pau FC,Stade DE Reims
+Ligue 2,2027-01-13T23:00:00Z,Red Star FC,FC Annecy
+Ligue 2,2027-01-13T23:00:00Z,Stade Lavallois MFC,EN Avant Guingamp
+Ligue 2,2027-01-20T23:00:00Z,Clermont Foot 63,AS Saint-Étienne
+Ligue 2,2027-01-20T23:00:00Z,EN Avant Guingamp,AS Nancy Lorraine
+Ligue 2,2027-01-20T23:00:00Z,FC Metz,Dijon FCO
+Ligue 2,2027-01-20T23:00:00Z,Grenoble Foot 38,Montpellier Hérault SC
+Ligue 2,2027-01-20T23:00:00Z,Rodez Aveyron Football,FC Annecy
+Ligue 2,2027-01-20T23:00:00Z,Stade DE Reims,Red Star FC
+Ligue 2,2027-01-20T23:00:00Z,Stade Lavallois MFC,Pau FC
+Ligue 2,2027-01-20T23:00:00Z,US Boulogne CO,FC Sochaux-Montbéliard
+Ligue 2,2027-01-20T23:00:00Z,USL Dunkerque,FC Nantes
+Ligue 2,2027-01-27T23:00:00Z,AS Nancy Lorraine,US Boulogne CO
+Ligue 2,2027-01-27T23:00:00Z,AS Saint-Étienne,USL Dunkerque
+Ligue 2,2027-01-27T23:00:00Z,Dijon FCO,Clermont Foot 63
+Ligue 2,2027-01-27T23:00:00Z,FC Annecy,Grenoble Foot 38
+Ligue 2,2027-01-27T23:00:00Z,FC Nantes,EN Avant Guingamp
+Ligue 2,2027-01-27T23:00:00Z,FC Sochaux-Montbéliard,Stade DE Reims
+Ligue 2,2027-01-27T23:00:00Z,Montpellier Hérault SC,Rodez Aveyron Football
+Ligue 2,2027-01-27T23:00:00Z,Pau FC,FC Metz
+Ligue 2,2027-01-27T23:00:00Z,Red Star FC,Stade Lavallois MFC
+Ligue 2,2027-02-03T23:00:00Z,EN Avant Guingamp,USL Dunkerque
+Ligue 2,2027-02-03T23:00:00Z,FC Metz,FC Annecy
+Ligue 2,2027-02-03T23:00:00Z,FC Sochaux-Montbéliard,Pau FC
+Ligue 2,2027-02-03T23:00:00Z,Grenoble Foot 38,AS Saint-Étienne
+Ligue 2,2027-02-03T23:00:00Z,Red Star FC,Montpellier Hérault SC
+Ligue 2,2027-02-03T23:00:00Z,Rodez Aveyron Football,FC Nantes
+Ligue 2,2027-02-03T23:00:00Z,Stade DE Reims,AS Nancy Lorraine
+Ligue 2,2027-02-03T23:00:00Z,Stade Lavallois MFC,Dijon FCO
+Ligue 2,2027-02-03T23:00:00Z,US Boulogne CO,Clermont Foot 63
+Ligue 2,2027-02-10T23:00:00Z,AS Nancy Lorraine,Red Star FC
+Ligue 2,2027-02-10T23:00:00Z,AS Saint-Étienne,FC Metz
+Ligue 2,2027-02-10T23:00:00Z,Clermont Foot 63,Stade Lavallois MFC
+Ligue 2,2027-02-10T23:00:00Z,Dijon FCO,Grenoble Foot 38
+Ligue 2,2027-02-10T23:00:00Z,FC Annecy,FC Sochaux-Montbéliard
+Ligue 2,2027-02-10T23:00:00Z,FC Nantes,US Boulogne CO
+Ligue 2,2027-02-10T23:00:00Z,Montpellier Hérault SC,Stade DE Reims
+Ligue 2,2027-02-10T23:00:00Z,Rodez Aveyron Football,EN Avant Guingamp
+Ligue 2,2027-02-10T23:00:00Z,USL Dunkerque,Pau FC
+Ligue 2,2027-02-17T23:00:00Z,EN Avant Guingamp,Clermont Foot 63
+Ligue 2,2027-02-17T23:00:00Z,FC Metz,Montpellier Hérault SC
+Ligue 2,2027-02-17T23:00:00Z,FC Sochaux-Montbéliard,Dijon FCO
+Ligue 2,2027-02-17T23:00:00Z,Grenoble Foot 38,Rodez Aveyron Football
+Ligue 2,2027-02-17T23:00:00Z,Pau FC,Red Star FC
+Ligue 2,2027-02-17T23:00:00Z,Stade DE Reims,FC Nantes
+Ligue 2,2027-02-17T23:00:00Z,Stade Lavallois MFC,FC Annecy
+Ligue 2,2027-02-17T23:00:00Z,US Boulogne CO,AS Saint-Étienne
+Ligue 2,2027-02-17T23:00:00Z,USL Dunkerque,AS Nancy Lorraine
+Ligue 2,2027-02-24T23:00:00Z,AS Saint-Étienne,FC Sochaux-Montbéliard
+Ligue 2,2027-02-24T23:00:00Z,Clermont Foot 63,USL Dunkerque
+Ligue 2,2027-02-24T23:00:00Z,Dijon FCO,AS Nancy Lorraine
+Ligue 2,2027-02-24T23:00:00Z,FC Annecy,Stade DE Reims
+Ligue 2,2027-02-24T23:00:00Z,FC Metz,Grenoble Foot 38
+Ligue 2,2027-02-24T23:00:00Z,FC Nantes,Pau FC
+Ligue 2,2027-02-24T23:00:00Z,Montpellier Hérault SC,Stade Lavallois MFC
+Ligue 2,2027-02-24T23:00:00Z,Red Star FC,EN Avant Guingamp
+Ligue 2,2027-02-24T23:00:00Z,Rodez Aveyron Football,US Boulogne CO
+Ligue 2,2027-03-03T23:00:00Z,AS Nancy Lorraine,FC Nantes
+Ligue 2,2027-03-03T23:00:00Z,AS Saint-Étienne,EN Avant Guingamp
+Ligue 2,2027-03-03T23:00:00Z,FC Sochaux-Montbéliard,FC Metz
+Ligue 2,2027-03-03T23:00:00Z,Grenoble Foot 38,Red Star FC
+Ligue 2,2027-03-03T23:00:00Z,Montpellier Hérault SC,FC Annecy
+Ligue 2,2027-03-03T23:00:00Z,Pau FC,Clermont Foot 63
+Ligue 2,2027-03-03T23:00:00Z,Stade DE Reims,Rodez Aveyron Football
+Ligue 2,2027-03-03T23:00:00Z,US Boulogne CO,Stade Lavallois MFC
+Ligue 2,2027-03-03T23:00:00Z,USL Dunkerque,Dijon FCO
+Ligue 2,2027-03-10T23:00:00Z,AS Nancy Lorraine,Pau FC
+Ligue 2,2027-03-10T23:00:00Z,Clermont Foot 63,Montpellier Hérault SC
+Ligue 2,2027-03-10T23:00:00Z,EN Avant Guingamp,Grenoble Foot 38
+Ligue 2,2027-03-10T23:00:00Z,FC Annecy,US Boulogne CO
+Ligue 2,2027-03-10T23:00:00Z,FC Metz,USL Dunkerque
+Ligue 2,2027-03-10T23:00:00Z,FC Nantes,AS Saint-Étienne
+Ligue 2,2027-03-10T23:00:00Z,Red Star FC,Dijon FCO
+Ligue 2,2027-03-10T23:00:00Z,Rodez Aveyron Football,FC Sochaux-Montbéliard
+Ligue 2,2027-03-10T23:00:00Z,Stade Lavallois MFC,Stade DE Reims
+Ligue 2,2027-03-17T23:00:00Z,AS Saint-Étienne,Red Star FC
+Ligue 2,2027-03-17T23:00:00Z,Dijon FCO,FC Annecy
+Ligue 2,2027-03-17T23:00:00Z,EN Avant Guingamp,Stade Lavallois MFC
+Ligue 2,2027-03-17T23:00:00Z,FC Sochaux-Montbéliard,AS Nancy Lorraine
+Ligue 2,2027-03-17T23:00:00Z,Grenoble Foot 38,FC Nantes
+Ligue 2,2027-03-17T23:00:00Z,Pau FC,Montpellier Hérault SC
+Ligue 2,2027-03-17T23:00:00Z,Stade DE Reims,Clermont Foot 63
+Ligue 2,2027-03-17T23:00:00Z,US Boulogne CO,FC Metz
+Ligue 2,2027-03-17T23:00:00Z,USL Dunkerque,Rodez Aveyron Football
+Ligue 2,2027-04-01T22:00:00Z,AS Nancy Lorraine,AS Saint-Étienne
+Ligue 2,2027-04-01T22:00:00Z,Clermont Foot 63,Grenoble Foot 38
+Ligue 2,2027-04-01T22:00:00Z,FC Annecy,EN Avant Guingamp
+Ligue 2,2027-04-01T22:00:00Z,FC Nantes,FC Sochaux-Montbéliard
+Ligue 2,2027-04-01T22:00:00Z,Montpellier Hérault SC,USL Dunkerque
+Ligue 2,2027-04-01T22:00:00Z,Red Star FC,US Boulogne CO
+Ligue 2,2027-04-01T22:00:00Z,Rodez Aveyron Football,Dijon FCO
+Ligue 2,2027-04-01T22:00:00Z,Stade DE Reims,Pau FC
+Ligue 2,2027-04-01T22:00:00Z,Stade Lavallois MFC,FC Metz
+Ligue 2,2027-04-08T22:00:00Z,AS Saint-Étienne,FC Annecy
+Ligue 2,2027-04-08T22:00:00Z,Clermont Foot 63,AS Nancy Lorraine
+Ligue 2,2027-04-08T22:00:00Z,Dijon FCO,Stade DE Reims
+Ligue 2,2027-04-08T22:00:00Z,EN Avant Guingamp,Montpellier Hérault SC
+Ligue 2,2027-04-08T22:00:00Z,FC Metz,FC Nantes
+Ligue 2,2027-04-08T22:00:00Z,FC Sochaux-Montbéliard,Red Star FC
+Ligue 2,2027-04-08T22:00:00Z,Pau FC,Rodez Aveyron Football
+Ligue 2,2027-04-08T22:00:00Z,US Boulogne CO,Grenoble Foot 38
+Ligue 2,2027-04-08T22:00:00Z,USL Dunkerque,Stade Lavallois MFC
+Ligue 2,2027-04-15T22:00:00Z,Dijon FCO,EN Avant Guingamp
+Ligue 2,2027-04-15T22:00:00Z,FC Annecy,USL Dunkerque
+Ligue 2,2027-04-15T22:00:00Z,Grenoble Foot 38,AS Nancy Lorraine
+Ligue 2,2027-04-15T22:00:00Z,Montpellier Hérault SC,FC Sochaux-Montbéliard
+Ligue 2,2027-04-15T22:00:00Z,Pau FC,US Boulogne CO
+Ligue 2,2027-04-15T22:00:00Z,Red Star FC,FC Nantes
+Ligue 2,2027-04-15T22:00:00Z,Rodez Aveyron Football,Clermont Foot 63
+Ligue 2,2027-04-15T22:00:00Z,Stade DE Reims,FC Metz
+Ligue 2,2027-04-15T22:00:00Z,Stade Lavallois MFC,AS Saint-Étienne
+Ligue 2,2027-04-22T22:00:00Z,AS Nancy Lorraine,FC Annecy
+Ligue 2,2027-04-22T22:00:00Z,AS Saint-Étienne,Dijon FCO
+Ligue 2,2027-04-22T22:00:00Z,EN Avant Guingamp,Stade DE Reims
+Ligue 2,2027-04-22T22:00:00Z,FC Metz,Clermont Foot 63
+Ligue 2,2027-04-22T22:00:00Z,FC Nantes,Montpellier Hérault SC
+Ligue 2,2027-04-22T22:00:00Z,FC Sochaux-Montbéliard,Stade Lavallois MFC
+Ligue 2,2027-04-22T22:00:00Z,Grenoble Foot 38,Pau FC
+Ligue 2,2027-04-22T22:00:00Z,Red Star FC,Rodez Aveyron Football
+Ligue 2,2027-04-22T22:00:00Z,US Boulogne CO,USL Dunkerque
+Ligue 2,2027-04-29T22:00:00Z,Clermont Foot 63,FC Nantes
+Ligue 2,2027-04-29T22:00:00Z,Dijon FCO,US Boulogne CO
+Ligue 2,2027-04-29T22:00:00Z,FC Annecy,Red Star FC
+Ligue 2,2027-04-29T22:00:00Z,Montpellier Hérault SC,AS Saint-Étienne
+Ligue 2,2027-04-29T22:00:00Z,Pau FC,EN Avant Guingamp
+Ligue 2,2027-04-29T22:00:00Z,Rodez Aveyron Football,FC Metz
+Ligue 2,2027-04-29T22:00:00Z,Stade DE Reims,Grenoble Foot 38
+Ligue 2,2027-04-29T22:00:00Z,Stade Lavallois MFC,AS Nancy Lorraine
+Ligue 2,2027-04-29T22:00:00Z,USL Dunkerque,FC Sochaux-Montbéliard
+Ligue 2,2027-05-06T22:00:00Z,AS Nancy Lorraine,Rodez Aveyron Football
+Ligue 2,2027-05-06T22:00:00Z,AS Saint-Étienne,Stade DE Reims
+Ligue 2,2027-05-06T22:00:00Z,EN Avant Guingamp,FC Metz
+Ligue 2,2027-05-06T22:00:00Z,FC Annecy,Pau FC
+Ligue 2,2027-05-06T22:00:00Z,FC Nantes,Dijon FCO
+Ligue 2,2027-05-06T22:00:00Z,FC Sochaux-Montbéliard,Clermont Foot 63
+Ligue 2,2027-05-06T22:00:00Z,Grenoble Foot 38,Stade Lavallois MFC
+Ligue 2,2027-05-06T22:00:00Z,Red Star FC,USL Dunkerque
+Ligue 2,2027-05-06T22:00:00Z,US Boulogne CO,Montpellier Hérault SC
+Ligue 2,2027-05-13T22:00:00Z,Clermont Foot 63,FC Annecy
+Ligue 2,2027-05-13T22:00:00Z,FC Metz,Red Star FC
+Ligue 2,2027-05-13T22:00:00Z,FC Nantes,Stade Lavallois MFC
+Ligue 2,2027-05-13T22:00:00Z,FC Sochaux-Montbéliard,Grenoble Foot 38
+Ligue 2,2027-05-13T22:00:00Z,Montpellier Hérault SC,AS Nancy Lorraine
+Ligue 2,2027-05-13T22:00:00Z,Pau FC,Dijon FCO
+Ligue 2,2027-05-13T22:00:00Z,Rodez Aveyron Football,AS Saint-Étienne
+Ligue 2,2027-05-13T22:00:00Z,US Boulogne CO,EN Avant Guingamp
+Ligue 2,2027-05-13T22:00:00Z,USL Dunkerque,Stade DE Reims
+Ligue 2,2027-05-21T22:00:00Z,AS Nancy Lorraine,FC Metz
+Ligue 2,2027-05-21T22:00:00Z,AS Saint-Étienne,Pau FC
+Ligue 2,2027-05-21T22:00:00Z,Dijon FCO,Montpellier Hérault SC
+Ligue 2,2027-05-21T22:00:00Z,EN Avant Guingamp,FC Sochaux-Montbéliard
+Ligue 2,2027-05-21T22:00:00Z,FC Annecy,FC Nantes
+Ligue 2,2027-05-21T22:00:00Z,Grenoble Foot 38,USL Dunkerque
+Ligue 2,2027-05-21T22:00:00Z,Red Star FC,Clermont Foot 63
+Ligue 2,2027-05-21T22:00:00Z,Stade DE Reims,US Boulogne CO
+Ligue 2,2027-05-21T22:00:00Z,Stade Lavallois MFC,Rodez Aveyron Football
