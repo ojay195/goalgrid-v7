@@ -92,9 +92,10 @@ def main():
     print("       V7 BASELINE LOCKED - NO RETUNING")
     print("=" * 62)
 
+   
     # Point the unchanged V7 loader at the separate combined live history.
     v7.DATA_FILE = str(HISTORY_FILE)
-   
+
     # Extend supported competitions without changing V7 calculations.
     ADDITIONAL_LEAGUES = [
         "UEFA Champions League",
@@ -110,17 +111,6 @@ def main():
         "Liga I",
     ]
 
-        v7.LEAGUES = list(v7.LEAGUES) + [
-        league for league in ADDITIONAL_LEAGUES
-        if league not in v7.LEAGUES
-    ]
-
-    matches = v7.load_matches()
-
-    matches = v7.load_matches()
-
-
-    
     v7.LEAGUES = list(v7.LEAGUES) + [
         league for league in ADDITIONAL_LEAGUES
         if league not in v7.LEAGUES
@@ -129,8 +119,6 @@ def main():
     matches = v7.load_matches()
     aliases = load_aliases()
     fixtures = read_csv(FIXTURES_FILE)
-
-   
 
     if not matches:
         raise ValueError("No valid historical or current-season matches loaded.")
