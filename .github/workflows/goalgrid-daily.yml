@@ -31,11 +31,13 @@ jobs:
         if: always()
         with:
           name: goalgrid-stage-a-test-reports
-          path: |
+          path: |           
+            automation/data/
             automation/team_matching_audit.csv
             automation/v7_fixture_eligibility_report.csv
             automation/v7_live_predictions.csv
           if-no-files-found: warn
+      
           retention-days: 7
 
       # - name: Publish generated data
