@@ -109,17 +109,17 @@ ADDITIONAL_LEAGUES = [
     "Liga I",
 ]
 
-v7.LEAGUES = list(v7.LEAGUES) + [
-    league for league in ADDITIONAL_LEAGUES
-    if league not in v7.LEAGUES
-]
+    
     v7.LEAGUES = list(v7.LEAGUES) + [
         league for league in ADDITIONAL_LEAGUES
         if league not in v7.LEAGUES
-]
+    ]
+
     matches = v7.load_matches()
     aliases = load_aliases()
     fixtures = read_csv(FIXTURES_FILE)
+
+   
 
     if not matches:
         raise ValueError("No valid historical or current-season matches loaded.")
