@@ -114,8 +114,8 @@ v7.LEAGUES = list(v7.LEAGUES) + [
     if league not in v7.LEAGUES
 ]
     v7.LEAGUES = list(v7.LEAGUES) + [
-    league for league in ADDITIONAL_LEAGUES
-    if league not in v7.LEAGUES
+        league for league in ADDITIONAL_LEAGUES
+        if league not in v7.LEAGUES
 ]
     matches = v7.load_matches()
     aliases = load_aliases()
