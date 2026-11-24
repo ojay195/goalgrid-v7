@@ -1,5 +1,4 @@
 league,date,home,away
-Premier League,2026-11-23T20:00:00Z,Brentford,Everton
 Premier League,2026-11-27T20:00:00Z,Nott'm Forest,Chelsea
 Premier League,2026-11-28T15:00:00Z,Leeds,Coventry
 Premier League,2026-11-28T15:00:00Z,Man Utd,Brentford
@@ -270,7 +269,6 @@ Premier League,2027-05-30T15:00:00Z,Ipswich,Everton
 Premier League,2027-05-30T15:00:00Z,Liverpool,Bournemouth
 Premier League,2027-05-30T15:00:00Z,Man Utd,Fulham
 Premier League,2027-05-30T15:00:00Z,Sunderland,Man City
-La Liga,2026-11-23T20:00:00Z,Levante UD,Elche CF
 La Liga,2026-11-27T20:00:00Z,Levante UD,R. Racing Club
 La Liga,2026-11-28T13:00:00Z,Real Betis,Rayo Vallecano
 La Liga,2026-11-28T15:15:00Z,Málaga CF,Athletic Club
@@ -738,7 +736,6 @@ Bundesliga,2027-05-22T13:30:00Z,FC Schalke 04,Bayer 04 Leverkusen
 Bundesliga,2027-05-22T13:30:00Z,RB Leipzig,TSG Hoffenheim
 Bundesliga,2027-05-22T13:30:00Z,SC Freiburg,Borussia Dortmund
 Bundesliga,2027-05-22T13:30:00Z,SV 07 Elversberg,SV Werder Bremen
-Serie A,2026-11-23T19:45:00Z,Monza,Fiorentina
 Serie A,2026-11-27T19:45:00Z,Venezia,Bologna
 Serie A,2026-11-28T14:00:00Z,Frosinone,Parma
 Serie A,2026-11-28T17:00:00Z,Torino,Lazio
@@ -2359,7 +2356,6 @@ Belgian Pro League,2027-05-22T18:00:00Z,RAAL La Louvière,Anderlecht
 Belgian Pro League,2027-05-22T18:00:00Z,Racing Genk,KV Mechelen
 Belgian Pro League,2027-05-22T18:00:00Z,Union St.-Gilloise,Royal Charleroi SC
 Belgian Pro League,2027-05-22T18:00:00Z,Waasland-Beveren,Standard Liege
-Süper Lig,2026-11-23T17:00:00Z,Istanbul Basaksehir,Çorum
 Süper Lig,2026-11-27T17:00:00Z,Alanyaspor,Konyaspor
 Süper Lig,2026-11-27T17:00:00Z,Çaykur Rizespor,Kasimpasa
 Süper Lig,2026-11-28T13:00:00Z,Samsunspor,Gençlerbirligi
@@ -2873,8 +2869,6 @@ Scottish Premiership,2027-04-10T14:00:00Z,St. Johnstone,Motherwell
 2. Bundesliga,2027-05-23T13:30:00Z,SV Darmstadt 98,VfL Osnabrück
 2. Bundesliga,2027-05-23T13:30:00Z,VfL Bochum,Holstein Kiel
 2. Bundesliga,2027-05-23T13:30:00Z,VfL Wolfsburg,Dynamo Dresden
-Ligue 2,2026-11-23T19:45:00Z,FC Nantes,Grenoble Foot 38
-Ligue 2,2026-11-23T19:45:00Z,FC Sochaux-Montbéliard,USL Dunkerque
 Ligue 2,2026-12-04T19:00:00Z,Clermont Foot 63,FC Metz
 Ligue 2,2026-12-04T19:00:00Z,Dijon FCO,FC Sochaux-Montbéliard
 Ligue 2,2026-12-04T19:00:00Z,FC Annecy,Stade Lavallois MFC
