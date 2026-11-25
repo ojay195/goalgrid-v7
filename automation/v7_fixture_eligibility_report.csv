@@ -14,9 +14,9 @@ Premier League,2026-12-02T19:30:00Z,Chelsea,Crystal Palace,Chelsea FC,Crystal Pa
 Premier League,2026-12-02T19:30:00Z,Hull,Nott'm Forest,Hull,Nottingham Forest FC,6,25,READY,YES
 Premier League,2026-12-02T19:30:00Z,Liverpool,Sunderland,Liverpool FC,Sunderland AFC,25,25,READY,YES
 Premier League,2026-12-02T19:30:00Z,Man City,Leeds,Manchester City FC,Leeds United FC,25,25,READY,YES
-Premier League,2026-12-02T20:15:00Z,Aston Villa,Everton,Aston Villa FC,Everton FC,25,24,READY,YES
+Premier League,2026-12-02T20:15:00Z,Aston Villa,Everton,Aston Villa FC,Everton FC,25,25,READY,YES
 Premier League,2026-12-02T20:15:00Z,Bournemouth,Brighton,AFC Bournemouth,Brighton & Hove Albion FC,25,25,READY,YES
-Premier League,2026-12-02T20:15:00Z,Brentford,Arsenal,Brentford FC,Arsenal FC,24,25,READY,YES
+Premier League,2026-12-02T20:15:00Z,Brentford,Arsenal,Brentford FC,Arsenal FC,25,25,READY,YES
 Premier League,2026-12-02T20:15:00Z,Newcastle,Man Utd,Newcastle United FC,Manchester United FC,25,25,READY,YES
 Premier League,2026-12-03T20:00:00Z,Spurs,Fulham,Tottenham Hotspur FC,Fulham FC,25,25,READY,YES
 Premier League,2026-12-05T12:30:00Z,Chelsea,Liverpool,Chelsea FC,Liverpool FC,25,24,READY,YES
@@ -25,7 +25,7 @@ Premier League,2026-12-05T15:00:00Z,Bournemouth,Hull,AFC Bournemouth,Hull,25,5,R
 Premier League,2026-12-05T15:00:00Z,Leeds,Ipswich,Leeds United FC,Ipswich,24,6,READY,YES
 Premier League,2026-12-05T15:00:00Z,Man Utd,Coventry,Manchester United FC,Coventry,24,5,READY,YES
 Premier League,2026-12-05T17:30:00Z,Nott'm Forest,Brighton,Nottingham Forest FC,Brighton & Hove Albion FC,24,25,READY,YES
-Premier League,2026-12-05T20:00:00Z,Brentford,Man City,Brentford FC,Manchester City FC,24,24,READY,YES
+Premier League,2026-12-05T20:00:00Z,Brentford,Man City,Brentford FC,Manchester City FC,25,24,READY,YES
 Premier League,2026-12-06T14:00:00Z,Everton,Fulham,Everton FC,Fulham FC,24,25,READY,YES
 Premier League,2026-12-06T14:00:00Z,Newcastle,Sunderland,Newcastle United FC,Sunderland AFC,25,25,READY,YES
 Premier League,2026-12-06T16:30:00Z,Spurs,Arsenal,Tottenham Hotspur FC,Arsenal FC,25,25,READY,YES
@@ -34,18 +34,18 @@ Premier League,2026-12-12T15:00:00Z,Ipswich,Newcastle,Ipswich,Newcastle United F
 Premier League,2026-12-12T15:00:00Z,Liverpool,Leeds,Liverpool FC,Leeds United FC,25,25,READY,YES
 Premier League,2026-12-12T17:30:00Z,Man City,Chelsea,Manchester City FC,Chelsea FC,25,24,READY,YES
 Premier League,2026-12-13T14:00:00Z,Arsenal,Bournemouth,Arsenal FC,AFC Bournemouth,24,24,READY,YES
-Premier League,2026-12-13T14:00:00Z,Brighton,Everton,Brighton & Hove Albion FC,Everton FC,24,24,READY,YES
+Premier League,2026-12-13T14:00:00Z,Brighton,Everton,Brighton & Hove Albion FC,Everton FC,24,25,READY,YES
 Premier League,2026-12-13T14:00:00Z,Sunderland,Nott'm Forest,Sunderland AFC,Nottingham Forest FC,24,25,READY,YES
 Premier League,2026-12-13T16:30:00Z,Coventry,Aston Villa,Coventry,Aston Villa FC,6,24,READY,YES
 Premier League,2026-12-13T19:00:00Z,Crystal Palace,Man Utd,Crystal Palace FC,Manchester United FC,24,25,READY,YES
 Premier League,2026-12-14T20:00:00Z,Hull,Spurs,Hull,Tottenham Hotspur FC,6,24,READY,YES
-Premier League,2026-12-19T12:30:00Z,Brentford,Newcastle,Brentford FC,Newcastle United FC,24,24,READY,YES
+Premier League,2026-12-19T12:30:00Z,Brentford,Newcastle,Brentford FC,Newcastle United FC,25,24,READY,YES
 Premier League,2026-12-19T15:00:00Z,Bournemouth,Coventry,AFC Bournemouth,Coventry,25,5,READY,YES
 Premier League,2026-12-19T15:00:00Z,Leeds,Fulham,Leeds United FC,Fulham FC,24,25,READY,YES
 Premier League,2026-12-19T15:00:00Z,Man City,Hull,Manchester City FC,Hull,25,5,READY,YES
 Premier League,2026-12-19T17:30:00Z,Liverpool,Spurs,Liverpool FC,Tottenham Hotspur FC,25,24,READY,YES
 Premier League,2026-12-20T14:00:00Z,Brighton,Ipswich,Brighton & Hove Albion FC,Ipswich,24,6,READY,YES
-Premier League,2026-12-20T14:00:00Z,Nott'm Forest,Everton,Nottingham Forest FC,Everton FC,24,24,READY,YES
+Premier League,2026-12-20T14:00:00Z,Nott'm Forest,Everton,Nottingham Forest FC,Everton FC,24,25,READY,YES
 Premier League,2026-12-20T14:00:00Z,Sunderland,Crystal Palace,Sunderland AFC,Crystal Palace FC,24,25,READY,YES
 Premier League,2026-12-20T16:30:00Z,Arsenal,Man Utd,Arsenal FC,Manchester United FC,24,25,READY,YES
 Premier League,2026-12-21T20:00:00Z,Chelsea,Aston Villa,Chelsea FC,Aston Villa FC,25,24,READY,YES
@@ -69,10 +69,10 @@ Premier League,2026-12-30T19:30:00Z,Man Utd,Sunderland,Manchester United FC,Sund
 Premier League,2026-12-30T19:30:00Z,Newcastle,Nott'm Forest,Newcastle United FC,Nottingham Forest FC,25,25,READY,YES
 Premier League,2026-12-30T20:15:00Z,Aston Villa,Liverpool,Aston Villa FC,Liverpool FC,25,24,READY,YES
 Premier League,2026-12-30T20:15:00Z,Ipswich,Chelsea,Ipswich,Chelsea FC,5,24,READY,YES
-Premier League,2027-01-01T20:00:00Z,Leeds,Everton,Leeds United FC,Everton FC,24,24,READY,YES
+Premier League,2027-01-01T20:00:00Z,Leeds,Everton,Leeds United FC,Everton FC,24,25,READY,YES
 Premier League,2027-01-02T12:30:00Z,Brighton,Man Utd,Brighton & Hove Albion FC,Manchester United FC,24,25,READY,YES
 Premier League,2027-01-02T15:00:00Z,Arsenal,Ipswich,Arsenal FC,Ipswich,24,6,READY,YES
-Premier League,2027-01-02T15:00:00Z,Brentford,Crystal Palace,Brentford FC,Crystal Palace FC,24,25,READY,YES
+Premier League,2027-01-02T15:00:00Z,Brentford,Crystal Palace,Brentford FC,Crystal Palace FC,25,25,READY,YES
 Premier League,2027-01-02T15:00:00Z,Liverpool,Coventry,Liverpool FC,Coventry,25,5,READY,YES
 Premier League,2027-01-02T15:00:00Z,Nott'm Forest,Fulham,Nottingham Forest FC,Fulham FC,24,25,READY,YES
 Premier League,2027-01-02T15:00:00Z,Sunderland,Hull,Sunderland AFC,Hull,24,5,READY,YES
@@ -89,7 +89,7 @@ Premier League,2027-01-06T19:30:00Z,Fulham,Spurs,Fulham FC,Tottenham Hotspur FC,
 Premier League,2027-01-06T19:30:00Z,Ipswich,Coventry,Ipswich,Coventry,5,5,READY,YES
 Premier League,2027-01-06T20:15:00Z,Leeds,Man City,Leeds United FC,Manchester City FC,24,24,READY,YES
 Premier League,2027-01-07T20:00:00Z,Man Utd,Newcastle,Manchester United FC,Newcastle United FC,24,24,READY,YES
-Premier League,2027-01-16T12:30:00Z,Coventry,Everton,Coventry,Everton FC,6,24,READY,YES
+Premier League,2027-01-16T12:30:00Z,Coventry,Everton,Coventry,Everton FC,6,25,READY,YES
 Premier League,2027-01-16T15:00:00Z,Chelsea,Sunderland,Chelsea FC,Sunderland AFC,25,25,READY,YES
 Premier League,2027-01-16T15:00:00Z,Hull,Arsenal,Hull,Arsenal FC,6,25,READY,YES
 Premier League,2027-01-16T15:00:00Z,Liverpool,Crystal Palace,Liverpool FC,Crystal Palace FC,25,25,READY,YES
@@ -98,7 +98,7 @@ Premier League,2027-01-16T15:00:00Z,Newcastle,Fulham,Newcastle United FC,Fulham 
 Premier League,2027-01-16T17:30:00Z,Aston Villa,Man Utd,Aston Villa FC,Manchester United FC,25,25,READY,YES
 Premier League,2027-01-17T14:00:00Z,Bournemouth,Ipswich,AFC Bournemouth,Ipswich,25,6,READY,YES
 Premier League,2027-01-17T16:30:00Z,Spurs,Leeds,Tottenham Hotspur FC,Leeds United FC,25,25,READY,YES
-Premier League,2027-01-18T20:00:00Z,Brentford,Brighton,Brentford FC,Brighton & Hove Albion FC,24,25,READY,YES
+Premier League,2027-01-18T20:00:00Z,Brentford,Brighton,Brentford FC,Brighton & Hove Albion FC,25,25,READY,YES
 Premier League,2027-01-23T15:00:00Z,Fulham,Aston Villa,Fulham FC,Aston Villa FC,24,24,READY,YES
 Premier League,2027-01-23T15:00:00Z,Ipswich,Hull,Ipswich,Hull,5,5,READY,YES
 Premier League,2027-01-23T17:30:00Z,Arsenal,Newcastle,Arsenal FC,Newcastle United FC,24,24,READY,YES
@@ -109,7 +109,7 @@ Premier League,2027-01-24T14:00:00Z,Nott'm Forest,Bournemouth,Nottingham Forest 
 Premier League,2027-01-24T14:00:00Z,Sunderland,Coventry,Sunderland AFC,Coventry,24,5,READY,YES
 Premier League,2027-01-24T16:30:00Z,Man Utd,Liverpool,Manchester United FC,Liverpool FC,24,24,READY,YES
 Premier League,2027-01-25T20:00:00Z,Leeds,Chelsea,Leeds United FC,Chelsea FC,24,24,READY,YES
-Premier League,2027-01-30T12:30:00Z,Liverpool,Everton,Liverpool FC,Everton FC,25,24,READY,YES
+Premier League,2027-01-30T12:30:00Z,Liverpool,Everton,Liverpool FC,Everton FC,25,25,READY,YES
 Premier League,2027-01-30T15:00:00Z,Aston Villa,Ipswich,Aston Villa FC,Ipswich,25,6,READY,YES
 Premier League,2027-01-30T15:00:00Z,Newcastle,Brighton,Newcastle United FC,Brighton & Hove Albion FC,25,25,READY,YES
 Premier League,2027-01-30T17:30:00Z,Chelsea,Nott'm Forest,Chelsea FC,Nottingham Forest FC,25,25,READY,YES
@@ -118,7 +118,7 @@ Premier League,2027-01-31T14:00:00Z,Coventry,Leeds,Coventry,Leeds United FC,6,25
 Premier League,2027-01-31T14:00:00Z,Hull,Crystal Palace,Hull,Crystal Palace FC,6,25,READY,YES
 Premier League,2027-01-31T14:00:00Z,Spurs,Sunderland,Tottenham Hotspur FC,Sunderland AFC,25,25,READY,YES
 Premier League,2027-01-31T16:30:00Z,Man City,Arsenal,Manchester City FC,Arsenal FC,25,25,READY,YES
-Premier League,2027-02-01T20:00:00Z,Brentford,Man Utd,Brentford FC,Manchester United FC,24,25,READY,YES
+Premier League,2027-02-01T20:00:00Z,Brentford,Man Utd,Brentford FC,Manchester United FC,25,25,READY,YES
 Premier League,2027-02-06T15:00:00Z,Arsenal,Liverpool,Arsenal FC,Liverpool FC,24,24,READY,YES
 Premier League,2027-02-06T15:00:00Z,Brighton,Hull,Brighton & Hove Albion FC,Hull,24,5,READY,YES
 Premier League,2027-02-06T15:00:00Z,Crystal Palace,Coventry,Crystal Palace FC,Coventry,24,5,READY,YES
@@ -141,14 +141,14 @@ Premier League,2027-02-10T20:00:00Z,Newcastle,Chelsea,Newcastle United FC,Chelse
 Premier League,2027-02-10T20:00:00Z,Spurs,Man City,Tottenham Hotspur FC,Manchester City FC,25,24,READY,YES
 Premier League,2027-02-20T15:00:00Z,Arsenal,Fulham,Arsenal FC,Fulham FC,24,25,READY,YES
 Premier League,2027-02-20T15:00:00Z,Bournemouth,Crystal Palace,AFC Bournemouth,Crystal Palace FC,25,25,READY,YES
-Premier League,2027-02-20T15:00:00Z,Brentford,Coventry,Brentford FC,Coventry,24,5,READY,YES
+Premier League,2027-02-20T15:00:00Z,Brentford,Coventry,Brentford FC,Coventry,25,5,READY,YES
 Premier League,2027-02-20T15:00:00Z,Brighton,Spurs,Brighton & Hove Albion FC,Tottenham Hotspur FC,24,24,READY,YES
 Premier League,2027-02-20T15:00:00Z,Chelsea,Ipswich,Chelsea FC,Ipswich,25,6,READY,YES
 Premier League,2027-02-20T15:00:00Z,Leeds,Aston Villa,Leeds United FC,Aston Villa FC,24,24,READY,YES
 Premier League,2027-02-20T15:00:00Z,Liverpool,Hull,Liverpool FC,Hull,25,5,READY,YES
 Premier League,2027-02-20T15:00:00Z,Man City,Newcastle,Manchester City FC,Newcastle United FC,25,24,READY,YES
 Premier League,2027-02-20T15:00:00Z,Nott'm Forest,Man Utd,Nottingham Forest FC,Manchester United FC,24,25,READY,YES
-Premier League,2027-02-20T15:00:00Z,Sunderland,Everton,Sunderland AFC,Everton FC,24,24,READY,YES
+Premier League,2027-02-20T15:00:00Z,Sunderland,Everton,Sunderland AFC,Everton FC,24,25,READY,YES
 Premier League,2027-02-27T15:00:00Z,Aston Villa,Chelsea,Aston Villa FC,Chelsea FC,25,24,READY,YES
 Premier League,2027-02-27T15:00:00Z,Coventry,Bournemouth,Coventry,AFC Bournemouth,6,24,READY,YES
 Premier League,2027-02-27T15:00:00Z,Crystal Palace,Sunderland,Crystal Palace FC,Sunderland AFC,24,25,READY,YES
@@ -161,12 +161,12 @@ Premier League,2027-02-27T15:00:00Z,Newcastle,Brentford,Newcastle United FC,Bren
 Premier League,2027-02-27T15:00:00Z,Spurs,Liverpool,Tottenham Hotspur FC,Liverpool FC,25,24,READY,YES
 Premier League,2027-03-03T20:00:00Z,Arsenal,Crystal Palace,Arsenal FC,Crystal Palace FC,24,25,READY,YES
 Premier League,2027-03-03T20:00:00Z,Bournemouth,Spurs,AFC Bournemouth,Tottenham Hotspur FC,25,24,READY,YES
-Premier League,2027-03-03T20:00:00Z,Brentford,Ipswich,Brentford FC,Ipswich,24,6,READY,YES
+Premier League,2027-03-03T20:00:00Z,Brentford,Ipswich,Brentford FC,Ipswich,25,6,READY,YES
 Premier League,2027-03-03T20:00:00Z,Brighton,Fulham,Brighton & Hove Albion FC,Fulham FC,24,25,READY,YES
 Premier League,2027-03-03T20:00:00Z,Chelsea,Coventry,Chelsea FC,Coventry,25,5,READY,YES
 Premier League,2027-03-03T20:00:00Z,Leeds,Hull,Leeds United FC,Hull,24,5,READY,YES
 Premier League,2027-03-03T20:00:00Z,Liverpool,Aston Villa,Liverpool FC,Aston Villa FC,25,24,READY,YES
-Premier League,2027-03-03T20:00:00Z,Man City,Everton,Manchester City FC,Everton FC,25,24,READY,YES
+Premier League,2027-03-03T20:00:00Z,Man City,Everton,Manchester City FC,Everton FC,25,25,READY,YES
 Premier League,2027-03-03T20:00:00Z,Nott'm Forest,Newcastle,Nottingham Forest FC,Newcastle United FC,24,24,READY,YES
 Premier League,2027-03-03T20:00:00Z,Sunderland,Man Utd,Sunderland AFC,Manchester United FC,24,25,READY,YES
 Premier League,2027-03-13T15:00:00Z,Aston Villa,Hull,Aston Villa FC,Hull,25,5,READY,YES
@@ -176,11 +176,11 @@ Premier League,2027-03-13T15:00:00Z,Coventry,Man City,Coventry,Manchester City F
 Premier League,2027-03-13T15:00:00Z,Crystal Palace,Fulham,Crystal Palace FC,Fulham FC,24,25,READY,YES
 Premier League,2027-03-13T15:00:00Z,Leeds,Brighton,Leeds United FC,Brighton & Hove Albion FC,24,25,READY,YES
 Premier League,2027-03-13T15:00:00Z,Liverpool,Ipswich,Liverpool FC,Ipswich,25,6,READY,YES
-Premier League,2027-03-13T15:00:00Z,Man Utd,Everton,Manchester United FC,Everton FC,24,24,READY,YES
+Premier League,2027-03-13T15:00:00Z,Man Utd,Everton,Manchester United FC,Everton FC,24,25,READY,YES
 Premier League,2027-03-13T15:00:00Z,Spurs,Nott'm Forest,Tottenham Hotspur FC,Nottingham Forest FC,25,25,READY,YES
 Premier League,2027-03-13T15:00:00Z,Sunderland,Brentford,Sunderland AFC,Brentford FC,24,24,READY,YES
 Premier League,2027-03-20T15:00:00Z,Arsenal,Sunderland,Arsenal FC,Sunderland AFC,24,25,READY,YES
-Premier League,2027-03-20T15:00:00Z,Brentford,Bournemouth,Brentford FC,AFC Bournemouth,24,24,READY,YES
+Premier League,2027-03-20T15:00:00Z,Brentford,Bournemouth,Brentford FC,AFC Bournemouth,25,24,READY,YES
 Premier League,2027-03-20T15:00:00Z,Brighton,Coventry,Brighton & Hove Albion FC,Coventry,24,5,READY,YES
 Premier League,2027-03-20T15:00:00Z,Everton,Spurs,Everton FC,Tottenham Hotspur FC,24,24,READY,YES
 Premier League,2027-03-20T15:00:00Z,Fulham,Liverpool,Fulham FC,Liverpool FC,24,24,READY,YES
@@ -193,14 +193,14 @@ Premier League,2027-04-10T14:00:00Z,Aston Villa,Brighton,Aston Villa FC,Brighton
 Premier League,2027-04-10T14:00:00Z,Bournemouth,Man City,AFC Bournemouth,Manchester City FC,25,24,READY,YES
 Premier League,2027-04-10T14:00:00Z,Chelsea,Fulham,Chelsea FC,Fulham FC,25,25,READY,YES
 Premier League,2027-04-10T14:00:00Z,Coventry,Arsenal,Coventry,Arsenal FC,6,25,READY,YES
-Premier League,2027-04-10T14:00:00Z,Crystal Palace,Everton,Crystal Palace FC,Everton FC,24,24,READY,YES
+Premier League,2027-04-10T14:00:00Z,Crystal Palace,Everton,Crystal Palace FC,Everton FC,24,25,READY,YES
 Premier League,2027-04-10T14:00:00Z,Leeds,Nott'm Forest,Leeds United FC,Nottingham Forest FC,24,25,READY,YES
 Premier League,2027-04-10T14:00:00Z,Liverpool,Newcastle,Liverpool FC,Newcastle United FC,25,24,READY,YES
 Premier League,2027-04-10T14:00:00Z,Man Utd,Hull,Manchester United FC,Hull,24,5,READY,YES
 Premier League,2027-04-10T14:00:00Z,Spurs,Brentford,Tottenham Hotspur FC,Brentford FC,25,24,READY,YES
 Premier League,2027-04-10T14:00:00Z,Sunderland,Ipswich,Sunderland AFC,Ipswich,24,6,READY,YES
 Premier League,2027-04-17T14:00:00Z,Arsenal,Aston Villa,Arsenal FC,Aston Villa FC,24,24,READY,YES
-Premier League,2027-04-17T14:00:00Z,Brentford,Leeds,Brentford FC,Leeds United FC,24,25,READY,YES
+Premier League,2027-04-17T14:00:00Z,Brentford,Leeds,Brentford FC,Leeds United FC,25,25,READY,YES
 Premier League,2027-04-17T14:00:00Z,Brighton,Chelsea,Brighton & Hove Albion FC,Chelsea FC,24,24,READY,YES
 Premier League,2027-04-17T14:00:00Z,Everton,Bournemouth,Everton FC,AFC Bournemouth,24,24,READY,YES
 Premier League,2027-04-17T14:00:00Z,Fulham,Sunderland,Fulham FC,Sunderland AFC,24,25,READY,YES
@@ -211,7 +211,7 @@ Premier League,2027-04-17T14:00:00Z,Newcastle,Spurs,Newcastle United FC,Tottenha
 Premier League,2027-04-17T14:00:00Z,Nott'm Forest,Liverpool,Nottingham Forest FC,Liverpool FC,24,24,READY,YES
 Premier League,2027-04-24T14:00:00Z,Aston Villa,Coventry,Aston Villa FC,Coventry,25,5,READY,YES
 Premier League,2027-04-24T14:00:00Z,Bournemouth,Arsenal,AFC Bournemouth,Arsenal FC,25,25,READY,YES
-Premier League,2027-04-24T14:00:00Z,Brentford,Fulham,Brentford FC,Fulham FC,24,25,READY,YES
+Premier League,2027-04-24T14:00:00Z,Brentford,Fulham,Brentford FC,Fulham FC,25,25,READY,YES
 Premier League,2027-04-24T14:00:00Z,Chelsea,Man City,Chelsea FC,Manchester City FC,25,24,READY,YES
 Premier League,2027-04-24T14:00:00Z,Everton,Brighton,Everton FC,Brighton & Hove Albion FC,24,25,READY,YES
 Premier League,2027-04-24T14:00:00Z,Leeds,Liverpool,Leeds United FC,Liverpool FC,24,24,READY,YES
@@ -223,14 +223,14 @@ Premier League,2027-05-01T14:00:00Z,Arsenal,Spurs,Arsenal FC,Tottenham Hotspur F
 Premier League,2027-05-01T14:00:00Z,Brighton,Nott'm Forest,Brighton & Hove Albion FC,Nottingham Forest FC,24,25,READY,YES
 Premier League,2027-05-01T14:00:00Z,Coventry,Man Utd,Coventry,Manchester United FC,6,25,READY,YES
 Premier League,2027-05-01T14:00:00Z,Crystal Palace,Aston Villa,Crystal Palace FC,Aston Villa FC,24,24,READY,YES
-Premier League,2027-05-01T14:00:00Z,Fulham,Everton,Fulham FC,Everton FC,24,24,READY,YES
+Premier League,2027-05-01T14:00:00Z,Fulham,Everton,Fulham FC,Everton FC,24,25,READY,YES
 Premier League,2027-05-01T14:00:00Z,Hull,Bournemouth,Hull,AFC Bournemouth,6,24,READY,YES
 Premier League,2027-05-01T14:00:00Z,Ipswich,Leeds,Ipswich,Leeds United FC,5,25,READY,YES
 Premier League,2027-05-01T14:00:00Z,Liverpool,Chelsea,Liverpool FC,Chelsea FC,25,24,READY,YES
 Premier League,2027-05-01T14:00:00Z,Man City,Brentford,Manchester City FC,Brentford FC,25,24,READY,YES
 Premier League,2027-05-01T14:00:00Z,Sunderland,Newcastle,Sunderland AFC,Newcastle United FC,24,24,READY,YES
 Premier League,2027-05-08T14:00:00Z,Bournemouth,Man Utd,AFC Bournemouth,Manchester United FC,25,25,READY,YES
-Premier League,2027-05-08T14:00:00Z,Brentford,Aston Villa,Brentford FC,Aston Villa FC,24,24,READY,YES
+Premier League,2027-05-08T14:00:00Z,Brentford,Aston Villa,Brentford FC,Aston Villa FC,25,24,READY,YES
 Premier League,2027-05-08T14:00:00Z,Brighton,Sunderland,Brighton & Hove Albion FC,Sunderland AFC,24,25,READY,YES
 Premier League,2027-05-08T14:00:00Z,Everton,Hull,Everton FC,Hull,24,5,READY,YES
 Premier League,2027-05-08T14:00:00Z,Fulham,Ipswich,Fulham FC,Ipswich,24,6,READY,YES
@@ -241,7 +241,7 @@ Premier League,2027-05-08T14:00:00Z,Nott'm Forest,Crystal Palace,Nottingham Fore
 Premier League,2027-05-08T14:00:00Z,Spurs,Chelsea,Tottenham Hotspur FC,Chelsea FC,25,24,READY,YES
 Premier League,2027-05-15T14:00:00Z,Arsenal,Nott'm Forest,Arsenal FC,Nottingham Forest FC,24,25,READY,YES
 Premier League,2027-05-15T14:00:00Z,Aston Villa,Newcastle,Aston Villa FC,Newcastle United FC,25,24,READY,YES
-Premier League,2027-05-15T14:00:00Z,Chelsea,Everton,Chelsea FC,Everton FC,25,24,READY,YES
+Premier League,2027-05-15T14:00:00Z,Chelsea,Everton,Chelsea FC,Everton FC,25,25,READY,YES
 Premier League,2027-05-15T14:00:00Z,Coventry,Spurs,Coventry,Tottenham Hotspur FC,6,24,READY,YES
 Premier League,2027-05-15T14:00:00Z,Crystal Palace,Brighton,Crystal Palace FC,Brighton & Hove Albion FC,24,25,READY,YES
 Premier League,2027-05-15T14:00:00Z,Hull,Fulham,Hull,Fulham FC,6,25,READY,YES
@@ -250,7 +250,7 @@ Premier League,2027-05-15T14:00:00Z,Liverpool,Brentford,Liverpool FC,Brentford F
 Premier League,2027-05-15T14:00:00Z,Man Utd,Leeds,Manchester United FC,Leeds United FC,24,25,READY,YES
 Premier League,2027-05-15T14:00:00Z,Sunderland,Bournemouth,Sunderland AFC,AFC Bournemouth,24,24,READY,YES
 Premier League,2027-05-23T14:00:00Z,Bournemouth,Chelsea,AFC Bournemouth,Chelsea FC,25,24,READY,YES
-Premier League,2027-05-23T14:00:00Z,Brentford,Hull,Brentford FC,Hull,24,5,READY,YES
+Premier League,2027-05-23T14:00:00Z,Brentford,Hull,Brentford FC,Hull,25,5,READY,YES
 Premier League,2027-05-23T14:00:00Z,Brighton,Liverpool,Brighton & Hove Albion FC,Liverpool FC,24,24,READY,YES
 Premier League,2027-05-23T14:00:00Z,Everton,Arsenal,Everton FC,Arsenal FC,24,25,READY,YES
 Premier League,2027-05-23T14:00:00Z,Fulham,Coventry,Fulham FC,Coventry,24,5,READY,YES
@@ -265,11 +265,11 @@ Premier League,2027-05-30T15:00:00Z,Chelsea,Brentford,Chelsea FC,Brentford FC,25
 Premier League,2027-05-30T15:00:00Z,Coventry,Nott'm Forest,Coventry,Nottingham Forest FC,6,25,READY,YES
 Premier League,2027-05-30T15:00:00Z,Crystal Palace,Leeds,Crystal Palace FC,Leeds United FC,24,25,READY,YES
 Premier League,2027-05-30T15:00:00Z,Hull,Newcastle,Hull,Newcastle United FC,6,24,READY,YES
-Premier League,2027-05-30T15:00:00Z,Ipswich,Everton,Ipswich,Everton FC,5,24,READY,YES
+Premier League,2027-05-30T15:00:00Z,Ipswich,Everton,Ipswich,Everton FC,5,25,READY,YES
 Premier League,2027-05-30T15:00:00Z,Liverpool,Bournemouth,Liverpool FC,AFC Bournemouth,25,24,READY,YES
 Premier League,2027-05-30T15:00:00Z,Man Utd,Fulham,Manchester United FC,Fulham FC,24,25,READY,YES
 Premier League,2027-05-30T15:00:00Z,Sunderland,Man City,Sunderland AFC,Manchester City FC,24,24,READY,YES
-La Liga,2026-11-27T20:00:00Z,Levante UD,R. Racing Club,Levante UD,R. Racing Club,24,6,READY,YES
+La Liga,2026-11-27T20:00:00Z,Levante UD,R. Racing Club,Levante UD,R. Racing Club,25,6,READY,YES
 La Liga,2026-11-28T13:00:00Z,Real Betis,Rayo Vallecano,Real Betis Balompié,Rayo Vallecano de Madrid,25,25,READY,YES
 La Liga,2026-11-28T15:15:00Z,Málaga CF,Athletic Club,Málaga CF,Athletic Club,6,24,READY,YES
 La Liga,2026-11-28T17:30:00Z,Elche CF,Atlético de Madrid,Elche CF,Club Atlético de Madrid,25,26,READY,YES
@@ -286,7 +286,7 @@ La Liga,2026-12-05T13:00:00Z,R. Racing Club,RC Deportivo,R. Racing Club,RC Depor
 La Liga,2026-12-05T15:15:00Z,Rayo Vallecano,Levante UD,Rayo Vallecano de Madrid,Levante UD,25,26,READY,YES
 La Liga,2026-12-05T17:30:00Z,Villarreal CF,Real Sociedad,Villarreal CF,Real Sociedad de Fútbol,25,26,READY,YES
 La Liga,2026-12-05T20:00:00Z,FC Barcelona,Celta,FC Barcelona,RC Celta de Vigo,26,25,READY,YES
-La Liga,2026-12-06T13:00:00Z,CA Osasuna,Elche CF,CA Osasuna,Elche CF,26,25,READY,YES
+La Liga,2026-12-06T13:00:00Z,CA Osasuna,Elche CF,CA Osasuna,Elche CF,26,26,READY,YES
 La Liga,2026-12-06T15:15:00Z,Athletic Club,Real Madrid,Athletic Club,Real Madrid CF,26,26,READY,YES
 La Liga,2026-12-06T17:30:00Z,Getafe CF,Valencia CF,Getafe CF,Valencia CF,26,25,READY,YES
 La Liga,2026-12-06T20:00:00Z,Atlético de Madrid,Real Betis,Club Atlético de Madrid,Real Betis Balompié,25,26,READY,YES
@@ -294,7 +294,7 @@ La Liga,2026-12-07T20:00:00Z,Sevilla FC,Málaga CF,Sevilla FC,Málaga CF,26,7,RE
 La Liga,2026-12-09T19:00:00Z,Rayo Vallecano,Athletic Club,Rayo Vallecano de Madrid,Athletic Club,25,24,READY,YES
 La Liga,2026-12-13T00:00:00Z,Atlético de Madrid,Valencia CF,Club Atlético de Madrid,Valencia CF,25,25,READY,YES
 La Liga,2026-12-13T00:00:00Z,Elche CF,Sevilla FC,Elche CF,Sevilla FC,25,25,READY,YES
-La Liga,2026-12-13T00:00:00Z,Levante UD,Deportivo Alavés,Levante UD,Deportivo Alavés,24,25,READY,YES
+La Liga,2026-12-13T00:00:00Z,Levante UD,Deportivo Alavés,Levante UD,Deportivo Alavés,25,25,READY,YES
 La Liga,2026-12-13T00:00:00Z,Málaga CF,FC Barcelona,Málaga CF,FC Barcelona,6,25,READY,YES
 La Liga,2026-12-13T00:00:00Z,RC Deportivo,Athletic Club,RC Deportivo,Athletic Club,6,24,READY,YES
 La Liga,2026-12-13T00:00:00Z,RCD Espanyol de Barcelona,Celta,RCD Espanyol de Barcelona,RC Celta de Vigo,25,25,READY,YES
@@ -305,7 +305,7 @@ La Liga,2026-12-13T00:00:00Z,Villarreal CF,Rayo Vallecano,Villarreal CF,Rayo Val
 La Liga,2026-12-20T00:00:00Z,Athletic Club,Real Betis,Athletic Club,Real Betis Balompié,26,26,READY,YES
 La Liga,2026-12-20T00:00:00Z,CA Osasuna,Villarreal CF,CA Osasuna,Villarreal CF,26,26,READY,YES
 La Liga,2026-12-20T00:00:00Z,Celta,Atlético de Madrid,RC Celta de Vigo,Club Atlético de Madrid,26,26,READY,YES
-La Liga,2026-12-20T00:00:00Z,Deportivo Alavés,Elche CF,Deportivo Alavés,Elche CF,26,25,READY,YES
+La Liga,2026-12-20T00:00:00Z,Deportivo Alavés,Elche CF,Deportivo Alavés,Elche CF,26,26,READY,YES
 La Liga,2026-12-20T00:00:00Z,FC Barcelona,Real Sociedad,FC Barcelona,Real Sociedad de Fútbol,26,26,READY,YES
 La Liga,2026-12-20T00:00:00Z,Getafe CF,Levante UD,Getafe CF,Levante UD,26,26,READY,YES
 La Liga,2026-12-20T00:00:00Z,RC Deportivo,Real Madrid,RC Deportivo,Real Madrid CF,6,26,READY,YES
@@ -313,8 +313,8 @@ La Liga,2026-12-20T00:00:00Z,Rayo Vallecano,Málaga CF,Rayo Vallecano de Madrid,
 La Liga,2026-12-20T00:00:00Z,Sevilla FC,R. Racing Club,Sevilla FC,R. Racing Club,26,6,READY,YES
 La Liga,2026-12-20T00:00:00Z,Valencia CF,RCD Espanyol de Barcelona,Valencia CF,RCD Espanyol de Barcelona,26,26,READY,YES
 La Liga,2027-01-03T00:00:00Z,Celta,RC Deportivo,RC Celta de Vigo,RC Deportivo,26,7,READY,YES
-La Liga,2027-01-03T00:00:00Z,Levante UD,Valencia CF,Levante UD,Valencia CF,24,25,READY,YES
-La Liga,2027-01-03T00:00:00Z,Málaga CF,Elche CF,Málaga CF,Elche CF,6,25,READY,YES
+La Liga,2027-01-03T00:00:00Z,Levante UD,Valencia CF,Levante UD,Valencia CF,25,25,READY,YES
+La Liga,2027-01-03T00:00:00Z,Málaga CF,Elche CF,Málaga CF,Elche CF,6,26,READY,YES
 La Liga,2027-01-03T00:00:00Z,R. Racing Club,Athletic Club,R. Racing Club,Athletic Club,7,24,READY,YES
 La Liga,2027-01-03T00:00:00Z,RCD Espanyol de Barcelona,FC Barcelona,RCD Espanyol de Barcelona,FC Barcelona,25,25,READY,YES
 La Liga,2027-01-03T00:00:00Z,Rayo Vallecano,Atlético de Madrid,Rayo Vallecano de Madrid,Club Atlético de Madrid,25,26,READY,YES
@@ -334,9 +334,9 @@ La Liga,2027-01-10T00:00:00Z,Sevilla FC,Celta,Sevilla FC,RC Celta de Vigo,26,25,
 La Liga,2027-01-10T00:00:00Z,Valencia CF,Málaga CF,Valencia CF,Málaga CF,26,7,READY,YES
 La Liga,2027-01-17T00:00:00Z,Atlético de Madrid,Real Sociedad,Club Atlético de Madrid,Real Sociedad de Fútbol,25,26,READY,YES
 La Liga,2027-01-17T00:00:00Z,Celta,Valencia CF,RC Celta de Vigo,Valencia CF,26,25,READY,YES
-La Liga,2027-01-17T00:00:00Z,FC Barcelona,Elche CF,FC Barcelona,Elche CF,26,25,READY,YES
+La Liga,2027-01-17T00:00:00Z,FC Barcelona,Elche CF,FC Barcelona,Elche CF,26,26,READY,YES
 La Liga,2027-01-17T00:00:00Z,Getafe CF,Athletic Club,Getafe CF,Athletic Club,26,24,READY,YES
-La Liga,2027-01-17T00:00:00Z,Levante UD,RCD Espanyol de Barcelona,Levante UD,RCD Espanyol de Barcelona,24,26,READY,YES
+La Liga,2027-01-17T00:00:00Z,Levante UD,RCD Espanyol de Barcelona,Levante UD,RCD Espanyol de Barcelona,25,26,READY,YES
 La Liga,2027-01-17T00:00:00Z,Málaga CF,Real Madrid,Málaga CF,Real Madrid CF,6,26,READY,YES
 La Liga,2027-01-17T00:00:00Z,R. Racing Club,CA Osasuna,R. Racing Club,CA Osasuna,7,25,READY,YES
 La Liga,2027-01-17T00:00:00Z,Rayo Vallecano,Sevilla FC,Rayo Vallecano de Madrid,Sevilla FC,25,25,READY,YES
@@ -356,10 +356,10 @@ La Liga,2027-01-31T00:00:00Z,Atlético de Madrid,RCD Espanyol de Barcelona,Club 
 La Liga,2027-01-31T00:00:00Z,CA Osasuna,RC Deportivo,CA Osasuna,RC Deportivo,26,7,READY,YES
 La Liga,2027-01-31T00:00:00Z,Celta,Getafe CF,RC Celta de Vigo,Getafe CF,26,25,READY,YES
 La Liga,2027-01-31T00:00:00Z,FC Barcelona,Valencia CF,FC Barcelona,Valencia CF,26,25,READY,YES
-La Liga,2027-01-31T00:00:00Z,Levante UD,Real Sociedad,Levante UD,Real Sociedad de Fútbol,24,26,READY,YES
+La Liga,2027-01-31T00:00:00Z,Levante UD,Real Sociedad,Levante UD,Real Sociedad de Fútbol,25,26,READY,YES
 La Liga,2027-01-31T00:00:00Z,Málaga CF,Deportivo Alavés,Málaga CF,Deportivo Alavés,6,25,READY,YES
 La Liga,2027-01-31T00:00:00Z,Rayo Vallecano,Real Madrid,Rayo Vallecano de Madrid,Real Madrid CF,25,26,READY,YES
-La Liga,2027-01-31T00:00:00Z,Real Betis,Elche CF,Real Betis Balompié,Elche CF,25,25,READY,YES
+La Liga,2027-01-31T00:00:00Z,Real Betis,Elche CF,Real Betis Balompié,Elche CF,25,26,READY,YES
 La Liga,2027-01-31T00:00:00Z,Sevilla FC,Athletic Club,Sevilla FC,Athletic Club,26,24,READY,YES
 La Liga,2027-01-31T00:00:00Z,Villarreal CF,R. Racing Club,Villarreal CF,R. Racing Club,25,6,READY,YES
 La Liga,2027-02-07T00:00:00Z,Athletic Club,CA Osasuna,Athletic Club,CA Osasuna,26,25,READY,YES
@@ -373,7 +373,7 @@ La Liga,2027-02-07T00:00:00Z,Valencia CF,R. Racing Club,Valencia CF,R. Racing Cl
 La Liga,2027-02-14T00:00:00Z,CA Osasuna,Atlético de Madrid,CA Osasuna,Club Atlético de Madrid,26,26,READY,YES
 La Liga,2027-02-14T00:00:00Z,Celta,Rayo Vallecano,RC Celta de Vigo,Rayo Vallecano de Madrid,26,25,READY,YES
 La Liga,2027-02-14T00:00:00Z,Elche CF,RC Deportivo,Elche CF,RC Deportivo,25,7,READY,YES
-La Liga,2027-02-14T00:00:00Z,Levante UD,Málaga CF,Levante UD,Málaga CF,24,7,READY,YES
+La Liga,2027-02-14T00:00:00Z,Levante UD,Málaga CF,Levante UD,Málaga CF,25,7,READY,YES
 La Liga,2027-02-14T00:00:00Z,R. Racing Club,Getafe CF,R. Racing Club,Getafe CF,7,25,READY,YES
 La Liga,2027-02-14T00:00:00Z,Real Madrid,Athletic Club,Real Madrid CF,Athletic Club,25,24,READY,YES
 La Liga,2027-02-14T00:00:00Z,Real Sociedad,Real Betis,Real Sociedad de Fútbol,Real Betis Balompié,25,26,READY,YES
@@ -381,7 +381,7 @@ La Liga,2027-02-14T00:00:00Z,Sevilla FC,RCD Espanyol de Barcelona,Sevilla FC,RCD
 La Liga,2027-02-14T00:00:00Z,Valencia CF,Deportivo Alavés,Valencia CF,Deportivo Alavés,26,25,READY,YES
 La Liga,2027-02-14T00:00:00Z,Villarreal CF,FC Barcelona,Villarreal CF,FC Barcelona,25,25,READY,YES
 La Liga,2027-02-21T00:00:00Z,Athletic Club,Celta,Athletic Club,RC Celta de Vigo,26,25,READY,YES
-La Liga,2027-02-21T00:00:00Z,Atlético de Madrid,Elche CF,Club Atlético de Madrid,Elche CF,25,25,READY,YES
+La Liga,2027-02-21T00:00:00Z,Atlético de Madrid,Elche CF,Club Atlético de Madrid,Elche CF,25,26,READY,YES
 La Liga,2027-02-21T00:00:00Z,Deportivo Alavés,R. Racing Club,Deportivo Alavés,R. Racing Club,26,6,READY,YES
 La Liga,2027-02-21T00:00:00Z,FC Barcelona,Levante UD,FC Barcelona,Levante UD,26,26,READY,YES
 La Liga,2027-02-21T00:00:00Z,Málaga CF,Real Betis,Málaga CF,Real Betis Balompié,6,26,READY,YES
@@ -394,12 +394,12 @@ La Liga,2027-02-28T00:00:00Z,Athletic Club,FC Barcelona,Athletic Club,FC Barcelo
 La Liga,2027-02-28T00:00:00Z,CA Osasuna,Sevilla FC,CA Osasuna,Sevilla FC,26,25,READY,YES
 La Liga,2027-02-28T00:00:00Z,Celta,RCD Espanyol de Barcelona,RC Celta de Vigo,RCD Espanyol de Barcelona,26,26,READY,YES
 La Liga,2027-02-28T00:00:00Z,Getafe CF,Deportivo Alavés,Getafe CF,Deportivo Alavés,26,25,READY,YES
-La Liga,2027-02-28T00:00:00Z,Levante UD,RC Deportivo,Levante UD,RC Deportivo,24,7,READY,YES
+La Liga,2027-02-28T00:00:00Z,Levante UD,RC Deportivo,Levante UD,RC Deportivo,25,7,READY,YES
 La Liga,2027-02-28T00:00:00Z,Málaga CF,Atlético de Madrid,Málaga CF,Club Atlético de Madrid,6,26,READY,YES
 La Liga,2027-02-28T00:00:00Z,R. Racing Club,Rayo Vallecano,R. Racing Club,Rayo Vallecano de Madrid,7,25,READY,YES
 La Liga,2027-02-28T00:00:00Z,Real Betis,Villarreal CF,Real Betis Balompié,Villarreal CF,25,26,READY,YES
 La Liga,2027-02-28T00:00:00Z,Real Madrid,Valencia CF,Real Madrid CF,Valencia CF,25,25,READY,YES
-La Liga,2027-02-28T00:00:00Z,Real Sociedad,Elche CF,Real Sociedad de Fútbol,Elche CF,25,25,READY,YES
+La Liga,2027-02-28T00:00:00Z,Real Sociedad,Elche CF,Real Sociedad de Fútbol,Elche CF,25,26,READY,YES
 La Liga,2027-03-07T00:00:00Z,Atlético de Madrid,Celta,Club Atlético de Madrid,RC Celta de Vigo,25,25,READY,YES
 La Liga,2027-03-07T00:00:00Z,Deportivo Alavés,Athletic Club,Deportivo Alavés,Athletic Club,26,24,READY,YES
 La Liga,2027-03-07T00:00:00Z,Elche CF,Málaga CF,Elche CF,Málaga CF,25,7,READY,YES
@@ -422,19 +422,19 @@ La Liga,2027-03-14T00:00:00Z,Real Betis,Levante UD,Real Betis Balompié,Levante 
 La Liga,2027-03-14T00:00:00Z,Real Madrid,RCD Espanyol de Barcelona,Real Madrid CF,RCD Espanyol de Barcelona,25,26,READY,YES
 La Liga,2027-03-21T00:00:00Z,Atlético de Madrid,Getafe CF,Club Atlético de Madrid,Getafe CF,25,25,READY,YES
 La Liga,2027-03-21T00:00:00Z,Celta,Real Madrid,RC Celta de Vigo,Real Madrid CF,26,26,READY,YES
-La Liga,2027-03-21T00:00:00Z,Levante UD,CA Osasuna,Levante UD,CA Osasuna,24,25,READY,YES
+La Liga,2027-03-21T00:00:00Z,Levante UD,CA Osasuna,Levante UD,CA Osasuna,25,25,READY,YES
 La Liga,2027-03-21T00:00:00Z,R. Racing Club,Real Betis,R. Racing Club,Real Betis Balompié,7,26,READY,YES
 La Liga,2027-03-21T00:00:00Z,RCD Espanyol de Barcelona,Athletic Club,RCD Espanyol de Barcelona,Athletic Club,25,24,READY,YES
 La Liga,2027-03-21T00:00:00Z,Rayo Vallecano,FC Barcelona,Rayo Vallecano de Madrid,FC Barcelona,25,25,READY,YES
 La Liga,2027-03-21T00:00:00Z,Real Sociedad,Deportivo Alavés,Real Sociedad de Fútbol,Deportivo Alavés,25,25,READY,YES
-La Liga,2027-03-21T00:00:00Z,Sevilla FC,Elche CF,Sevilla FC,Elche CF,26,25,READY,YES
+La Liga,2027-03-21T00:00:00Z,Sevilla FC,Elche CF,Sevilla FC,Elche CF,26,26,READY,YES
 La Liga,2027-03-21T00:00:00Z,Valencia CF,RC Deportivo,Valencia CF,RC Deportivo,26,7,READY,YES
 La Liga,2027-03-21T00:00:00Z,Villarreal CF,Málaga CF,Villarreal CF,Málaga CF,25,7,READY,YES
 La Liga,2027-04-04T00:00:00Z,Athletic Club,R. Racing Club,Athletic Club,R. Racing Club,26,6,READY,YES
 La Liga,2027-04-04T00:00:00Z,Elche CF,Deportivo Alavés,Elche CF,Deportivo Alavés,25,25,READY,YES
 La Liga,2027-04-04T00:00:00Z,FC Barcelona,Sevilla FC,FC Barcelona,Sevilla FC,26,25,READY,YES
 La Liga,2027-04-04T00:00:00Z,Getafe CF,RCD Espanyol de Barcelona,Getafe CF,RCD Espanyol de Barcelona,26,26,READY,YES
-La Liga,2027-04-04T00:00:00Z,Levante UD,Rayo Vallecano,Levante UD,Rayo Vallecano de Madrid,24,25,READY,YES
+La Liga,2027-04-04T00:00:00Z,Levante UD,Rayo Vallecano,Levante UD,Rayo Vallecano de Madrid,25,25,READY,YES
 La Liga,2027-04-04T00:00:00Z,Málaga CF,CA Osasuna,Málaga CF,CA Osasuna,6,25,READY,YES
 La Liga,2027-04-04T00:00:00Z,RC Deportivo,Villarreal CF,RC Deportivo,Villarreal CF,6,26,READY,YES
 La Liga,2027-04-04T00:00:00Z,Real Betis,Celta,Real Betis Balompié,RC Celta de Vigo,25,25,READY,YES
@@ -442,7 +442,7 @@ La Liga,2027-04-04T00:00:00Z,Real Madrid,Atlético de Madrid,Real Madrid CF,Club
 La Liga,2027-04-04T00:00:00Z,Real Sociedad,Valencia CF,Real Sociedad de Fútbol,Valencia CF,25,25,READY,YES
 La Liga,2027-04-11T00:00:00Z,Atlético de Madrid,Levante UD,Club Atlético de Madrid,Levante UD,25,26,READY,YES
 La Liga,2027-04-11T00:00:00Z,CA Osasuna,Real Madrid,CA Osasuna,Real Madrid CF,26,26,READY,YES
-La Liga,2027-04-11T00:00:00Z,Celta,Elche CF,RC Celta de Vigo,Elche CF,26,25,READY,YES
+La Liga,2027-04-11T00:00:00Z,Celta,Elche CF,RC Celta de Vigo,Elche CF,26,26,READY,YES
 La Liga,2027-04-11T00:00:00Z,Deportivo Alavés,Real Betis,Deportivo Alavés,Real Betis Balompié,26,26,READY,YES
 La Liga,2027-04-11T00:00:00Z,R. Racing Club,FC Barcelona,R. Racing Club,FC Barcelona,7,25,READY,YES
 La Liga,2027-04-11T00:00:00Z,RCD Espanyol de Barcelona,Málaga CF,RCD Espanyol de Barcelona,Málaga CF,25,7,READY,YES
@@ -455,7 +455,7 @@ La Liga,2027-04-18T00:00:00Z,Deportivo Alavés,Rayo Vallecano,Deportivo Alavés,
 La Liga,2027-04-18T00:00:00Z,Elche CF,CA Osasuna,Elche CF,CA Osasuna,25,25,READY,YES
 La Liga,2027-04-18T00:00:00Z,FC Barcelona,RCD Espanyol de Barcelona,FC Barcelona,RCD Espanyol de Barcelona,26,26,READY,YES
 La Liga,2027-04-18T00:00:00Z,Getafe CF,Real Madrid,Getafe CF,Real Madrid CF,26,26,READY,YES
-La Liga,2027-04-18T00:00:00Z,Levante UD,Villarreal CF,Levante UD,Villarreal CF,24,26,READY,YES
+La Liga,2027-04-18T00:00:00Z,Levante UD,Villarreal CF,Levante UD,Villarreal CF,25,26,READY,YES
 La Liga,2027-04-18T00:00:00Z,Málaga CF,Valencia CF,Málaga CF,Valencia CF,6,25,READY,YES
 La Liga,2027-04-18T00:00:00Z,RC Deportivo,Celta,RC Deportivo,RC Celta de Vigo,6,25,READY,YES
 La Liga,2027-04-18T00:00:00Z,Real Betis,Athletic Club,Real Betis Balompié,Athletic Club,25,24,READY,YES
@@ -466,7 +466,7 @@ La Liga,2027-04-21T00:00:00Z,Celta,FC Barcelona,RC Celta de Vigo,FC Barcelona,26
 La Liga,2027-04-21T00:00:00Z,Getafe CF,Real Betis,Getafe CF,Real Betis Balompié,26,26,READY,YES
 La Liga,2027-04-21T00:00:00Z,R. Racing Club,Málaga CF,R. Racing Club,Málaga CF,7,7,READY,YES
 La Liga,2027-04-21T00:00:00Z,RCD Espanyol de Barcelona,Real Sociedad,RCD Espanyol de Barcelona,Real Sociedad de Fútbol,25,26,READY,YES
-La Liga,2027-04-21T00:00:00Z,Real Madrid,Elche CF,Real Madrid CF,Elche CF,25,25,READY,YES
+La Liga,2027-04-21T00:00:00Z,Real Madrid,Elche CF,Real Madrid CF,Elche CF,25,26,READY,YES
 La Liga,2027-04-21T00:00:00Z,Sevilla FC,Levante UD,Sevilla FC,Levante UD,26,26,READY,YES
 La Liga,2027-04-21T00:00:00Z,Valencia CF,Rayo Vallecano,Valencia CF,Rayo Vallecano de Madrid,26,25,READY,YES
 La Liga,2027-04-21T00:00:00Z,Villarreal CF,Atlético de Madrid,Villarreal CF,Club Atlético de Madrid,25,26,READY,YES
@@ -474,7 +474,7 @@ La Liga,2027-05-02T00:00:00Z,Atlético de Madrid,Deportivo Alavés,Club Atlétic
 La Liga,2027-05-02T00:00:00Z,Celta,Sevilla FC,RC Celta de Vigo,Sevilla FC,26,25,READY,YES
 La Liga,2027-05-02T00:00:00Z,Elche CF,RCD Espanyol de Barcelona,Elche CF,RCD Espanyol de Barcelona,25,26,READY,YES
 La Liga,2027-05-02T00:00:00Z,FC Barcelona,CA Osasuna,FC Barcelona,CA Osasuna,26,25,READY,YES
-La Liga,2027-05-02T00:00:00Z,Levante UD,Real Madrid,Levante UD,Real Madrid CF,24,26,READY,YES
+La Liga,2027-05-02T00:00:00Z,Levante UD,Real Madrid,Levante UD,Real Madrid CF,25,26,READY,YES
 La Liga,2027-05-02T00:00:00Z,Málaga CF,Getafe CF,Málaga CF,Getafe CF,6,25,READY,YES
 La Liga,2027-05-02T00:00:00Z,RC Deportivo,R. Racing Club,RC Deportivo,R. Racing Club,6,6,READY,YES
 La Liga,2027-05-02T00:00:00Z,Rayo Vallecano,Villarreal CF,Rayo Vallecano de Madrid,Villarreal CF,25,26,READY,YES
@@ -483,7 +483,7 @@ La Liga,2027-05-02T00:00:00Z,Real Sociedad,Athletic Club,Real Sociedad de Fútbo
 La Liga,2027-05-09T00:00:00Z,Athletic Club,Málaga CF,Athletic Club,Málaga CF,26,7,READY,YES
 La Liga,2027-05-09T00:00:00Z,CA Osasuna,Real Sociedad,CA Osasuna,Real Sociedad de Fútbol,26,26,READY,YES
 La Liga,2027-05-09T00:00:00Z,Deportivo Alavés,Levante UD,Deportivo Alavés,Levante UD,26,26,READY,YES
-La Liga,2027-05-09T00:00:00Z,Getafe CF,Elche CF,Getafe CF,Elche CF,26,25,READY,YES
+La Liga,2027-05-09T00:00:00Z,Getafe CF,Elche CF,Getafe CF,Elche CF,26,26,READY,YES
 La Liga,2027-05-09T00:00:00Z,R. Racing Club,Sevilla FC,R. Racing Club,Sevilla FC,7,25,READY,YES
 La Liga,2027-05-09T00:00:00Z,Rayo Vallecano,RC Deportivo,Rayo Vallecano de Madrid,RC Deportivo,25,7,READY,YES
 La Liga,2027-05-09T00:00:00Z,Real Betis,RCD Espanyol de Barcelona,Real Betis Balompié,RCD Espanyol de Barcelona,25,26,READY,YES
@@ -493,7 +493,7 @@ La Liga,2027-05-09T00:00:00Z,Villarreal CF,Celta,Villarreal CF,RC Celta de Vigo,
 La Liga,2027-05-16T00:00:00Z,Atlético de Madrid,Rayo Vallecano,Club Atlético de Madrid,Rayo Vallecano de Madrid,25,25,READY,YES
 La Liga,2027-05-16T00:00:00Z,CA Osasuna,Real Betis,CA Osasuna,Real Betis Balompié,26,26,READY,YES
 La Liga,2027-05-16T00:00:00Z,Elche CF,Athletic Club,Elche CF,Athletic Club,25,24,READY,YES
-La Liga,2027-05-16T00:00:00Z,Levante UD,Getafe CF,Levante UD,Getafe CF,24,25,READY,YES
+La Liga,2027-05-16T00:00:00Z,Levante UD,Getafe CF,Levante UD,Getafe CF,25,25,READY,YES
 La Liga,2027-05-16T00:00:00Z,Málaga CF,Celta,Málaga CF,RC Celta de Vigo,6,25,READY,YES
 La Liga,2027-05-16T00:00:00Z,RC Deportivo,Deportivo Alavés,RC Deportivo,Deportivo Alavés,6,25,READY,YES
 La Liga,2027-05-16T00:00:00Z,RCD Espanyol de Barcelona,Valencia CF,RCD Espanyol de Barcelona,Valencia CF,25,25,READY,YES
@@ -508,13 +508,13 @@ La Liga,2027-05-23T00:00:00Z,R. Racing Club,Levante UD,R. Racing Club,Levante UD
 La Liga,2027-05-23T00:00:00Z,RC Deportivo,RCD Espanyol de Barcelona,RC Deportivo,RCD Espanyol de Barcelona,6,26,READY,YES
 La Liga,2027-05-23T00:00:00Z,Rayo Vallecano,Real Betis,Rayo Vallecano de Madrid,Real Betis Balompié,25,26,READY,YES
 La Liga,2027-05-23T00:00:00Z,Sevilla FC,Getafe CF,Sevilla FC,Getafe CF,26,25,READY,YES
-La Liga,2027-05-23T00:00:00Z,Valencia CF,Elche CF,Valencia CF,Elche CF,26,25,READY,YES
+La Liga,2027-05-23T00:00:00Z,Valencia CF,Elche CF,Valencia CF,Elche CF,26,26,READY,YES
 La Liga,2027-05-23T00:00:00Z,Villarreal CF,CA Osasuna,Villarreal CF,CA Osasuna,25,25,READY,YES
 La Liga,2027-05-30T00:00:00Z,Athletic Club,Rayo Vallecano,Athletic Club,Rayo Vallecano de Madrid,26,25,READY,YES
 La Liga,2027-05-30T00:00:00Z,CA Osasuna,Valencia CF,CA Osasuna,Valencia CF,26,25,READY,YES
 La Liga,2027-05-30T00:00:00Z,Elche CF,R. Racing Club,Elche CF,R. Racing Club,25,6,READY,YES
 La Liga,2027-05-30T00:00:00Z,Getafe CF,FC Barcelona,Getafe CF,FC Barcelona,26,25,READY,YES
-La Liga,2027-05-30T00:00:00Z,Levante UD,Celta,Levante UD,RC Celta de Vigo,24,25,READY,YES
+La Liga,2027-05-30T00:00:00Z,Levante UD,Celta,Levante UD,RC Celta de Vigo,25,25,READY,YES
 La Liga,2027-05-30T00:00:00Z,Málaga CF,Sevilla FC,Málaga CF,Sevilla FC,6,25,READY,YES
 La Liga,2027-05-30T00:00:00Z,RCD Espanyol de Barcelona,Deportivo Alavés,RCD Espanyol de Barcelona,Deportivo Alavés,25,25,READY,YES
 La Liga,2027-05-30T00:00:00Z,Real Betis,Atlético de Madrid,Real Betis Balompié,Club Atlético de Madrid,25,26,READY,YES
@@ -740,14 +740,14 @@ Serie A,2026-11-27T19:45:00Z,Venezia,Bologna,Venezia,Bologna FC 1909,6,25,READY,
 Serie A,2026-11-28T14:00:00Z,Frosinone,Parma,Frosinone,Parma Calcio 1913,6,24,READY,YES
 Serie A,2026-11-28T17:00:00Z,Torino,Lazio,Torino FC,SS Lazio,25,25,READY,YES
 Serie A,2026-11-28T19:45:00Z,Internazionale,Genoa,FC Internazionale Milano,Genoa CFC,25,24,READY,YES
-Serie A,2026-11-29T11:30:00Z,Udinese,Fiorentina,Udinese Calcio,ACF Fiorentina,25,24,READY,YES
+Serie A,2026-11-29T11:30:00Z,Udinese,Fiorentina,Udinese Calcio,ACF Fiorentina,25,25,READY,YES
 Serie A,2026-11-29T14:00:00Z,Sassuolo,Napoli,US Sassuolo Calcio,SSC Napoli,25,25,READY,YES
 Serie A,2026-11-29T17:00:00Z,Roma,Monza,AS Roma,Monza,25,6,READY,YES
 Serie A,2026-11-29T19:45:00Z,Como,Juventus,Como 1907,Juventus FC,24,25,READY,YES
 Serie A,2026-11-30T17:30:00Z,Lecce,Atalanta,US Lecce,Atalanta BC,24,24,READY,YES
 Serie A,2026-11-30T19:45:00Z,Cagliari,Milan,Cagliari Calcio,AC Milan,24,25,READY,YES
 Serie A,2026-12-04T19:45:00Z,Bologna,Roma,Bologna FC 1909,AS Roma,25,25,READY,YES
-Serie A,2026-12-05T14:00:00Z,Monza,Como,Monza,Como 1907,5,26,READY,YES
+Serie A,2026-12-05T14:00:00Z,Monza,Como,Monza,Como 1907,6,26,READY,YES
 Serie A,2026-12-05T17:00:00Z,Frosinone,Internazionale,Frosinone,FC Internazionale Milano,6,25,READY,YES
 Serie A,2026-12-05T19:45:00Z,Napoli,Lecce,SSC Napoli,US Lecce,25,26,READY,YES
 Serie A,2026-12-06T11:30:00Z,Genoa,Torino,Genoa CFC,Torino FC,26,25,READY,YES
@@ -762,7 +762,7 @@ Serie A,2026-12-12T17:00:00Z,Lecce,Sassuolo,US Lecce,US Sassuolo Calcio,24,25,RE
 Serie A,2026-12-12T19:45:00Z,Como,Bologna,Como 1907,Bologna FC 1909,24,25,READY,YES
 Serie A,2026-12-13T11:30:00Z,Lazio,Roma,SS Lazio,AS Roma,25,25,READY,YES
 Serie A,2026-12-13T14:00:00Z,Internazionale,Torino,FC Internazionale Milano,Torino FC,25,25,READY,YES
-Serie A,2026-12-13T17:00:00Z,Parma,Fiorentina,Parma Calcio 1913,ACF Fiorentina,26,24,READY,YES
+Serie A,2026-12-13T17:00:00Z,Parma,Fiorentina,Parma Calcio 1913,ACF Fiorentina,26,25,READY,YES
 Serie A,2026-12-13T19:45:00Z,Napoli,Milan,SSC Napoli,AC Milan,25,25,READY,YES
 Serie A,2026-12-14T17:30:00Z,Atalanta,Genoa,Atalanta BC,Genoa CFC,26,24,READY,YES
 Serie A,2026-12-14T19:45:00Z,Juventus,Monza,Juventus FC,Monza,25,6,READY,YES
@@ -780,7 +780,7 @@ Serie A,2027-01-02T11:30:00Z,Cagliari,Genoa,Cagliari Calcio,Genoa CFC,24,24,READ
 Serie A,2027-01-02T14:00:00Z,Fiorentina,Lazio,ACF Fiorentina,SS Lazio,25,25,READY,YES
 Serie A,2027-01-02T14:00:00Z,Torino,Venezia,Torino FC,Venezia,25,6,READY,YES
 Serie A,2027-01-02T17:00:00Z,Roma,Frosinone,AS Roma,Frosinone,25,6,READY,YES
-Serie A,2027-01-02T19:45:00Z,Monza,Milan,Monza,AC Milan,5,25,READY,YES
+Serie A,2027-01-02T19:45:00Z,Monza,Milan,Monza,AC Milan,6,25,READY,YES
 Serie A,2027-01-03T11:30:00Z,Internazionale,Sassuolo,FC Internazionale Milano,US Sassuolo Calcio,25,25,READY,YES
 Serie A,2027-01-03T14:00:00Z,Como,Lecce,Como 1907,US Lecce,24,26,READY,YES
 Serie A,2027-01-03T14:00:00Z,Udinese,Atalanta,Udinese Calcio,Atalanta BC,25,24,READY,YES
@@ -788,7 +788,7 @@ Serie A,2027-01-03T17:00:00Z,Parma,Napoli,Parma Calcio 1913,SSC Napoli,26,25,REA
 Serie A,2027-01-03T19:45:00Z,Bologna,Juventus,Bologna FC 1909,Juventus FC,25,25,READY,YES
 Serie A,2027-01-05T17:30:00Z,Genoa,Monza,Genoa CFC,Monza,26,6,READY,YES
 Serie A,2027-01-05T17:30:00Z,Venezia,Roma,Venezia,AS Roma,6,25,READY,YES
-Serie A,2027-01-05T19:45:00Z,Milan,Fiorentina,AC Milan,ACF Fiorentina,25,24,READY,YES
+Serie A,2027-01-05T19:45:00Z,Milan,Fiorentina,AC Milan,ACF Fiorentina,25,25,READY,YES
 Serie A,2027-01-06T11:30:00Z,Juventus,Torino,Juventus FC,Torino FC,25,25,READY,YES
 Serie A,2027-01-06T14:00:00Z,Frosinone,Bologna,Frosinone,Bologna FC 1909,6,25,READY,YES
 Serie A,2027-01-06T14:00:00Z,Lecce,Parma,US Lecce,Parma Calcio 1913,24,24,READY,YES
@@ -796,7 +796,7 @@ Serie A,2027-01-06T17:00:00Z,Atalanta,Como,Atalanta BC,Como 1907,26,26,READY,YES
 Serie A,2027-01-06T19:45:00Z,Lazio,Internazionale,SS Lazio,FC Internazionale Milano,25,25,READY,YES
 Serie A,2027-01-07T17:30:00Z,Sassuolo,Udinese,US Sassuolo Calcio,Udinese Calcio,25,25,READY,YES
 Serie A,2027-01-07T19:45:00Z,Napoli,Cagliari,SSC Napoli,Cagliari Calcio,25,26,READY,YES
-Serie A,2027-01-09T14:00:00Z,Monza,Frosinone,Monza,Frosinone,5,6,READY,YES
+Serie A,2027-01-09T14:00:00Z,Monza,Frosinone,Monza,Frosinone,6,6,READY,YES
 Serie A,2027-01-09T17:00:00Z,Roma,Milan,AS Roma,AC Milan,25,25,READY,YES
 Serie A,2027-01-09T19:45:00Z,Bologna,Genoa,Bologna FC 1909,Genoa CFC,25,24,READY,YES
 Serie A,2027-01-10T11:30:00Z,Como,Lazio,Como 1907,SS Lazio,24,25,READY,YES
@@ -812,7 +812,7 @@ Serie A,2027-01-17T00:00:00Z,Juventus,Genoa,Juventus FC,Genoa CFC,25,24,READY,YE
 Serie A,2027-01-17T00:00:00Z,Lazio,Bologna,SS Lazio,Bologna FC 1909,25,25,READY,YES
 Serie A,2027-01-17T00:00:00Z,Lecce,Udinese,US Lecce,Udinese Calcio,24,25,READY,YES
 Serie A,2027-01-17T00:00:00Z,Milan,Torino,AC Milan,Torino FC,25,25,READY,YES
-Serie A,2027-01-17T00:00:00Z,Napoli,Fiorentina,SSC Napoli,ACF Fiorentina,25,24,READY,YES
+Serie A,2027-01-17T00:00:00Z,Napoli,Fiorentina,SSC Napoli,ACF Fiorentina,25,25,READY,YES
 Serie A,2027-01-17T00:00:00Z,Parma,Internazionale,Parma Calcio 1913,FC Internazionale Milano,26,25,READY,YES
 Serie A,2027-01-17T00:00:00Z,Sassuolo,Monza,US Sassuolo Calcio,Monza,25,6,READY,YES
 Serie A,2027-01-17T00:00:00Z,Venezia,Frosinone,Venezia,Frosinone,6,6,READY,YES
@@ -824,14 +824,14 @@ Serie A,2027-01-24T00:00:00Z,Genoa,Parma,Genoa CFC,Parma Calcio 1913,26,24,READY
 Serie A,2027-01-24T00:00:00Z,Internazionale,Venezia,FC Internazionale Milano,Venezia,25,6,READY,YES
 Serie A,2027-01-24T00:00:00Z,Juventus,Cagliari,Juventus FC,Cagliari Calcio,25,26,READY,YES
 Serie A,2027-01-24T00:00:00Z,Lecce,Torino,US Lecce,Torino FC,24,25,READY,YES
-Serie A,2027-01-24T00:00:00Z,Monza,Lazio,Monza,SS Lazio,5,25,READY,YES
+Serie A,2027-01-24T00:00:00Z,Monza,Lazio,Monza,SS Lazio,6,25,READY,YES
 Serie A,2027-01-24T00:00:00Z,Roma,Udinese,AS Roma,Udinese Calcio,25,25,READY,YES
-Serie A,2027-01-31T00:00:00Z,Atalanta,Fiorentina,Atalanta BC,ACF Fiorentina,26,24,READY,YES
+Serie A,2027-01-31T00:00:00Z,Atalanta,Fiorentina,Atalanta BC,ACF Fiorentina,26,25,READY,YES
 Serie A,2027-01-31T00:00:00Z,Cagliari,Parma,Cagliari Calcio,Parma Calcio 1913,24,24,READY,YES
 Serie A,2027-01-31T00:00:00Z,Genoa,Lecce,Genoa CFC,US Lecce,26,26,READY,YES
 Serie A,2027-01-31T00:00:00Z,Lazio,Venezia,SS Lazio,Venezia,25,6,READY,YES
 Serie A,2027-01-31T00:00:00Z,Milan,Juventus,AC Milan,Juventus FC,25,25,READY,YES
-Serie A,2027-01-31T00:00:00Z,Monza,Roma,Monza,AS Roma,5,25,READY,YES
+Serie A,2027-01-31T00:00:00Z,Monza,Roma,Monza,AS Roma,6,25,READY,YES
 Serie A,2027-01-31T00:00:00Z,Napoli,Internazionale,SSC Napoli,FC Internazionale Milano,25,25,READY,YES
 Serie A,2027-01-31T00:00:00Z,Sassuolo,Como,US Sassuolo Calcio,Como 1907,25,26,READY,YES
 Serie A,2027-01-31T00:00:00Z,Torino,Frosinone,Torino FC,Frosinone,25,6,READY,YES
@@ -848,10 +848,10 @@ Serie A,2027-02-07T00:00:00Z,Roma,Torino,AS Roma,Torino FC,25,25,READY,YES
 Serie A,2027-02-07T00:00:00Z,Venezia,Genoa,Venezia,Genoa CFC,6,24,READY,YES
 Serie A,2027-02-14T00:00:00Z,Bologna,Como,Bologna FC 1909,Como 1907,25,26,READY,YES
 Serie A,2027-02-14T00:00:00Z,Cagliari,Lazio,Cagliari Calcio,SS Lazio,24,25,READY,YES
-Serie A,2027-02-14T00:00:00Z,Frosinone,Fiorentina,Frosinone,ACF Fiorentina,6,24,READY,YES
+Serie A,2027-02-14T00:00:00Z,Frosinone,Fiorentina,Frosinone,ACF Fiorentina,6,25,READY,YES
 Serie A,2027-02-14T00:00:00Z,Genoa,Atalanta,Genoa CFC,Atalanta BC,26,24,READY,YES
 Serie A,2027-02-14T00:00:00Z,Internazionale,Milan,FC Internazionale Milano,AC Milan,25,25,READY,YES
-Serie A,2027-02-14T00:00:00Z,Monza,Lecce,Monza,US Lecce,5,26,READY,YES
+Serie A,2027-02-14T00:00:00Z,Monza,Lecce,Monza,US Lecce,6,26,READY,YES
 Serie A,2027-02-14T00:00:00Z,Napoli,Juventus,SSC Napoli,Juventus FC,25,25,READY,YES
 Serie A,2027-02-14T00:00:00Z,Roma,Parma,AS Roma,Parma Calcio 1913,25,24,READY,YES
 Serie A,2027-02-14T00:00:00Z,Torino,Sassuolo,Torino FC,US Sassuolo Calcio,25,25,READY,YES
@@ -872,22 +872,22 @@ Serie A,2027-02-28T00:00:00Z,Como,Milan,Como 1907,AC Milan,24,25,READY,YES
 Serie A,2027-02-28T00:00:00Z,Frosinone,Napoli,Frosinone,SSC Napoli,6,25,READY,YES
 Serie A,2027-02-28T00:00:00Z,Genoa,Lazio,Genoa CFC,SS Lazio,26,25,READY,YES
 Serie A,2027-02-28T00:00:00Z,Internazionale,Atalanta,FC Internazionale Milano,Atalanta BC,25,24,READY,YES
-Serie A,2027-02-28T00:00:00Z,Monza,Juventus,Monza,Juventus FC,5,25,READY,YES
+Serie A,2027-02-28T00:00:00Z,Monza,Juventus,Monza,Juventus FC,6,25,READY,YES
 Serie A,2027-02-28T00:00:00Z,Parma,Sassuolo,Parma Calcio 1913,US Sassuolo Calcio,26,25,READY,YES
 Serie A,2027-02-28T00:00:00Z,Roma,Venezia,AS Roma,Venezia,25,6,READY,YES
-Serie A,2027-02-28T00:00:00Z,Torino,Fiorentina,Torino FC,ACF Fiorentina,25,24,READY,YES
+Serie A,2027-02-28T00:00:00Z,Torino,Fiorentina,Torino FC,ACF Fiorentina,25,25,READY,YES
 Serie A,2027-03-07T00:00:00Z,Atalanta,Torino,Atalanta BC,Torino FC,26,25,READY,YES
 Serie A,2027-03-07T00:00:00Z,Fiorentina,Venezia,ACF Fiorentina,Venezia,25,6,READY,YES
 Serie A,2027-03-07T00:00:00Z,Juventus,Roma,Juventus FC,AS Roma,25,25,READY,YES
 Serie A,2027-03-07T00:00:00Z,Lazio,Frosinone,SS Lazio,Frosinone,25,6,READY,YES
 Serie A,2027-03-07T00:00:00Z,Lecce,Como,US Lecce,Como 1907,24,26,READY,YES
 Serie A,2027-03-07T00:00:00Z,Milan,Cagliari,AC Milan,Cagliari Calcio,25,26,READY,YES
-Serie A,2027-03-07T00:00:00Z,Monza,Genoa,Monza,Genoa CFC,5,24,READY,YES
+Serie A,2027-03-07T00:00:00Z,Monza,Genoa,Monza,Genoa CFC,6,24,READY,YES
 Serie A,2027-03-07T00:00:00Z,Napoli,Parma,SSC Napoli,Parma Calcio 1913,25,24,READY,YES
 Serie A,2027-03-07T00:00:00Z,Sassuolo,Bologna,US Sassuolo Calcio,Bologna FC 1909,25,25,READY,YES
 Serie A,2027-03-07T00:00:00Z,Udinese,Internazionale,Udinese Calcio,FC Internazionale Milano,25,25,READY,YES
 Serie A,2027-03-14T00:00:00Z,Bologna,Napoli,Bologna FC 1909,SSC Napoli,25,25,READY,YES
-Serie A,2027-03-14T00:00:00Z,Cagliari,Fiorentina,Cagliari Calcio,ACF Fiorentina,24,24,READY,YES
+Serie A,2027-03-14T00:00:00Z,Cagliari,Fiorentina,Cagliari Calcio,ACF Fiorentina,24,25,READY,YES
 Serie A,2027-03-14T00:00:00Z,Como,Udinese,Como 1907,Udinese Calcio,24,25,READY,YES
 Serie A,2027-03-14T00:00:00Z,Frosinone,Monza,Frosinone,Monza,6,6,READY,YES
 Serie A,2027-03-14T00:00:00Z,Genoa,Roma,Genoa CFC,AS Roma,26,25,READY,YES
@@ -900,14 +900,14 @@ Serie A,2027-03-21T00:00:00Z,Atalanta,Milan,Atalanta BC,AC Milan,26,25,READY,YES
 Serie A,2027-03-21T00:00:00Z,Fiorentina,Genoa,ACF Fiorentina,Genoa CFC,25,24,READY,YES
 Serie A,2027-03-21T00:00:00Z,Internazionale,Frosinone,FC Internazionale Milano,Frosinone,25,6,READY,YES
 Serie A,2027-03-21T00:00:00Z,Juventus,Como,Juventus FC,Como 1907,25,26,READY,YES
-Serie A,2027-03-21T00:00:00Z,Monza,Bologna,Monza,Bologna FC 1909,5,25,READY,YES
+Serie A,2027-03-21T00:00:00Z,Monza,Bologna,Monza,Bologna FC 1909,6,25,READY,YES
 Serie A,2027-03-21T00:00:00Z,Napoli,Venezia,SSC Napoli,Venezia,25,6,READY,YES
 Serie A,2027-03-21T00:00:00Z,Parma,Lazio,Parma Calcio 1913,SS Lazio,26,25,READY,YES
 Serie A,2027-03-21T00:00:00Z,Roma,Lecce,AS Roma,US Lecce,25,26,READY,YES
 Serie A,2027-03-21T00:00:00Z,Sassuolo,Cagliari,US Sassuolo Calcio,Cagliari Calcio,25,26,READY,YES
 Serie A,2027-03-21T00:00:00Z,Udinese,Torino,Udinese Calcio,Torino FC,25,25,READY,YES
 Serie A,2027-04-04T00:00:00Z,Cagliari,Napoli,Cagliari Calcio,SSC Napoli,24,25,READY,YES
-Serie A,2027-04-04T00:00:00Z,Como,Fiorentina,Como 1907,ACF Fiorentina,24,24,READY,YES
+Serie A,2027-04-04T00:00:00Z,Como,Fiorentina,Como 1907,ACF Fiorentina,24,25,READY,YES
 Serie A,2027-04-04T00:00:00Z,Frosinone,Udinese,Frosinone,Udinese Calcio,6,25,READY,YES
 Serie A,2027-04-04T00:00:00Z,Genoa,Internazionale,Genoa CFC,FC Internazionale Milano,26,25,READY,YES
 Serie A,2027-04-04T00:00:00Z,Lecce,Lazio,US Lecce,SS Lazio,24,25,READY,YES
@@ -931,7 +931,7 @@ Serie A,2027-04-18T00:00:00Z,Bologna,Cagliari,Bologna FC 1909,Cagliari Calcio,25
 Serie A,2027-04-18T00:00:00Z,Como,Frosinone,Como 1907,Frosinone,24,6,READY,YES
 Serie A,2027-04-18T00:00:00Z,Fiorentina,Parma,ACF Fiorentina,Parma Calcio 1913,25,24,READY,YES
 Serie A,2027-04-18T00:00:00Z,Milan,Napoli,AC Milan,SSC Napoli,25,25,READY,YES
-Serie A,2027-04-18T00:00:00Z,Monza,Internazionale,Monza,FC Internazionale Milano,5,25,READY,YES
+Serie A,2027-04-18T00:00:00Z,Monza,Internazionale,Monza,FC Internazionale Milano,6,25,READY,YES
 Serie A,2027-04-18T00:00:00Z,Roma,Lazio,AS Roma,SS Lazio,25,25,READY,YES
 Serie A,2027-04-18T00:00:00Z,Sassuolo,Lecce,US Sassuolo Calcio,US Lecce,25,26,READY,YES
 Serie A,2027-04-18T00:00:00Z,Torino,Genoa,Torino FC,Genoa CFC,25,24,READY,YES
@@ -940,18 +940,18 @@ Serie A,2027-04-25T00:00:00Z,Cagliari,Monza,Cagliari Calcio,Monza,24,6,READY,YES
 Serie A,2027-04-25T00:00:00Z,Frosinone,Roma,Frosinone,AS Roma,6,25,READY,YES
 Serie A,2027-04-25T00:00:00Z,Genoa,Sassuolo,Genoa CFC,US Sassuolo Calcio,26,25,READY,YES
 Serie A,2027-04-25T00:00:00Z,Internazionale,Bologna,FC Internazionale Milano,Bologna FC 1909,25,25,READY,YES
-Serie A,2027-04-25T00:00:00Z,Juventus,Fiorentina,Juventus FC,ACF Fiorentina,25,24,READY,YES
+Serie A,2027-04-25T00:00:00Z,Juventus,Fiorentina,Juventus FC,ACF Fiorentina,25,25,READY,YES
 Serie A,2027-04-25T00:00:00Z,Lazio,Como,SS Lazio,Como 1907,25,26,READY,YES
 Serie A,2027-04-25T00:00:00Z,Lecce,Milan,US Lecce,AC Milan,24,25,READY,YES
 Serie A,2027-04-25T00:00:00Z,Napoli,Udinese,SSC Napoli,Udinese Calcio,25,25,READY,YES
 Serie A,2027-04-25T00:00:00Z,Parma,Atalanta,Parma Calcio 1913,Atalanta BC,26,24,READY,YES
 Serie A,2027-04-25T00:00:00Z,Venezia,Torino,Venezia,Torino FC,6,25,READY,YES
 Serie A,2027-05-02T00:00:00Z,Atalanta,Juventus,Atalanta BC,Juventus FC,26,25,READY,YES
-Serie A,2027-05-02T00:00:00Z,Bologna,Fiorentina,Bologna FC 1909,ACF Fiorentina,25,24,READY,YES
+Serie A,2027-05-02T00:00:00Z,Bologna,Fiorentina,Bologna FC 1909,ACF Fiorentina,25,25,READY,YES
 Serie A,2027-05-02T00:00:00Z,Como,Internazionale,Como 1907,FC Internazionale Milano,24,25,READY,YES
 Serie A,2027-05-02T00:00:00Z,Lecce,Cagliari,US Lecce,Cagliari Calcio,24,26,READY,YES
 Serie A,2027-05-02T00:00:00Z,Milan,Lazio,AC Milan,SS Lazio,25,25,READY,YES
-Serie A,2027-05-02T00:00:00Z,Monza,Venezia,Monza,Venezia,5,6,READY,YES
+Serie A,2027-05-02T00:00:00Z,Monza,Venezia,Monza,Venezia,6,6,READY,YES
 Serie A,2027-05-02T00:00:00Z,Roma,Napoli,AS Roma,SSC Napoli,25,25,READY,YES
 Serie A,2027-05-02T00:00:00Z,Sassuolo,Frosinone,US Sassuolo Calcio,Frosinone,25,6,READY,YES
 Serie A,2027-05-02T00:00:00Z,Torino,Parma,Torino FC,Parma Calcio 1913,25,24,READY,YES
@@ -971,9 +971,9 @@ Serie A,2027-05-16T00:00:00Z,Cagliari,Torino,Cagliari Calcio,Torino FC,24,25,REA
 Serie A,2027-05-16T00:00:00Z,Como,Atalanta,Como 1907,Atalanta BC,24,24,READY,YES
 Serie A,2027-05-16T00:00:00Z,Juventus,Internazionale,Juventus FC,FC Internazionale Milano,25,25,READY,YES
 Serie A,2027-05-16T00:00:00Z,Lazio,Udinese,SS Lazio,Udinese Calcio,25,25,READY,YES
-Serie A,2027-05-16T00:00:00Z,Lecce,Fiorentina,US Lecce,ACF Fiorentina,24,24,READY,YES
+Serie A,2027-05-16T00:00:00Z,Lecce,Fiorentina,US Lecce,ACF Fiorentina,24,25,READY,YES
 Serie A,2027-05-16T00:00:00Z,Milan,Roma,AC Milan,AS Roma,25,25,READY,YES
-Serie A,2027-05-16T00:00:00Z,Monza,Parma,Monza,Parma Calcio 1913,5,24,READY,YES
+Serie A,2027-05-16T00:00:00Z,Monza,Parma,Monza,Parma Calcio 1913,6,24,READY,YES
 Serie A,2027-05-16T00:00:00Z,Napoli,Genoa,SSC Napoli,Genoa CFC,25,24,READY,YES
 Serie A,2027-05-16T00:00:00Z,Sassuolo,Venezia,US Sassuolo Calcio,Venezia,25,6,READY,YES
 Serie A,2027-05-23T00:00:00Z,Atalanta,Lecce,Atalanta BC,US Lecce,26,26,READY,YES
@@ -990,10 +990,10 @@ Serie A,2027-05-30T00:00:00Z,Bologna,Parma,Bologna FC 1909,Parma Calcio 1913,25,
 Serie A,2027-05-30T00:00:00Z,Cagliari,Roma,Cagliari Calcio,AS Roma,24,25,READY,YES
 Serie A,2027-05-30T00:00:00Z,Como,Genoa,Como 1907,Genoa CFC,24,24,READY,YES
 Serie A,2027-05-30T00:00:00Z,Juventus,Frosinone,Juventus FC,Frosinone,25,6,READY,YES
-Serie A,2027-05-30T00:00:00Z,Lazio,Fiorentina,SS Lazio,ACF Fiorentina,25,24,READY,YES
+Serie A,2027-05-30T00:00:00Z,Lazio,Fiorentina,SS Lazio,ACF Fiorentina,25,25,READY,YES
 Serie A,2027-05-30T00:00:00Z,Lecce,Venezia,US Lecce,Venezia,24,6,READY,YES
 Serie A,2027-05-30T00:00:00Z,Milan,Udinese,AC Milan,Udinese Calcio,25,25,READY,YES
-Serie A,2027-05-30T00:00:00Z,Monza,Torino,Monza,Torino FC,5,25,READY,YES
+Serie A,2027-05-30T00:00:00Z,Monza,Torino,Monza,Torino FC,6,25,READY,YES
 Serie A,2027-05-30T00:00:00Z,Napoli,Atalanta,SSC Napoli,Atalanta BC,25,24,READY,YES
 Serie A,2027-05-30T00:00:00Z,Sassuolo,Internazionale,US Sassuolo Calcio,FC Internazionale Milano,25,25,READY,YES
 Ligue 1,2026-11-27T19:45:00Z,Stade Brestois 29,Paris FC,Stade Brestois 29,Paris FC,22,22,READY,YES
@@ -1600,14 +1600,6 @@ Primeira Liga,2027-05-14T23:00:00Z,Moreirense FC,Rio Ave FC,Moreirense FC,Rio Av
 Primeira Liga,2027-05-14T23:00:00Z,SL Benfica,FC Arouca,Sport Lisboa e Benfica,FC Arouca,22,23,READY,YES
 Primeira Liga,2027-05-14T23:00:00Z,Santa Clara,Sporting CP,CD Santa Clara,Sporting Clube de Portugal,23,22,READY,YES
 Primeira Liga,2027-05-14T23:00:00Z,Vitória SC,FC Famalicão,Vitória SC,FC Famalicão,23,23,READY,YES
-English Championship,2026-11-24T19:45:00Z,Bristol City,Wrexham,Bristol City FC,Wrexham AFC,31,31,READY,YES
-English Championship,2026-11-24T19:45:00Z,Cardiff City,Preston North End,Cardiff City,Preston North End FC,8,31,READY,YES
-English Championship,2026-11-24T19:45:00Z,Charlton Athletic,Lincoln City,Charlton Athletic FC,Lincoln City,31,8,READY,YES
-English Championship,2026-11-24T19:45:00Z,Middlesbrough,Swansea City,Middlesbrough FC,Swansea City AFC,32,31,READY,YES
-English Championship,2026-11-24T19:45:00Z,Norwich City,Queens Park Rangers,Norwich City FC,Queens Park Rangers FC,31,31,READY,YES
-English Championship,2026-11-24T19:45:00Z,Portsmouth,West Ham United,Portsmouth FC,West Ham United,31,8,READY,YES
-English Championship,2026-11-24T19:45:00Z,Sheffield United,Southampton,Sheffield United FC,Southampton FC,31,32,READY,YES
-English Championship,2026-11-24T20:00:00Z,Wolverhampton Wanderers,Derby County,Wolverhampton Wanderers,Derby County FC,8,31,READY,YES
 English Championship,2026-11-25T19:45:00Z,Bolton Wanderers,West Bromwich Albion,Bolton Wanderers,West Bromwich Albion FC,8,31,READY,YES
 English Championship,2026-11-25T19:45:00Z,Burnley,Birmingham City,Burnley,Birmingham City FC,8,31,READY,YES
 English Championship,2026-11-25T19:45:00Z,Watford,Blackburn Rovers,Watford FC,Blackburn Rovers FC,31,31,READY,YES
@@ -1960,15 +1952,6 @@ English Championship,2027-05-01T11:30:00Z,Swansea City,Middlesbrough,Swansea Cit
 English Championship,2027-05-01T11:30:00Z,West Bromwich Albion,Bolton Wanderers,West Bromwich Albion FC,Bolton Wanderers,31,8,READY,YES
 English Championship,2027-05-01T11:30:00Z,West Ham United,Portsmouth,West Ham United,Portsmouth FC,8,31,READY,YES
 English Championship,2027-05-01T11:30:00Z,Wrexham,Bristol City,Wrexham AFC,Bristol City FC,31,31,READY,YES
-UEFA Champions League,2026-11-24T17:45:00Z,Bodø/Glimt,LASK,,,0,0,UNMATCHED_TEAM_NAME,YES
-UEFA Champions League,2026-11-24T17:45:00Z,Galatasaray,Aston Villa,,,0,0,UNMATCHED_TEAM_NAME,YES
-UEFA Champions League,2026-11-24T20:00:00Z,Arsenal,B. Dortmund,,,0,0,UNMATCHED_TEAM_NAME,YES
-UEFA Champions League,2026-11-24T20:00:00Z,Como,AEK Athens,,,0,0,UNMATCHED_TEAM_NAME,YES
-UEFA Champions League,2026-11-24T20:00:00Z,Feyenoord,Porto,,,0,0,UNMATCHED_TEAM_NAME,YES
-UEFA Champions League,2026-11-24T20:00:00Z,Leipzig,Lens,,,0,0,UNMATCHED_TEAM_NAME,YES
-UEFA Champions League,2026-11-24T20:00:00Z,Man City,Napoli,,,0,0,UNMATCHED_TEAM_NAME,YES
-UEFA Champions League,2026-11-24T20:00:00Z,Real Madrid,PSV,,,0,0,UNMATCHED_TEAM_NAME,YES
-UEFA Champions League,2026-11-24T20:00:00Z,S. Bratislava,Real Betis,,,0,0,UNMATCHED_TEAM_NAME,YES
 UEFA Champions League,2026-11-25T17:45:00Z,Sabah,Barcelona,,,0,0,UNMATCHED_TEAM_NAME,YES
 UEFA Champions League,2026-11-25T17:45:00Z,Slavia Praha,Villarreal,,,0,0,UNMATCHED_TEAM_NAME,YES
 UEFA Champions League,2026-11-25T20:00:00Z,Atleti,Viking,,,0,0,UNMATCHED_TEAM_NAME,YES
@@ -2554,8 +2537,6 @@ Süper Lig,2027-05-22T21:00:00Z,Kasimpasa,Kocaelispor,,,0,0,UNMATCHED_TEAM_NAME,
 Süper Lig,2027-05-22T21:00:00Z,Konyaspor,Çorum,,,0,0,UNMATCHED_TEAM_NAME,YES
 Süper Lig,2027-05-22T21:00:00Z,Samsunspor,Eyüpspor,,,0,0,UNMATCHED_TEAM_NAME,YES
 Süper Lig,2027-05-22T21:00:00Z,Trabzonspor,Erzurumspor,,,0,0,UNMATCHED_TEAM_NAME,YES
-Scottish Premiership,2026-11-24T19:45:00Z,Hibernian,Dundee,,,0,0,UNMATCHED_TEAM_NAME,YES
-Scottish Premiership,2026-11-24T20:00:00Z,Rangers,Aberdeen,,,0,0,UNMATCHED_TEAM_NAME,YES
 Scottish Premiership,2026-11-28T15:00:00Z,Aberdeen,Dundee,,,0,0,UNMATCHED_TEAM_NAME,YES
 Scottish Premiership,2026-11-28T15:00:00Z,Dundee United,St. Johnstone,,,0,0,UNMATCHED_TEAM_NAME,YES
 Scottish Premiership,2026-11-28T15:00:00Z,Rangers,Falkirk,,,0,0,UNMATCHED_TEAM_NAME,YES
