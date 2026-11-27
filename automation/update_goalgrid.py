@@ -272,6 +272,31 @@ def main():
 
     print(f"UEFA historical matches imported: {uefa_history_count}")
     print(f"UEFA files missing: {uefa_missing_files}")
+        # Audit missing UEFA team aliases
+    uefa_missing_aliases = set()
+
+    for season, competitions in UEFA_HISTORY_FILES.items():
+        for league, filename in competitions.items():
+            url = f"{UEFA_HISTORY_BASE}/{season}/{filename}"
+            content = fetch_text(url)
+
+            if content is None:
+                continue
+
+            for match in parse_openfootball_results(content):
+                for team in (match["home"], match["away"]):
+                    if not resolve(league, team):
+                        uefa_missing_aliases.add((league, team))
+
+    audit_path = ROOT / "uefa_missing_aliases.csv"
+
+    with open(audit_path, "w", newline="", encoding="utf-8") as f:
+        writer = csv.writer(f)
+        writer.writerow(["league", "alias", "canonical_team"])
+        for league, team in sorted(uefa_missing_aliases):
+            writer.writerow([league, team, ""])
+
+    print(f"UEFA missing aliases identified: {len(uefa_missing_aliases)}")
     for league,(folder, source_name) in LEAGUES.items():
         url=f"{BASE}/{folder}/results_{SEASON}.csv"
         results=fetch_csv(url)
