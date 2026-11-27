@@ -1,4 +1,56 @@
 league,source_season,date,home_team,away_team,home_goals,away_goals
+UEFA Champions League,2020/21,2021-04-06,Real Madrid,Liverpool,3,1
+UEFA Champions League,2020/21,2021-04-14,Liverpool,Real Madrid,0,0
+UEFA Champions League,2020/21,2021-11-03,Real Madrid,Inter,3,2
+UEFA Champions League,2020/21,2021-11-25,Inter,Real Madrid,0,2
+UEFA Champions League,2021/22,2022-02-16,Inter,Liverpool,0,2
+UEFA Champions League,2021/22,2022-03-08,Liverpool,Inter,0,1
+UEFA Champions League,2021/22,2022-04-06,Villarreal,Bayern München,1,0
+UEFA Champions League,2021/22,2022-04-12,Bayern München,Villarreal,1,1
+UEFA Champions League,2021/22,2022-04-27,Liverpool,Villarreal,2,0
+UEFA Champions League,2021/22,2022-05-03,Villarreal,Liverpool,2,3
+UEFA Champions League,2021/22,2022-05-28,Liverpool,Real Madrid,0,1
+UEFA Champions League,2022/23,2022-09-07,Napoli,Liverpool,4,1
+UEFA Champions League,2021/22,2022-09-28,Porto,Liverpool,1,5
+UEFA Europa League,2021/22,2022-10-21,Sturm Graz,Real Sociedad,0,1
+UEFA Champions League,2022/23,2022-11-01,Liverpool,Napoli,2,0
+UEFA Europa League,2021/22,2022-11-04,Real Sociedad,Sturm Graz,1,1
+UEFA Champions League,2021/22,2022-11-24,Liverpool,Porto,2,0
+UEFA Champions League,2022/23,2023-02-21,Liverpool,Real Madrid,2,5
+UEFA Champions League,2022/23,2023-02-22,Inter,Porto,1,0
+UEFA Champions League,2022/23,2023-03-14,Porto,Inter,0,0
+UEFA Champions League,2022/23,2023-03-15,Real Madrid,Liverpool,1,0
+UEFA Champions League,2023/24,2023-09-20,Arsenal,PSV,4,0
+UEFA Champions League,2023/24,2023-10-03,Napoli,Real Madrid,2,3
+UEFA Champions League,2023/24,2023-10-04,Porto,Barcelona,0,1
+UEFA Champions League,2023/24,2023-11-28,Barcelona,Porto,2,1
+UEFA Champions League,2023/24,2023-11-29,Real Madrid,Napoli,4,2
+UEFA Champions League,2023/24,2023-12-12,PSV,Arsenal,1,1
+UEFA Champions League,2023/24,2024-02-21,Napoli,Barcelona,1,1
+UEFA Champions League,2023/24,2024-02-21,Porto,Arsenal,1,0
+UEFA Champions League,2023/24,2024-03-12,Barcelona,Napoli,3,1
+UEFA Champions League,2023/24,2024-04-09,Arsenal,Bayern München,2,2
+UEFA Champions League,2023/24,2024-04-17,Bayern München,Arsenal,1,0
+UEFA Champions League,2023/24,2024-04-30,Bayern München,Real Madrid,2,2
+UEFA Champions League,2023/24,2024-05-08,Real Madrid,Bayern München,2,1
+UEFA Champions League,2022/23,2024-09-07,Inter,Bayern München,0,2
+UEFA Champions League,2022/23,2024-09-13,Bayern München,Barcelona,2,0
+UEFA Champions League,2021/22,2024-09-15,Inter,Real Madrid,0,1
+UEFA Champions League,2024/25,2024-09-17,Real Madrid,Stuttgart,3,1
+UEFA Champions League,2024/25,2024-10-02,Aston Villa,Bayern München,1,0
+UEFA Champions League,2022/23,2024-10-04,Inter,Barcelona,1,0
+UEFA Champions League,2022/23,2024-10-12,Barcelona,Inter,3,3
+UEFA Champions League,2024/25,2024-10-23,Barcelona,Bayern München,4,1
+UEFA Champions League,2022/23,2024-10-26,Barcelona,Bayern München,0,3
+UEFA Champions League,2022/23,2024-11-01,Bayern München,Inter,2,0
+UEFA Europa League,2024/25,2024-11-07,Viktoria Plzen,Real Sociedad,2,1
+UEFA Champions League,2024/25,2024-11-27,Liverpool,Real Madrid,2,0
+UEFA Champions League,2021/22,2024-12-07,Real Madrid,Inter,2,0
+UEFA Champions League,2024/25,2025-01-29,PSV,Liverpool,3,2
+UEFA Champions League,2024/25,2025-03-04,PSV,Arsenal,1,7
+UEFA Champions League,2024/25,2025-03-12,Arsenal,PSV,2,2
+UEFA Champions League,2024/25,2025-04-08,Arsenal,Real Madrid,3,0
+UEFA Champions League,2024/25,2025-04-16,Real Madrid,Arsenal,1,2
 English Championship,2025,2025-08-08,Birmingham City FC,Ipswich Town FC,1,1
 Eredivisie,2025,2025-08-08,Fortuna Sittard,Go Ahead Eagles,2,2
 Primeira Liga,2025,2025-08-08,Casa Pia AC,Sporting Clube de Portugal,0,2
@@ -317,6 +369,7 @@ Serie A,2025,2025-09-14,AC Pisa 1909,Udinese Calcio,0,1
 Serie A,2025,2025-09-14,AS Roma,Torino FC,0,1
 Serie A,2025,2025-09-14,Atalanta BC,US Lecce,4,1
 Serie A,2025,2025-09-14,US Sassuolo Calcio,SS Lazio,1,0
+UEFA Champions League,2021/22,2025-09-14,Barcelona,Bayern München,0,3
 La Liga,2025,2025-09-15,RCD Espanyol de Barcelona,RCD Mallorca,3,2
 Serie A,2025,2025-09-15,Como 1907,Genoa CFC,1,1
 Serie A,2025,2025-09-15,Hellas Verona FC,US Cremonese,0,0
@@ -654,6 +707,7 @@ English Championship,2025,2025-10-21,Ipswich Town FC,Charlton Athletic FC,0,3
 English Championship,2025,2025-10-21,Millwall FC,Stoke City FC,2,0
 English Championship,2025,2025-10-21,Portsmouth FC,Coventry City FC,1,2
 English Championship,2025,2025-10-21,Preston North End FC,Birmingham City FC,0,1
+UEFA Champions League,2025/26,2025-10-21,PSV,Napoli,6,2
 English Championship,2025,2025-10-22,Sheffield Wednesday FC,Middlesbrough FC,0,1
 English Championship,2025,2025-10-22,Swansea City AFC,Queens Park Rangers FC,0,1
 English Championship,2025,2025-10-22,Watford FC,West Bromwich Albion FC,2,1
@@ -841,10 +895,12 @@ English Championship,2025,2025-11-04,Derby County FC,Hull City AFC,2,1
 English Championship,2025,2025-11-04,Ipswich Town FC,Watford FC,1,1
 English Championship,2025,2025-11-04,Leicester City FC,Middlesbrough FC,1,1
 English Championship,2025,2025-11-04,Oxford United FC,Stoke City FC,0,3
+UEFA Champions League,2025/26,2025-11-04,Liverpool,Real Madrid,1,0
 English Championship,2025,2025-11-05,Portsmouth FC,Wrexham AFC,0,0
 English Championship,2025,2025-11-05,Preston North End FC,Swansea City AFC,2,1
 English Championship,2025,2025-11-05,Queens Park Rangers FC,Southampton FC,1,2
 English Championship,2025,2025-11-05,Sheffield Wednesday FC,Norwich City FC,1,1
+UEFA Europa League,2020/21,2025-11-05,Real Sociedad,AZ Alkmaar,1,0
 Bundesliga,2025,2025-11-07,SV Werder Bremen,VfL Wolfsburg,2,1
 English Championship,2025,2025-11-07,Watford FC,Bristol City FC,1,1
 Eredivisie,2025,2025-11-07,FC Twente '65,Telstar 1963,0,0
@@ -1004,6 +1060,9 @@ English Championship,2025,2025-11-26,Millwall FC,Sheffield Wednesday FC,1,0
 English Championship,2025,2025-11-26,Sheffield United FC,Portsmouth FC,3,0
 English Championship,2025,2025-11-26,West Bromwich Albion FC,Birmingham City FC,1,1
 English Championship,2025,2025-11-26,Wrexham AFC,Bristol City FC,2,0
+UEFA Champions League,2025/26,2025-11-26,Arsenal,Bayern München,3,1
+UEFA Champions League,2025/26,2025-11-26,Liverpool,PSV,1,4
+UEFA Europa League,2020/21,2025-11-26,AZ Alkmaar,Real Sociedad,0,0
 Bundesliga,2025,2025-11-28,Borussia Mönchengladbach,RB Leipzig,0,0
 English Championship,2025,2025-11-28,Oxford United FC,Ipswich Town FC,2,1
 Eredivisie,2025,2025-11-28,PEC Zwolle,SC Heerenveen,2,1
@@ -1171,6 +1230,7 @@ Primeira Liga,2025,2025-12-08,Vitória SC,Gil Vicente FC,0,0
 Serie A,2025,2025-12-08,AC Pisa 1909,Parma Calcio 1913,0,1
 Serie A,2025,2025-12-08,Torino FC,AC Milan,2,3
 Serie A,2025,2025-12-08,Udinese Calcio,Genoa CFC,1,2
+UEFA Champions League,2021/22,2025-12-08,Bayern München,Barcelona,3,0
 English Championship,2025,2025-12-09,Blackburn Rovers FC,Oxford United FC,1,1
 English Championship,2025,2025-12-09,Charlton Athletic FC,Middlesbrough FC,1,2
 English Championship,2025,2025-12-09,Preston North End FC,Coventry City FC,1,1
@@ -1691,6 +1751,7 @@ Primeira Liga,2025,2026-01-26,FC Porto,Gil Vicente FC,3,0
 Serie A,2025,2026-01-26,Hellas Verona FC,Udinese Calcio,1,3
 Bundesliga,2025,2026-01-27,FC St. Pauli 1910,RB Leipzig,1,1
 Bundesliga,2025,2026-01-27,SV Werder Bremen,TSG 1899 Hoffenheim,0,2
+UEFA Champions League,2025/26,2026-01-28,PSV,Bayern München,1,2
 Bundesliga,2025,2026-01-30,1. FC Köln,VfL Wolfsburg,1,0
 English Championship,2025,2026-01-30,Bristol City FC,Derby County FC,0,5
 Eredivisie,2025,2026-01-30,NAC Breda,FC Twente '65,2,2
@@ -2422,6 +2483,7 @@ Serie A,2025,2026-04-06,SSC Napoli,AC Milan,1,0
 Serie A,2025,2026-04-06,US Lecce,Atalanta BC,0,3
 Serie A,2025,2026-04-06,Udinese Calcio,Como 1907,0,0
 English Championship,2025,2026-04-07,Wrexham AFC,Southampton FC,1,5
+UEFA Champions League,2025/26,2026-04-07,Real Madrid,Bayern München,1,2
 Bundesliga,2025,2026-04-10,FC Augsburg,TSG 1899 Hoffenheim,2,2
 English Championship,2025,2026-04-10,West Bromwich Albion FC,Millwall FC,0,0
 Eredivisie,2025,2026-04-10,FC Twente '65,FC Volendam,2,1
@@ -2500,6 +2562,7 @@ Primeira Liga,2025,2026-04-13,CD Tondela,Gil Vicente FC,2,2
 Serie A,2025,2026-04-13,ACF Fiorentina,SS Lazio,1,0
 English Championship,2025,2026-04-14,Portsmouth FC,Ipswich Town FC,2,0
 English Championship,2025,2026-04-14,Southampton FC,Blackburn Rovers FC,3,0
+UEFA Champions League,2025/26,2026-04-15,Bayern München,Real Madrid,4,3
 Bundesliga,2025,2026-04-17,FC St. Pauli 1910,1. FC Köln,1,1
 English Championship,2025,2026-04-17,Blackburn Rovers FC,Coventry City FC,1,1
 Ligue 1,2025,2026-04-17,Racing Club de Lens,Toulouse FC,3,2
@@ -2919,15 +2982,50 @@ Serie A,2025,2026-05-24,SSC Napoli,Udinese Calcio,1,0
 Serie A,2025,2026-05-24,Torino FC,Juventus FC,2,2
 Serie A,2025,2026-05-24,US Cremonese,Como 1907,1,4
 Serie A,2025,2026-05-24,US Lecce,Genoa CFC,1,0
+Scottish Premiership,2026/27,2026-07-31,Dundee United,Rangers,1,1
+Scottish Premiership,2026/27,2026-08-01,Aberdeen,Heart of Midlothian,2,1
+Scottish Premiership,2026/27,2026-08-01,Falkirk,St. Mirren,0,2
+Scottish Premiership,2026/27,2026-08-02,Hibernian,Motherwell,1,2
+Scottish Premiership,2026/27,2026-08-02,St. Johnstone,Kilmarnock,4,3
+Scottish Premiership,2026/27,2026-08-03,Celtic,Dundee,1,0
+2. Bundesliga,2026/27,2026-08-07,VfL Bochum,Hertha BSC,0,1
+Belgian Pro League,2026/27,2026-08-07,Club Brugge,KV Kortrijk,3,0
 Eredivisie,2026/27,2026-08-07,SC Cambuur,SBV Excelsior,0,4
 Primeira Liga,2026/27,2026-08-07,GD Estoril Praia,FC Famalicão,1,1
+2. Bundesliga,2026/27,2026-08-08,1. FC Heidenheim 1846,VfL Osnabrück,4,3
+2. Bundesliga,2026/27,2026-08-08,1. FC Magdeburg,Eintracht Braunschweig,1,6
+2. Bundesliga,2026/27,2026-08-08,Karlsruher SC,DSC Arminia Bielefeld,2,1
+2. Bundesliga,2026/27,2026-08-08,SV Darmstadt 98,Holstein Kiel,2,2
+2. Bundesliga,2026/27,2026-08-08,VfL Wolfsburg,1. FC Kaiserslautern,0,0
+Belgian Pro League,2026/27,2026-08-08,KVC Westerlo,Union St.-Gilloise,1,5
+Belgian Pro League,2026/27,2026-08-08,Sint-Truidense,Lommel SK,1,1
+Belgian Pro League,2026/27,2026-08-08,Standard Liege,Cercle Brugge KSV,2,2
 Eredivisie,2026/27,2026-08-08,AZ,ADO Den Haag,2,0
 Eredivisie,2026/27,2026-08-08,Go Ahead Eagles,Willem II,4,1
 Eredivisie,2026/27,2026-08-08,NEC,Telstar 1963,1,2
 Eredivisie,2026/27,2026-08-08,PSV,Fortuna Sittard,2,2
+Ligue 2,2026/27,2026-08-08,Clermont Foot 63,Stade DE Reims,0,0
+Ligue 2,2026/27,2026-08-08,FC Metz,EN Avant Guingamp,2,1
+Ligue 2,2026/27,2026-08-08,FC Nantes,Red Star FC,0,1
+Ligue 2,2026/27,2026-08-08,FC Sochaux-Montbéliard,AS Saint-Étienne,0,3
+Ligue 2,2026/27,2026-08-08,Montpellier Hérault SC,Dijon FCO,1,1
+Ligue 2,2026/27,2026-08-08,Pau FC,FC Annecy,0,1
+Ligue 2,2026/27,2026-08-08,Rodez Aveyron Football,Stade Lavallois MFC,3,1
+Ligue 2,2026/27,2026-08-08,US Boulogne CO,AS Nancy Lorraine,0,0
+Ligue 2,2026/27,2026-08-08,USL Dunkerque,Grenoble Foot 38,4,2
 Primeira Liga,2026/27,2026-08-08,CF Estrela da Amadora,Sporting Clube de Portugal,2,2
 Primeira Liga,2026/27,2026-08-08,Marítimo M.,Casa Pia AC,1,0
 Primeira Liga,2026/27,2026-08-08,Vitória SC,FC Arouca,0,1
+Scottish Premiership,2026/27,2026-08-08,Dundee,Aberdeen,2,0
+Scottish Premiership,2026/27,2026-08-08,St. Mirren,St. Johnstone,1,0
+2. Bundesliga,2026/27,2026-08-09,1. FC Nürnberg,Dynamo Dresden,3,0
+2. Bundesliga,2026/27,2026-08-09,Energie Cottbus,Hannover 96,3,1
+2. Bundesliga,2026/27,2026-08-09,FC St. Pauli,SpVgg Greuther Fürth,1,1
+Belgian Pro League,2026/27,2026-08-09,Anderlecht,RAAL La Louvière,2,1
+Belgian Pro League,2026/27,2026-08-09,Antwerp,Waasland-Beveren,2,1
+Belgian Pro League,2026/27,2026-08-09,KAA Gent,KV Mechelen,2,0
+Belgian Pro League,2026/27,2026-08-09,Royal Charleroi SC,OH Leuven,3,1
+Belgian Pro League,2026/27,2026-08-09,Zulte-Waregem,Racing Genk,2,1
 Eredivisie,2026/27,2026-08-09,FC Groningen,FC Utrecht,2,1
 Eredivisie,2026/27,2026-08-09,PEC Zwolle,AFC Ajax,0,2
 Eredivisie,2026/27,2026-08-09,SC Heerenveen,FC Twente '65,1,0
@@ -2936,10 +3034,35 @@ Primeira Liga,2026/27,2026-08-09,FC Porto,FC Alverca,2,0
 Primeira Liga,2026/27,2026-08-09,Gil Vicente FC,Rio Ave FC,1,0
 Primeira Liga,2026/27,2026-08-09,Moreirense FC,Sporting Clube de Braga,2,2
 Primeira Liga,2026/27,2026-08-09,Sport Lisboa e Benfica,Académico,2,2
+Scottish Premiership,2026/27,2026-08-09,Heart of Midlothian,Dundee United,4,0
+Scottish Premiership,2026/27,2026-08-09,Kilmarnock,Celtic,1,5
+Scottish Premiership,2026/27,2026-08-09,Motherwell,Falkirk,0,0
+Scottish Premiership,2026/27,2026-08-09,Rangers,Hibernian,1,2
 Primeira Liga,2026/27,2026-08-10,CD Santa Clara,CD Nacional,2,2
+2. Bundesliga,2026/27,2026-08-14,Eintracht Braunschweig,VfL Bochum,0,1
+2. Bundesliga,2026/27,2026-08-14,Holstein Kiel,FC St. Pauli,2,2
+Belgian Pro League,2026/27,2026-08-14,Cercle Brugge KSV,Sint-Truidense,3,3
 English Championship,2026/27,2026-08-14,Wolverhampton Wanderers,Blackburn Rovers FC,2,2
 Eredivisie,2026/27,2026-08-14,Telstar 1963,Sparta Rotterdam,1,3
+Ligue 2,2026/27,2026-08-14,AS Nancy Lorraine,Montpellier Hérault SC,0,1
+Ligue 2,2026/27,2026-08-14,AS Saint-Étienne,Clermont Foot 63,3,1
+Ligue 2,2026/27,2026-08-14,Dijon FCO,Pau FC,0,1
+Ligue 2,2026/27,2026-08-14,EN Avant Guingamp,US Boulogne CO,1,0
+Ligue 2,2026/27,2026-08-14,FC Annecy,Rodez Aveyron Football,2,0
+Ligue 2,2026/27,2026-08-14,Grenoble Foot 38,FC Metz,0,0
+Ligue 2,2026/27,2026-08-14,Red Star FC,FC Sochaux-Montbéliard,0,0
+Ligue 2,2026/27,2026-08-14,Stade DE Reims,USL Dunkerque,3,3
+Ligue 2,2026/27,2026-08-14,Stade Lavallois MFC,FC Nantes,2,1
 Primeira Liga,2026/27,2026-08-14,Sporting Clube de Portugal,Vitória SC,3,2
+Süper Lig,2026/27,2026-08-14,Galatasaray,Çorum,2,2
+2. Bundesliga,2026/27,2026-08-15,1. FC Kaiserslautern,Karlsruher SC,0,0
+2. Bundesliga,2026/27,2026-08-15,Hertha BSC,1. FC Heidenheim 1846,4,1
+2. Bundesliga,2026/27,2026-08-15,SpVgg Greuther Fürth,1. FC Nürnberg,2,4
+2. Bundesliga,2026/27,2026-08-15,VfL Osnabrück,1. FC Magdeburg,0,3
+Belgian Pro League,2026/27,2026-08-15,KV Kortrijk,Antwerp,0,3
+Belgian Pro League,2026/27,2026-08-15,OH Leuven,Club Brugge,0,3
+Belgian Pro League,2026/27,2026-08-15,Racing Genk,KVC Westerlo,3,2
+Belgian Pro League,2026/27,2026-08-15,Union St.-Gilloise,Zulte-Waregem,0,0
 English Championship,2026/27,2026-08-15,Bolton Wanderers,Preston North End FC,2,1
 English Championship,2026/27,2026-08-15,Bristol City FC,Millwall FC,0,2
 English Championship,2026/27,2026-08-15,Charlton Athletic FC,Derby County FC,2,1
@@ -2957,6 +3080,17 @@ La Liga,2026/27,2026-08-15,Sevilla FC,Rayo Vallecano de Madrid,2,1
 Primeira Liga,2026/27,2026-08-15,Académico,CD Santa Clara,0,1
 Primeira Liga,2026/27,2026-08-15,FC Alverca,CF Estrela da Amadora,2,2
 Primeira Liga,2026/27,2026-08-15,Rio Ave FC,FC Porto,0,2
+Süper Lig,2026/27,2026-08-15,Gaziantep,Alanyaspor,1,1
+Süper Lig,2026/27,2026-08-15,Gençlerbirligi,Fenerbahçe,2,1
+Süper Lig,2026/27,2026-08-15,Kasimpasa,Trabzonspor,1,1
+Süper Lig,2026/27,2026-08-15,Konyaspor,Çaykur Rizespor,0,1
+2. Bundesliga,2026/27,2026-08-16,DSC Arminia Bielefeld,Energie Cottbus,3,0
+2. Bundesliga,2026/27,2026-08-16,Dynamo Dresden,SV Darmstadt 98,1,0
+2. Bundesliga,2026/27,2026-08-16,Hannover 96,VfL Wolfsburg,0,1
+Belgian Pro League,2026/27,2026-08-16,KV Mechelen,Standard Liege,3,3
+Belgian Pro League,2026/27,2026-08-16,Lommel SK,Royal Charleroi SC,0,1
+Belgian Pro League,2026/27,2026-08-16,RAAL La Louvière,KAA Gent,1,2
+Belgian Pro League,2026/27,2026-08-16,Waasland-Beveren,Anderlecht,1,0
 English Championship,2026/27,2026-08-16,Burnley,West Ham United,2,2
 English Championship,2026/27,2026-08-16,Watford FC,Southampton FC,2,1
 Eredivisie,2026/27,2026-08-16,ADO Den Haag,FC Groningen,1,4
@@ -2968,14 +3102,28 @@ La Liga,2026/27,2026-08-16,RCD Espanyol de Barcelona,Levante UD,3,0
 Primeira Liga,2026/27,2026-08-16,CD Nacional,GD Estoril Praia,2,0
 Primeira Liga,2026/27,2026-08-16,FC Arouca,Moreirense FC,4,0
 Primeira Liga,2026/27,2026-08-16,FC Famalicão,Marítimo M.,1,2
+Süper Lig,2026/27,2026-08-16,Amedspor,Erzurumspor,3,0
+Süper Lig,2026/27,2026-08-16,Besiktas,Eyüpspor,1,0
+Süper Lig,2026/27,2026-08-16,Istanbul Basaksehir,Kocaelispor,2,0
 English Championship,2026/27,2026-08-17,Cardiff City,Wrexham AFC,1,1
 La Liga,2026/27,2026-08-17,RC Deportivo,Elche CF,1,1
 Primeira Liga,2026/27,2026-08-17,Casa Pia AC,Sport Lisboa e Benfica,0,7
+Süper Lig,2026/27,2026-08-17,Samsunspor,Göztepe,3,3
 La Liga,2026/27,2026-08-19,Club Atlético de Madrid,Málaga CF,2,0
 La Liga,2026/27,2026-08-20,Rayo Vallecano de Madrid,Deportivo Alavés,1,1
+Belgian Pro League,2026/27,2026-08-21,Standard Liege,RAAL La Louvière,2,0
 La Liga,2026/27,2026-08-21,Real Betis Balompié,Real Sociedad de Fútbol,1,0
 Ligue 1,2026/27,2026-08-21,Olympique de Marseille,RC Strasbourg Alsace,4,0
+Ligue 2,2026/27,2026-08-21,Clermont Foot 63,Dijon FCO,1,1
+Ligue 2,2026/27,2026-08-21,FC Sochaux-Montbéliard,EN Avant Guingamp,1,0
+Ligue 2,2026/27,2026-08-21,Pau FC,AS Nancy Lorraine,0,1
+Ligue 2,2026/27,2026-08-21,US Boulogne CO,Red Star FC,1,1
+Ligue 2,2026/27,2026-08-21,USL Dunkerque,Montpellier Hérault SC,0,1
 Premier League,2026/27,2026-08-21,Arsenal FC,Coventry,3,0
+Süper Lig,2026/27,2026-08-21,Erzurumspor,Galatasaray,0,4
+Belgian Pro League,2026/27,2026-08-22,Antwerp,Racing Genk,4,4
+Belgian Pro League,2026/27,2026-08-22,Royal Charleroi SC,KV Mechelen,2,0
+Belgian Pro League,2026/27,2026-08-22,Zulte-Waregem,Waasland-Beveren,4,0
 English Championship,2026/27,2026-08-22,Birmingham City FC,Bristol City FC,2,2
 English Championship,2026/27,2026-08-22,Blackburn Rovers FC,Middlesbrough FC,2,1
 English Championship,2026/27,2026-08-22,Derby County FC,Cardiff City,2,2
@@ -2998,6 +3146,9 @@ Ligue 1,2026/27,2026-08-22,Le Mans FC,Stade Brestois 29,2,2
 Ligue 1,2026/27,2026-08-22,OGC Nice,FC Lorient,0,0
 Ligue 1,2026/27,2026-08-22,Racing Club de Lens,AJ Auxerre,5,2
 Ligue 1,2026/27,2026-08-22,Toulouse FC,Olympique Lyonnais,0,2
+Ligue 2,2026/27,2026-08-22,AS Saint-Étienne,Grenoble Foot 38,4,0
+Ligue 2,2026/27,2026-08-22,FC Metz,Stade Lavallois MFC,1,1
+Ligue 2,2026/27,2026-08-22,FC Nantes,Rodez Aveyron Football,2,5
 Premier League,2026/27,2026-08-22,Brentford FC,Tottenham Hotspur FC,3,0
 Premier League,2026/27,2026-08-22,Everton FC,Crystal Palace FC,2,0
 Premier League,2026/27,2026-08-22,Hull,Manchester United FC,2,0
@@ -3006,10 +3157,16 @@ Premier League,2026/27,2026-08-22,Nottingham Forest FC,Leeds United FC,0,1
 Primeira Liga,2026/27,2026-08-22,GD Estoril Praia,Rio Ave FC,0,2
 Primeira Liga,2026/27,2026-08-22,Marítimo M.,Académico,2,2
 Primeira Liga,2026/27,2026-08-22,Sporting Clube de Portugal,FC Alverca,3,1
+Scottish Premiership,2026/27,2026-08-22,Dundee United,Dundee,0,2
 Serie A,2026/27,2026-08-22,FC Internazionale Milano,Monza,4,1
 Serie A,2026/27,2026-08-22,Genoa CFC,SSC Napoli,0,2
 Serie A,2026/27,2026-08-22,Parma Calcio 1913,Cagliari Calcio,0,1
 Serie A,2026/27,2026-08-22,Udinese Calcio,Como 1907,1,1
+Süper Lig,2026/27,2026-08-22,Fenerbahçe,Konyaspor,4,2
+Süper Lig,2026/27,2026-08-22,Çaykur Rizespor,Samsunspor,0,2
+Süper Lig,2026/27,2026-08-22,Çorum,Kasimpasa,0,1
+Belgian Pro League,2026/27,2026-08-23,Club Brugge,Cercle Brugge KSV,1,0
+Belgian Pro League,2026/27,2026-08-23,Lommel SK,KVC Westerlo,4,0
 English Championship,2026/27,2026-08-23,West Bromwich Albion FC,Burnley,3,1
 Eredivisie,2026/27,2026-08-23,Go Ahead Eagles,ADO Den Haag,3,1
 Eredivisie,2026/27,2026-08-23,PSV,FC Groningen,5,1
@@ -3030,25 +3187,48 @@ Serie A,2026/27,2026-08-23,Atalanta BC,US Sassuolo Calcio,2,1
 Serie A,2026/27,2026-08-23,Frosinone,Juventus FC,0,1
 Serie A,2026/27,2026-08-23,Torino FC,AC Milan,1,2
 Serie A,2026/27,2026-08-23,Venezia,US Lecce,0,2
+Süper Lig,2026/27,2026-08-23,Alanyaspor,Besiktas,1,0
+Süper Lig,2026/27,2026-08-23,Eyüpspor,Gaziantep,0,1
+Süper Lig,2026/27,2026-08-23,Göztepe,Gençlerbirligi,0,1
+Süper Lig,2026/27,2026-08-23,Trabzonspor,Istanbul Basaksehir,2,1
 La Liga,2026/27,2026-08-24,CA Osasuna,Levante UD,0,0
 La Liga,2026/27,2026-08-24,Málaga CF,RC Deportivo,1,1
+Ligue 2,2026/27,2026-08-24,Stade DE Reims,FC Annecy,3,1
 Premier League,2026/27,2026-08-24,Fulham FC,Chelsea FC,2,3
 Primeira Liga,2026/27,2026-08-24,Gil Vicente FC,Casa Pia AC,2,0
 Serie A,2026/27,2026-08-24,AS Roma,ACF Fiorentina,4,0
 Serie A,2026/27,2026-08-24,Bologna FC 1909,SS Lazio,0,1
+Süper Lig,2026/27,2026-08-24,Kocaelispor,Amedspor,2,0
 La Liga,2026/27,2026-08-25,Valencia CF,Real Betis Balompié,0,1
 La Liga,2026/27,2026-08-26,Real Madrid CF,Real Sociedad de Fútbol,4,1
 La Liga,2026/27,2026-08-27,FC Barcelona,Athletic Club,2,0
 La Liga,2026/27,2026-08-27,RC Celta de Vigo,CA Osasuna,1,2
+2. Bundesliga,2026/27,2026-08-28,Eintracht Braunschweig,Hertha BSC,3,5
+2. Bundesliga,2026/27,2026-08-28,VfL Bochum,VfL Osnabrück,0,1
+Belgian Pro League,2026/27,2026-08-28,Racing Genk,Waasland-Beveren,4,0
 Bundesliga,2026/27,2026-08-28,FC Bayern München,VfB Stuttgart,5,1
 English Championship,2026/27,2026-08-28,Wrexham AFC,Birmingham City FC,1,2
 Eredivisie,2026/27,2026-08-28,FC Groningen,Fortuna Sittard,2,3
 La Liga,2026/27,2026-08-28,Deportivo Alavés,Villarreal CF,1,0
 La Liga,2026/27,2026-08-28,R. Racing Club,Elche CF,3,2
 Ligue 1,2026/27,2026-08-28,Lille OSC,Paris Saint-Germain FC,2,2
+Ligue 2,2026/27,2026-08-28,AS Nancy Lorraine,USL Dunkerque,2,0
+Ligue 2,2026/27,2026-08-28,Clermont Foot 63,FC Sochaux-Montbéliard,0,0
+Ligue 2,2026/27,2026-08-28,Montpellier Hérault SC,US Boulogne CO,0,0
+Ligue 2,2026/27,2026-08-28,Rodez Aveyron Football,Pau FC,2,2
+Ligue 2,2026/27,2026-08-28,Stade Lavallois MFC,Grenoble Foot 38,0,3
 Premier League,2026/27,2026-08-28,Crystal Palace FC,Manchester City FC,1,4
 Primeira Liga,2026/27,2026-08-28,Rio Ave FC,Sporting Clube de Portugal,0,4
 Serie A,2026/27,2026-08-28,AC Milan,Venezia,2,0
+Süper Lig,2026/27,2026-08-28,Gençlerbirligi,Erzurumspor,1,1
+2. Bundesliga,2026/27,2026-08-29,1. FC Heidenheim 1846,Dynamo Dresden,5,3
+2. Bundesliga,2026/27,2026-08-29,1. FC Nürnberg,DSC Arminia Bielefeld,4,1
+2. Bundesliga,2026/27,2026-08-29,Energie Cottbus,SpVgg Greuther Fürth,3,4
+2. Bundesliga,2026/27,2026-08-29,Karlsruher SC,VfL Wolfsburg,2,5
+Belgian Pro League,2026/27,2026-08-29,Cercle Brugge KSV,Lommel SK,0,1
+Belgian Pro League,2026/27,2026-08-29,KV Kortrijk,Royal Charleroi SC,1,3
+Belgian Pro League,2026/27,2026-08-29,OH Leuven,Standard Liege,1,2
+Belgian Pro League,2026/27,2026-08-29,RAAL La Louvière,KV Mechelen,2,2
 Bundesliga,2026/27,2026-08-29,1. FC Köln,TSG 1899 Hoffenheim,3,2
 Bundesliga,2026/27,2026-08-29,1. FC Union Berlin,Eintracht Frankfurt,3,3
 Bundesliga,2026/27,2026-08-29,1. FSV Mainz 05,SC Paderborn 07,0,0
@@ -3077,6 +3257,9 @@ Ligue 1,2026/27,2026-08-29,FC Lorient,Estac Troyes,1,2
 Ligue 1,2026/27,2026-08-29,Olympique Lyonnais,Le Havre AC,1,1
 Ligue 1,2026/27,2026-08-29,RC Strasbourg Alsace,Racing Club de Lens,2,1
 Ligue 1,2026/27,2026-08-29,Stade Brestois 29,Toulouse FC,2,2
+Ligue 2,2026/27,2026-08-29,EN Avant Guingamp,FC Nantes,3,3
+Ligue 2,2026/27,2026-08-29,FC Annecy,FC Metz,1,1
+Ligue 2,2026/27,2026-08-29,Red Star FC,Stade DE Reims,1,4
 Premier League,2026/27,2026-08-29,AFC Bournemouth,Everton FC,1,1
 Premier League,2026/27,2026-08-29,Coventry,Hull,0,1
 Premier League,2026/27,2026-08-29,Liverpool FC,Nottingham Forest FC,2,2
@@ -3084,10 +3267,23 @@ Premier League,2026/27,2026-08-29,Tottenham Hotspur FC,Newcastle United FC,0,2
 Primeira Liga,2026/27,2026-08-29,Académico,FC Porto,0,3
 Primeira Liga,2026/27,2026-08-29,FC Alverca,CD Santa Clara,1,1
 Primeira Liga,2026/27,2026-08-29,FC Arouca,Marítimo M.,2,1
+Scottish Premiership,2026/27,2026-08-29,Celtic,Falkirk,2,1
+Scottish Premiership,2026/27,2026-08-29,Heart of Midlothian,St. Johnstone,2,1
+Scottish Premiership,2026/27,2026-08-29,Kilmarnock,Dundee United,0,4
 Serie A,2026/27,2026-08-29,ACF Fiorentina,Frosinone,0,3
 Serie A,2026/27,2026-08-29,Juventus FC,Parma Calcio 1913,2,0
 Serie A,2026/27,2026-08-29,Monza,Udinese Calcio,2,3
 Serie A,2026/27,2026-08-29,US Sassuolo Calcio,Torino FC,2,1
+Süper Lig,2026/27,2026-08-29,Galatasaray,Göztepe,3,2
+Süper Lig,2026/27,2026-08-29,Gaziantep,Çaykur Rizespor,1,2
+Süper Lig,2026/27,2026-08-29,Konyaspor,Kocaelispor,1,2
+2. Bundesliga,2026/27,2026-08-30,1. FC Magdeburg,Holstein Kiel,2,0
+2. Bundesliga,2026/27,2026-08-30,FC St. Pauli,1. FC Kaiserslautern,1,2
+2. Bundesliga,2026/27,2026-08-30,SV Darmstadt 98,Hannover 96,0,1
+Belgian Pro League,2026/27,2026-08-30,Antwerp,Sint-Truidense,1,4
+Belgian Pro League,2026/27,2026-08-30,KAA Gent,Club Brugge,2,1
+Belgian Pro League,2026/27,2026-08-30,KVC Westerlo,Zulte-Waregem,2,2
+Belgian Pro League,2026/27,2026-08-30,Union St.-Gilloise,Anderlecht,3,0
 Bundesliga,2026/27,2026-08-30,FC Augsburg,FC Schalke 04,3,0
 Bundesliga,2026/27,2026-08-30,SC Freiburg,SV Werder Bremen,4,1
 Eredivisie,2026/27,2026-08-30,FC Utrecht,PSV,1,6
@@ -3108,16 +3304,25 @@ Premier League,2026/27,2026-08-30,Sunderland AFC,Fulham FC,1,0
 Primeira Liga,2026/27,2026-08-30,CD Nacional,CF Estrela da Amadora,2,3
 Primeira Liga,2026/27,2026-08-30,Casa Pia AC,Moreirense FC,0,1
 Primeira Liga,2026/27,2026-08-30,FC Famalicão,Gil Vicente FC,0,0
+Scottish Premiership,2026/27,2026-08-30,Aberdeen,Rangers,0,1
+Scottish Premiership,2026/27,2026-08-30,Dundee,Hibernian,1,2
+Scottish Premiership,2026/27,2026-08-30,St. Mirren,Motherwell,3,3
 Serie A,2026/27,2026-08-30,Cagliari Calcio,FC Internazionale Milano,0,1
 Serie A,2026/27,2026-08-30,SS Lazio,Genoa CFC,1,0
 Serie A,2026/27,2026-08-30,SSC Napoli,Como 1907,1,2
+Süper Lig,2026/27,2026-08-30,Eyüpspor,Alanyaspor,2,1
+Süper Lig,2026/27,2026-08-30,Istanbul Basaksehir,Kasimpasa,1,1
+Süper Lig,2026/27,2026-08-30,Samsunspor,Fenerbahçe,0,2
 La Liga,2026/27,2026-08-31,CA Osasuna,Getafe CF,1,0
 La Liga,2026/27,2026-08-31,FC Barcelona,Rayo Vallecano de Madrid,5,2
+Ligue 2,2026/27,2026-08-31,Dijon FCO,AS Saint-Étienne,2,3
 Premier League,2026/27,2026-08-31,Aston Villa FC,Arsenal FC,0,1
 Primeira Liga,2026/27,2026-08-31,Sport Lisboa e Benfica,GD Estoril Praia,2,1
 Primeira Liga,2026/27,2026-08-31,Sporting Clube de Braga,Vitória SC,1,0
 Serie A,2026/27,2026-08-31,Atalanta BC,Bologna FC 1909,1,0
 Serie A,2026/27,2026-08-31,US Lecce,AS Roma,0,4
+Süper Lig,2026/27,2026-08-31,Amedspor,Trabzonspor,2,1
+Süper Lig,2026/27,2026-08-31,Besiktas,Çorum,6,2
 English Championship,2026/27,2026-09-01,Birmingham City FC,Southampton FC,1,1
 English Championship,2026/27,2026-09-01,Lincoln City,Blackburn Rovers FC,0,0
 English Championship,2026/27,2026-09-01,Portsmouth FC,Derby County FC,0,2
@@ -3126,20 +3331,46 @@ English Championship,2026/27,2026-09-01,Sheffield United FC,Bolton Wanderers,3,2
 English Championship,2026/27,2026-09-01,Stoke City FC,Norwich City FC,1,0
 English Championship,2026/27,2026-09-01,Swansea City AFC,Watford FC,2,0
 English Championship,2026/27,2026-09-01,West Ham United,Wolverhampton Wanderers,4,2
+Belgian Pro League,2026/27,2026-09-02,Sint-Truidense,Union St.-Gilloise,0,3
 English Championship,2026/27,2026-09-02,Burnley,Middlesbrough FC,1,1
 English Championship,2026/27,2026-09-02,Millwall FC,Wrexham AFC,0,3
 English Championship,2026/27,2026-09-02,Queens Park Rangers FC,Cardiff City,2,1
 English Championship,2026/27,2026-09-02,West Bromwich Albion FC,Charlton Athletic FC,1,1
+Scottish Premiership,2026/27,2026-09-02,Celtic,Aberdeen,3,0
+Scottish Premiership,2026/27,2026-09-02,Dundee,St. Johnstone,1,1
+Scottish Premiership,2026/27,2026-09-02,Falkirk,Rangers,1,2
+Scottish Premiership,2026/27,2026-09-02,Kilmarnock,St. Mirren,0,1
+Scottish Premiership,2026/27,2026-09-02,Motherwell,Dundee United,3,0
+Belgian Pro League,2026/27,2026-09-03,Anderlecht,KV Kortrijk,1,0
+Belgian Pro League,2026/27,2026-09-03,KAA Gent,OH Leuven,1,0
 La Liga,2026/27,2026-09-03,Real Sociedad de Fútbol,RC Celta de Vigo,0,0
 Ligue 1,2026/27,2026-09-03,Toulouse FC,Lille OSC,0,1
+Scottish Premiership,2026/27,2026-09-03,Hibernian,Heart of Midlothian,1,3
+2. Bundesliga,2026/27,2026-09-04,DSC Arminia Bielefeld,FC St. Pauli,2,2
+2. Bundesliga,2026/27,2026-09-04,Hannover 96,Karlsruher SC,2,2
+Belgian Pro League,2026/27,2026-09-04,Lommel SK,Club Brugge,0,1
 Bundesliga,2026/27,2026-09-04,VfB Stuttgart,1. FC Köln,4,1
 Eredivisie,2026/27,2026-09-04,Sparta Rotterdam,PEC Zwolle,2,2
 La Liga,2026/27,2026-09-04,Real Betis Balompié,Real Madrid CF,1,0
 Ligue 1,2026/27,2026-09-04,Olympique Lyonnais,AJ Auxerre,3,1
 Ligue 1,2026/27,2026-09-04,Paris Saint-Germain FC,AS Monaco FC,1,2
+Ligue 2,2026/27,2026-09-04,Grenoble Foot 38,FC Annecy,1,2
+Ligue 2,2026/27,2026-09-04,Pau FC,FC Sochaux-Montbéliard,1,1
+Ligue 2,2026/27,2026-09-04,Stade Lavallois MFC,Red Star FC,1,2
+Ligue 2,2026/27,2026-09-04,US Boulogne CO,Dijon FCO,1,1
+Ligue 2,2026/27,2026-09-04,USL Dunkerque,Clermont Foot 63,1,1
 Premier League,2026/27,2026-09-04,Ipswich,Liverpool FC,0,2
 Primeira Liga,2026/27,2026-09-04,FC Porto,Moreirense FC,2,1
 Serie A,2026/27,2026-09-04,Genoa CFC,Como 1907,1,4
+Süper Lig,2026/27,2026-09-04,Istanbul Basaksehir,Galatasaray,2,3
+2. Bundesliga,2026/27,2026-09-05,1. FC Kaiserslautern,SV Darmstadt 98,3,0
+2. Bundesliga,2026/27,2026-09-05,Dynamo Dresden,VfL Bochum,1,2
+2. Bundesliga,2026/27,2026-09-05,Holstein Kiel,1. FC Nürnberg,2,2
+2. Bundesliga,2026/27,2026-09-05,VfL Wolfsburg,Energie Cottbus,4,4
+Belgian Pro League,2026/27,2026-09-05,KV Mechelen,KVC Westerlo,0,4
+Belgian Pro League,2026/27,2026-09-05,Royal Charleroi SC,Union St.-Gilloise,2,3
+Belgian Pro League,2026/27,2026-09-05,Sint-Truidense,RAAL La Louvière,4,0
+Belgian Pro League,2026/27,2026-09-05,Standard Liege,Antwerp,1,0
 Bundesliga,2026/27,2026-09-05,Bayer 04 Leverkusen,1. FC Union Berlin,4,0
 Bundesliga,2026/27,2026-09-05,Borussia Mönchengladbach,SV 07 Elversberg,3,4
 Bundesliga,2026/27,2026-09-05,FC Schalke 04,FC Bayern München,0,0
@@ -3166,6 +3397,9 @@ La Liga,2026/27,2026-09-05,Villarreal CF,RC Deportivo,2,3
 Ligue 1,2026/27,2026-09-05,Le Havre AC,Stade Brestois 29,1,2
 Ligue 1,2026/27,2026-09-05,OGC Nice,Le Mans FC,1,1
 Ligue 1,2026/27,2026-09-05,Racing Club de Lens,FC Lorient,0,1
+Ligue 2,2026/27,2026-09-05,AS Saint-Étienne,Montpellier Hérault SC,3,1
+Ligue 2,2026/27,2026-09-05,FC Metz,Rodez Aveyron Football,4,1
+Ligue 2,2026/27,2026-09-05,Stade DE Reims,EN Avant Guingamp,2,2
 Premier League,2026/27,2026-09-05,Brentford FC,Sunderland AFC,1,1
 Premier League,2026/27,2026-09-05,Brighton & Hove Albion FC,Leeds United FC,1,1
 Premier League,2026/27,2026-09-05,Fulham FC,Crystal Palace FC,2,3
@@ -3177,9 +3411,22 @@ Primeira Liga,2026/27,2026-09-05,CF Estrela da Amadora,FC Famalicão,2,2
 Primeira Liga,2026/27,2026-09-05,FC Alverca,Sporting Clube de Braga,1,2
 Primeira Liga,2026/27,2026-09-05,Marítimo M.,Sport Lisboa e Benfica,0,3
 Primeira Liga,2026/27,2026-09-05,Sporting Clube de Portugal,CD Nacional,2,0
+Scottish Premiership,2026/27,2026-09-05,Aberdeen,Kilmarnock,0,0
+Scottish Premiership,2026/27,2026-09-05,Dundee United,Falkirk,1,1
+Scottish Premiership,2026/27,2026-09-05,Rangers,Motherwell,1,0
+Scottish Premiership,2026/27,2026-09-05,St. Mirren,Celtic,1,2
 Serie A,2026/27,2026-09-05,ACF Fiorentina,Torino FC,1,2
 Serie A,2026/27,2026-09-05,AS Roma,Atalanta BC,2,1
 Serie A,2026/27,2026-09-05,FC Internazionale Milano,SSC Napoli,3,2
+Süper Lig,2026/27,2026-09-05,Erzurumspor,Konyaspor,1,0
+Süper Lig,2026/27,2026-09-05,Fenerbahçe,Besiktas,1,2
+2. Bundesliga,2026/27,2026-09-06,Hertha BSC,1. FC Magdeburg,2,1
+2. Bundesliga,2026/27,2026-09-06,SpVgg Greuther Fürth,1. FC Heidenheim 1846,0,1
+2. Bundesliga,2026/27,2026-09-06,VfL Osnabrück,Eintracht Braunschweig,3,1
+Belgian Pro League,2026/27,2026-09-06,Anderlecht,Racing Genk,0,0
+Belgian Pro League,2026/27,2026-09-06,Cercle Brugge KSV,KAA Gent,0,3
+Belgian Pro League,2026/27,2026-09-06,KV Kortrijk,Zulte-Waregem,0,2
+Belgian Pro League,2026/27,2026-09-06,Waasland-Beveren,OH Leuven,3,0
 Bundesliga,2026/27,2026-09-06,Eintracht Frankfurt,FC Augsburg,1,4
 Bundesliga,2026/27,2026-09-06,Hamburger SV,1. FSV Mainz 05,0,5
 English Championship,2026/27,2026-09-06,Birmingham City FC,Wolverhampton Wanderers,2,2
@@ -3199,15 +3446,24 @@ Premier League,2026/27,2026-09-06,Everton FC,Manchester United FC,2,2
 Primeira Liga,2026/27,2026-09-06,CD Santa Clara,Rio Ave FC,4,0
 Primeira Liga,2026/27,2026-09-06,Gil Vicente FC,Académico,0,1
 Primeira Liga,2026/27,2026-09-06,Vitória SC,Casa Pia AC,0,0
+Scottish Premiership,2026/27,2026-09-06,Heart of Midlothian,Dundee,2,1
+Scottish Premiership,2026/27,2026-09-06,St. Johnstone,Hibernian,2,1
 Serie A,2026/27,2026-09-06,Bologna FC 1909,US Sassuolo Calcio,2,2
 Serie A,2026/27,2026-09-06,Frosinone,Venezia,3,2
 Serie A,2026/27,2026-09-06,Juventus FC,AC Milan,1,1
 Serie A,2026/27,2026-09-06,Parma Calcio 1913,Monza,1,1
+Süper Lig,2026/27,2026-09-06,Kasimpasa,Amedspor,2,2
+Süper Lig,2026/27,2026-09-06,Kocaelispor,Samsunspor,1,0
+Süper Lig,2026/27,2026-09-06,Trabzonspor,Gençlerbirligi,5,0
+Süper Lig,2026/27,2026-09-06,Çorum,Eyüpspor,3,0
 La Liga,2026/27,2026-09-07,Elche CF,Real Sociedad de Fútbol,2,3
 La Liga,2026/27,2026-09-07,Getafe CF,RC Celta de Vigo,1,1
+Ligue 2,2026/27,2026-09-07,FC Nantes,AS Nancy Lorraine,1,0
 Primeira Liga,2026/27,2026-09-07,GD Estoril Praia,FC Arouca,0,0
 Serie A,2026/27,2026-09-07,Cagliari Calcio,US Lecce,1,0
 Serie A,2026/27,2026-09-07,Udinese Calcio,SS Lazio,1,2
+Süper Lig,2026/27,2026-09-07,Göztepe,Gaziantep,2,4
+Süper Lig,2026/27,2026-09-07,Çaykur Rizespor,Alanyaspor,0,1
 English Championship,2026/27,2026-09-08,Blackburn Rovers FC,Sheffield United FC,1,2
 English Championship,2026/27,2026-09-08,Bolton Wanderers,West Ham United,2,3
 English Championship,2026/27,2026-09-08,Cardiff City,Stoke City FC,1,1
@@ -3216,18 +3472,55 @@ English Championship,2026/27,2026-09-08,Watford FC,Preston North End FC,2,1
 English Championship,2026/27,2026-09-08,Wrexham AFC,Burnley,1,1
 Eredivisie,2026/27,2026-09-08,FC Utrecht,Go Ahead Eagles,3,3
 Eredivisie,2026/27,2026-09-08,NEC,SBV Excelsior,2,2
+UEFA Champions League,2026/27,2026-09-08,AEK Athens,LASK,1,0
+UEFA Champions League,2026/27,2026-09-08,B. Dortmund,Villarreal,3,2
+UEFA Champions League,2026/27,2026-09-08,Club Brugge,Aston Villa,2,3
+UEFA Champions League,2026/27,2026-09-08,Lille,Real Betis,2,3
+UEFA Champions League,2026/27,2026-09-08,Porto,Man City,0,2
+UEFA Champions League,2026/27,2026-09-08,Real Madrid,Inter,2,1
 English Championship,2026/27,2026-09-09,Charlton Athletic FC,Queens Park Rangers FC,0,0
 English Championship,2026/27,2026-09-09,Derby County FC,West Bromwich Albion FC,0,1
 English Championship,2026/27,2026-09-09,Norwich City FC,Birmingham City FC,2,1
 Eredivisie,2026/27,2026-09-09,FC Twente '65,Telstar 1963,1,0
 Primeira Liga,2026/27,2026-09-09,Moreirense FC,Sport Lisboa e Benfica,0,4
+Scottish Premiership,2026/27,2026-09-09,Rangers,St. Mirren,1,0
+Scottish Premiership,2026/27,2026-09-09,St. Johnstone,Celtic,0,1
+UEFA Champions League,2026/27,2026-09-09,Barcelona,Feyenoord,5,1
+UEFA Champions League,2026/27,2026-09-09,Liverpool,Atleti,2,1
+UEFA Champions League,2026/27,2026-09-09,Napoli,Arsenal,0,1
+UEFA Champions League,2026/27,2026-09-09,Paris,S. Bratislava,6,1
+UEFA Champions League,2026/27,2026-09-09,Sporting CP,Galatasaray,3,1
+UEFA Champions League,2026/27,2026-09-09,Stuttgart,Viking,3,1
 Primeira Liga,2026/27,2026-09-10,CF Estrela da Amadora,Sporting Clube de Braga,2,1
+UEFA Champions League,2026/27,2026-09-10,Bayern München,Bodø/Glimt,5,0
+UEFA Champions League,2026/27,2026-09-10,Como,Leipzig,4,1
+UEFA Champions League,2026/27,2026-09-10,Fenerbahçe,Roma,1,1
+UEFA Champions League,2026/27,2026-09-10,Man Utd,Sabah,4,0
+UEFA Champions League,2026/27,2026-09-10,PSV,Shakhtar,1,1
+UEFA Champions League,2026/27,2026-09-10,Slavia Praha,Lens,2,3
+2. Bundesliga,2026/27,2026-09-11,1. FC Nürnberg,Hannover 96,2,1
+2. Bundesliga,2026/27,2026-09-11,SV Darmstadt 98,DSC Arminia Bielefeld,2,1
+Belgian Pro League,2026/27,2026-09-11,KV Mechelen,Anderlecht,0,1
 Bundesliga,2026/27,2026-09-11,1. FC Union Berlin,FC Schalke 04,1,3
 English Championship,2026/27,2026-09-11,West Ham United,Wrexham AFC,6,0
 Eredivisie,2026/27,2026-09-11,AZ,Willem II,1,1
 La Liga,2026/27,2026-09-11,Sevilla FC,Valencia CF,1,0
 Ligue 1,2026/27,2026-09-11,Stade Rennais FC 1901,Olympique de Marseille,1,0
+Ligue 2,2026/27,2026-09-11,AS Nancy Lorraine,Stade DE Reims,1,2
+Ligue 2,2026/27,2026-09-11,Clermont Foot 63,US Boulogne CO,0,0
+Ligue 2,2026/27,2026-09-11,Dijon FCO,Stade Lavallois MFC,3,2
+Ligue 2,2026/27,2026-09-11,Montpellier Hérault SC,Pau FC,1,0
+Ligue 2,2026/27,2026-09-11,Rodez Aveyron Football,Grenoble Foot 38,0,1
 Serie A,2026/27,2026-09-11,Venezia,ACF Fiorentina,2,4
+Süper Lig,2026/27,2026-09-11,Besiktas,Erzurumspor,3,0
+2. Bundesliga,2026/27,2026-09-12,1. FC Magdeburg,1. FC Kaiserslautern,3,0
+2. Bundesliga,2026/27,2026-09-12,Eintracht Braunschweig,Dynamo Dresden,2,2
+2. Bundesliga,2026/27,2026-09-12,FC St. Pauli,VfL Wolfsburg,1,0
+2. Bundesliga,2026/27,2026-09-12,VfL Bochum,SpVgg Greuther Fürth,1,1
+Belgian Pro League,2026/27,2026-09-12,KVC Westerlo,Standard Liege,4,2
+Belgian Pro League,2026/27,2026-09-12,OH Leuven,Cercle Brugge KSV,1,1
+Belgian Pro League,2026/27,2026-09-12,Union St.-Gilloise,Lommel SK,5,0
+Belgian Pro League,2026/27,2026-09-12,Waasland-Beveren,Sint-Truidense,2,0
 Bundesliga,2026/27,2026-09-12,1. FC Köln,SV Werder Bremen,1,1
 Bundesliga,2026/27,2026-09-12,1. FSV Mainz 05,Eintracht Frankfurt,1,3
 Bundesliga,2026/27,2026-09-12,Borussia Dortmund,SC Paderborn 07,3,0
@@ -3257,6 +3550,9 @@ Ligue 1,2026/27,2026-09-12,FC Lorient,Toulouse FC,2,2
 Ligue 1,2026/27,2026-09-12,Le Havre AC,Angers SCO,0,0
 Ligue 1,2026/27,2026-09-12,Paris FC,Olympique Lyonnais,0,0
 Ligue 1,2026/27,2026-09-12,RC Strasbourg Alsace,AS Monaco FC,1,1
+Ligue 2,2026/27,2026-09-12,EN Avant Guingamp,FC Annecy,2,1
+Ligue 2,2026/27,2026-09-12,FC Sochaux-Montbéliard,FC Nantes,1,0
+Ligue 2,2026/27,2026-09-12,USL Dunkerque,AS Saint-Étienne,2,1
 Premier League,2026/27,2026-09-12,AFC Bournemouth,Brentford FC,2,2
 Premier League,2026/27,2026-09-12,Aston Villa FC,Nottingham Forest FC,1,2
 Premier League,2026/27,2026-09-12,Chelsea FC,Hull,2,2
@@ -3270,6 +3566,17 @@ Primeira Liga,2026/27,2026-09-12,Casa Pia AC,FC Porto,1,4
 Serie A,2026/27,2026-09-12,Atalanta BC,Cagliari Calcio,1,2
 Serie A,2026/27,2026-09-12,Genoa CFC,Frosinone,1,1
 Serie A,2026/27,2026-09-12,SS Lazio,AC Milan,2,2
+Süper Lig,2026/27,2026-09-12,Alanyaspor,Göztepe,2,2
+Süper Lig,2026/27,2026-09-12,Eyüpspor,Çaykur Rizespor,0,2
+Süper Lig,2026/27,2026-09-12,Konyaspor,Trabzonspor,1,0
+Süper Lig,2026/27,2026-09-12,Samsunspor,Çorum,1,5
+2. Bundesliga,2026/27,2026-09-13,1. FC Heidenheim 1846,Holstein Kiel,1,0
+2. Bundesliga,2026/27,2026-09-13,Karlsruher SC,Energie Cottbus,0,3
+2. Bundesliga,2026/27,2026-09-13,VfL Osnabrück,Hertha BSC,1,3
+Belgian Pro League,2026/27,2026-09-13,Club Brugge,Antwerp,3,1
+Belgian Pro League,2026/27,2026-09-13,RAAL La Louvière,KV Kortrijk,3,0
+Belgian Pro League,2026/27,2026-09-13,Racing Genk,KAA Gent,1,1
+Belgian Pro League,2026/27,2026-09-13,Zulte-Waregem,Royal Charleroi SC,0,1
 Bundesliga,2026/27,2026-09-13,RB Leipzig,Hamburger SV,5,0
 Bundesliga,2026/27,2026-09-13,SV 07 Elversberg,FC Bayern München,1,2
 English Championship,2026/27,2026-09-13,Sheffield United FC,Wolverhampton Wanderers,0,1
@@ -3292,7 +3599,11 @@ Primeira Liga,2026/27,2026-09-13,Sport Lisboa e Benfica,Gil Vicente FC,3,1
 Serie A,2026/27,2026-09-13,SSC Napoli,Bologna FC 1909,1,0
 Serie A,2026/27,2026-09-13,US Lecce,Monza,3,2
 Serie A,2026/27,2026-09-13,US Sassuolo Calcio,Juventus FC,3,2
+Süper Lig,2026/27,2026-09-13,Amedspor,Istanbul Basaksehir,5,0
+Süper Lig,2026/27,2026-09-13,Galatasaray,Kocaelispor,1,0
+Süper Lig,2026/27,2026-09-13,Gençlerbirligi,Kasimpasa,1,2
 La Liga,2026/27,2026-09-14,Villarreal CF,Real Betis Balompié,1,2
+Ligue 2,2026/27,2026-09-14,Red Star FC,FC Metz,1,0
 Premier League,2026/27,2026-09-14,Leeds United FC,Newcastle United FC,4,1
 Primeira Liga,2026/27,2026-09-14,Moreirense FC,Marítimo M.,3,1
 Primeira Liga,2026/27,2026-09-14,Rio Ave FC,CF Estrela da Amadora,3,3
@@ -3300,24 +3611,64 @@ Primeira Liga,2026/27,2026-09-14,Sporting Clube de Braga,GD Estoril Praia,1,0
 Serie A,2026/27,2026-09-14,Como 1907,Parma Calcio 1913,2,1
 Serie A,2026/27,2026-09-14,FC Internazionale Milano,Udinese Calcio,5,3
 Serie A,2026/27,2026-09-14,Torino FC,AS Roma,0,2
+Süper Lig,2026/27,2026-09-14,Gaziantep,Fenerbahçe,0,0
 English Championship,2026/27,2026-09-15,Bristol City FC,Lincoln City,0,1
 English Championship,2026/27,2026-09-15,Middlesbrough FC,Millwall FC,2,2
 Eredivisie,2026/27,2026-09-15,AFC Ajax,Willem II,5,1
 La Liga,2026/27,2026-09-15,Deportivo Alavés,Valencia CF,0,1
 La Liga,2026/27,2026-09-15,Elche CF,Real Madrid CF,2,3
 La Liga,2026/27,2026-09-15,Rayo Vallecano de Madrid,RCD Espanyol de Barcelona,2,1
+Scottish Premiership,2026/27,2026-09-15,Falkirk,Heart of Midlothian,2,1
+Scottish Premiership,2026/27,2026-09-15,Hibernian,Kilmarnock,0,1
+Scottish Premiership,2026/27,2026-09-15,Motherwell,Aberdeen,0,4
 La Liga,2026/27,2026-09-16,Club Atlético de Madrid,CA Osasuna,4,0
 La Liga,2026/27,2026-09-16,FC Barcelona,R. Racing Club,7,2
 La Liga,2026/27,2026-09-16,RC Deportivo,Sevilla FC,0,1
+UEFA Europa League,2026/27,2026-09-16,Anderlecht,Lyon,1,2
+UEFA Europa League,2026/27,2026-09-16,Ararat-Armenia,Sparta Praha,1,4
+UEFA Europa League,2026/27,2026-09-16,H. Beer-Sheva,GNK Dinamo,0,0
+UEFA Europa League,2026/27,2026-09-16,Leverkusen,Celje,2,0
+UEFA Europa League,2026/27,2026-09-16,Milan,Benfica,0,2
+UEFA Europa League,2026/27,2026-09-16,Olympiacos,Jagiellonia,2,1
+UEFA Europa League,2026/27,2026-09-16,Omonia,Celta,1,0
+UEFA Europa League,2026/27,2026-09-16,Sturm Graz,Rennes,0,0
+UEFA Europa League,2026/27,2026-09-16,Sunderland,AZ Alkmaar,1,0
 La Liga,2026/27,2026-09-17,Málaga CF,Villarreal CF,1,3
 La Liga,2026/27,2026-09-17,Real Betis Balompié,Getafe CF,1,0
+UEFA Europa League,2026/27,2026-09-17,Besiktas,Marseille,4,1
+UEFA Europa League,2026/27,2026-09-17,Celtic,Ferencváros,1,3
+UEFA Europa League,2026/27,2026-09-17,Crystal Palace,Lech Poznan,4,0
+UEFA Europa League,2026/27,2026-09-17,Juventus,N.E.C.,5,0
+UEFA Europa League,2026/27,2026-09-17,Levski Sofia,Salzburg,0,1
+UEFA Europa League,2026/27,2026-09-17,Lillestrøm,Torreense,1,2
+UEFA Europa League,2026/27,2026-09-17,OFI Crete,Hoffenheim,2,0
+UEFA Europa League,2026/27,2026-09-17,Real Sociedad,Bournemouth,1,2
+UEFA Europa League,2026/27,2026-09-17,Viktoria Plzen,Union SG,0,3
+2. Bundesliga,2026/27,2026-09-18,SpVgg Greuther Fürth,1. FC Magdeburg,1,1
+2. Bundesliga,2026/27,2026-09-18,VfL Wolfsburg,SV Darmstadt 98,5,1
+Belgian Pro League,2026/27,2026-09-18,KAA Gent,Standard Liege,2,1
 Bundesliga,2026/27,2026-09-18,FC Bayern München,1. FC Union Berlin,7,0
 English Championship,2026/27,2026-09-18,Bristol City FC,Watford FC,1,0
 Eredivisie,2026/27,2026-09-18,FC Groningen,PEC Zwolle,3,0
 La Liga,2026/27,2026-09-18,RCD Espanyol de Barcelona,Elche CF,1,3
 Ligue 1,2026/27,2026-09-18,AS Monaco FC,Racing Club de Lens,2,1
+Ligue 2,2026/27,2026-09-18,FC Annecy,Dijon FCO,1,2
+Ligue 2,2026/27,2026-09-18,Grenoble Foot 38,Clermont Foot 63,1,1
+Ligue 2,2026/27,2026-09-18,Pau FC,USL Dunkerque,2,0
+Ligue 2,2026/27,2026-09-18,Rodez Aveyron Football,AS Nancy Lorraine,3,4
+Ligue 2,2026/27,2026-09-18,Stade DE Reims,Montpellier Hérault SC,1,1
+Ligue 2,2026/27,2026-09-18,Stade Lavallois MFC,FC Sochaux-Montbéliard,1,1
 Premier League,2026/27,2026-09-18,Brentford FC,Chelsea FC,3,0
 Serie A,2026/27,2026-09-18,Monza,US Sassuolo Calcio,2,1
+Süper Lig,2026/27,2026-09-18,Kasimpasa,Konyaspor,0,0
+2. Bundesliga,2026/27,2026-09-19,1. FC Kaiserslautern,Eintracht Braunschweig,1,0
+2. Bundesliga,2026/27,2026-09-19,Dynamo Dresden,Hertha BSC,1,2
+2. Bundesliga,2026/27,2026-09-19,Holstein Kiel,VfL Osnabrück,1,1
+2. Bundesliga,2026/27,2026-09-19,Karlsruher SC,1. FC Nürnberg,0,1
+Belgian Pro League,2026/27,2026-09-19,Anderlecht,Zulte-Waregem,3,0
+Belgian Pro League,2026/27,2026-09-19,Lommel SK,KV Mechelen,0,0
+Belgian Pro League,2026/27,2026-09-19,OH Leuven,RAAL La Louvière,2,0
+Belgian Pro League,2026/27,2026-09-19,Royal Charleroi SC,Cercle Brugge KSV,3,2
 Bundesliga,2026/27,2026-09-19,Borussia Mönchengladbach,1. FSV Mainz 05,3,4
 Bundesliga,2026/27,2026-09-19,Eintracht Frankfurt,SC Freiburg,2,2
 Bundesliga,2026/27,2026-09-19,Hamburger SV,1. FC Köln,2,1
@@ -3345,6 +3696,9 @@ Ligue 1,2026/27,2026-09-19,Le Mans FC,FC Lorient,2,1
 Ligue 1,2026/27,2026-09-19,Olympique Lyonnais,Stade Rennais FC 1901,4,0
 Ligue 1,2026/27,2026-09-19,Paris FC,RC Strasbourg Alsace,2,1
 Ligue 1,2026/27,2026-09-19,Toulouse FC,Le Havre AC,3,2
+Ligue 2,2026/27,2026-09-19,EN Avant Guingamp,Red Star FC,1,3
+Ligue 2,2026/27,2026-09-19,FC Metz,AS Saint-Étienne,2,2
+Ligue 2,2026/27,2026-09-19,US Boulogne CO,FC Nantes,1,2
 Premier League,2026/27,2026-09-19,Brighton & Hove Albion FC,Arsenal FC,3,0
 Premier League,2026/27,2026-09-19,Everton FC,Ipswich,1,0
 Premier League,2026/27,2026-09-19,Newcastle United FC,Hull,2,1
@@ -3354,10 +3708,26 @@ Primeira Liga,2026/27,2026-09-19,CD Nacional,FC Famalicão,0,4
 Primeira Liga,2026/27,2026-09-19,FC Alverca,Rio Ave FC,1,0
 Primeira Liga,2026/27,2026-09-19,Gil Vicente FC,Marítimo M.,1,1
 Primeira Liga,2026/27,2026-09-19,Sporting Clube de Portugal,FC Arouca,2,2
+Scottish Premiership,2026/27,2026-09-19,Dundee,Motherwell,2,1
+Scottish Premiership,2026/27,2026-09-19,Hibernian,Aberdeen,1,1
+Scottish Premiership,2026/27,2026-09-19,Kilmarnock,Heart of Midlothian,1,1
+Scottish Premiership,2026/27,2026-09-19,St. Johnstone,Falkirk,1,1
+Scottish Premiership,2026/27,2026-09-19,St. Mirren,Dundee United,0,3
 Serie A,2026/27,2026-09-19,AS Roma,FC Internazionale Milano,2,2
 Serie A,2026/27,2026-09-19,Bologna FC 1909,Torino FC,1,1
 Serie A,2026/27,2026-09-19,Udinese Calcio,Cagliari Calcio,0,1
 Serie A,2026/27,2026-09-19,Venezia,SS Lazio,0,2
+Süper Lig,2026/27,2026-09-19,Istanbul Basaksehir,Gençlerbirligi,4,0
+Süper Lig,2026/27,2026-09-19,Kocaelispor,Gaziantep,2,0
+Süper Lig,2026/27,2026-09-19,Trabzonspor,Galatasaray,4,0
+Süper Lig,2026/27,2026-09-19,Çorum,Alanyaspor,1,2
+2. Bundesliga,2026/27,2026-09-20,DSC Arminia Bielefeld,1. FC Heidenheim 1846,2,2
+2. Bundesliga,2026/27,2026-09-20,Energie Cottbus,FC St. Pauli,1,1
+2. Bundesliga,2026/27,2026-09-20,Hannover 96,VfL Bochum,2,1
+Belgian Pro League,2026/27,2026-09-20,Antwerp,Union St.-Gilloise,0,2
+Belgian Pro League,2026/27,2026-09-20,Club Brugge,Racing Genk,3,0
+Belgian Pro League,2026/27,2026-09-20,KV Kortrijk,Waasland-Beveren,1,0
+Belgian Pro League,2026/27,2026-09-20,Sint-Truidense,KVC Westerlo,0,2
 Bundesliga,2026/27,2026-09-20,Bayer 04 Leverkusen,RB Leipzig,2,0
 Bundesliga,2026/27,2026-09-20,FC Schalke 04,SV 07 Elversberg,0,0
 Bundesliga,2026/27,2026-09-20,SC Paderborn 07,TSG 1899 Hoffenheim,3,1
@@ -3384,18 +3754,40 @@ Primeira Liga,2026/27,2026-09-20,CF Estrela da Amadora,Académico,0,2
 Primeira Liga,2026/27,2026-09-20,FC Porto,Sport Lisboa e Benfica,3,1
 Primeira Liga,2026/27,2026-09-20,GD Estoril Praia,Casa Pia AC,1,2
 Primeira Liga,2026/27,2026-09-20,Vitória SC,Moreirense FC,1,1
+Scottish Premiership,2026/27,2026-09-20,Celtic,Rangers,0,1
 Serie A,2026/27,2026-09-20,AC Milan,US Lecce,3,0
 Serie A,2026/27,2026-09-20,ACF Fiorentina,SSC Napoli,1,1
 Serie A,2026/27,2026-09-20,Frosinone,Como 1907,2,0
 Serie A,2026/27,2026-09-20,Juventus FC,Atalanta BC,2,0
 Serie A,2026/27,2026-09-20,Parma Calcio 1913,Genoa CFC,2,1
+Süper Lig,2026/27,2026-09-20,Amedspor,Besiktas,3,2
+Süper Lig,2026/27,2026-09-20,Erzurumspor,Samsunspor,1,0
+Süper Lig,2026/27,2026-09-20,Fenerbahçe,Eyüpspor,8,0
+Süper Lig,2026/27,2026-09-20,Göztepe,Çaykur Rizespor,2,2
+2. Bundesliga,2026/27,2026-10-09,1. FC Heidenheim 1846,1. FC Kaiserslautern,0,0
+2. Bundesliga,2026/27,2026-10-09,Eintracht Braunschweig,Holstein Kiel,1,0
+Belgian Pro League,2026/27,2026-10-09,Waasland-Beveren,Lommel SK,1,3
 Bundesliga,2026/27,2026-10-09,Borussia Dortmund,SV Werder Bremen,2,2
 English Championship,2026/27,2026-10-09,West Ham United,Queens Park Rangers FC,1,1
 Eredivisie,2026/27,2026-10-09,PSV,SC Heerenveen,2,0
 La Liga,2026/27,2026-10-09,Málaga CF,RCD Espanyol de Barcelona,1,1
 Ligue 1,2026/27,2026-10-09,Racing Club de Lens,Olympique Lyonnais,2,1
+Ligue 2,2026/27,2026-10-09,AS Nancy Lorraine,EN Avant Guingamp,1,0
+Ligue 2,2026/27,2026-10-09,FC Sochaux-Montbéliard,US Boulogne CO,1,1
+Ligue 2,2026/27,2026-10-09,Montpellier Hérault SC,Grenoble Foot 38,2,0
+Ligue 2,2026/27,2026-10-09,Pau FC,Stade Lavallois MFC,3,2
+Ligue 2,2026/27,2026-10-09,USL Dunkerque,FC Annecy,0,1
 Primeira Liga,2026/27,2026-10-09,Moreirense FC,Gil Vicente FC,0,1
 Primeira Liga,2026/27,2026-10-09,Sporting Clube de Braga,Sporting Clube de Portugal,1,3
+Süper Lig,2026/27,2026-10-09,Galatasaray,Kasimpasa,3,1
+2. Bundesliga,2026/27,2026-10-10,1. FC Magdeburg,Hannover 96,3,0
+2. Bundesliga,2026/27,2026-10-10,1. FC Nürnberg,VfL Wolfsburg,4,4
+2. Bundesliga,2026/27,2026-10-10,SV Darmstadt 98,Energie Cottbus,3,1
+2. Bundesliga,2026/27,2026-10-10,VfL Osnabrück,Dynamo Dresden,1,1
+Belgian Pro League,2026/27,2026-10-10,Cercle Brugge KSV,Anderlecht,1,2
+Belgian Pro League,2026/27,2026-10-10,RAAL La Louvière,Club Brugge,1,4
+Belgian Pro League,2026/27,2026-10-10,Racing Genk,KV Kortrijk,3,0
+Belgian Pro League,2026/27,2026-10-10,Zulte-Waregem,KAA Gent,0,2
 Bundesliga,2026/27,2026-10-10,1. FC Union Berlin,SV 07 Elversberg,1,0
 Bundesliga,2026/27,2026-10-10,1. FSV Mainz 05,Bayer 04 Leverkusen,3,4
 Bundesliga,2026/27,2026-10-10,FC Augsburg,FC Bayern München,2,2
@@ -3424,6 +3816,9 @@ Ligue 1,2026/27,2026-10-10,FC Lorient,Paris FC,1,0
 Ligue 1,2026/27,2026-10-10,Lille OSC,Le Havre AC,1,0
 Ligue 1,2026/27,2026-10-10,Paris Saint-Germain FC,Le Mans FC,3,1
 Ligue 1,2026/27,2026-10-10,Stade Brestois 29,Angers SCO,5,1
+Ligue 2,2026/27,2026-10-10,AS Saint-Étienne,Rodez Aveyron Football,2,0
+Ligue 2,2026/27,2026-10-10,Clermont Foot 63,Red Star FC,2,3
+Ligue 2,2026/27,2026-10-10,FC Nantes,Stade DE Reims,0,0
 Premier League,2026/27,2026-10-10,Arsenal FC,Leeds United FC,2,1
 Premier League,2026/27,2026-10-10,Aston Villa FC,Brentford FC,2,2
 Premier League,2026/27,2026-10-10,Chelsea FC,AFC Bournemouth,5,1
@@ -3433,9 +3828,24 @@ Premier League,2026/27,2026-10-10,Sunderland AFC,Brighton & Hove Albion FC,0,2
 Primeira Liga,2026/27,2026-10-10,Académico,GD Estoril Praia,2,1
 Primeira Liga,2026/27,2026-10-10,Casa Pia AC,CD Santa Clara,0,1
 Primeira Liga,2026/27,2026-10-10,Marítimo M.,FC Porto,1,2
+Scottish Premiership,2026/27,2026-10-10,Dundee United,Hibernian,1,0
+Scottish Premiership,2026/27,2026-10-10,Falkirk,Dundee,1,2
+Scottish Premiership,2026/27,2026-10-10,Heart of Midlothian,St. Mirren,5,0
+Scottish Premiership,2026/27,2026-10-10,Rangers,Kilmarnock,3,1
 Serie A,2026/27,2026-10-10,FC Internazionale Milano,Parma Calcio 1913,3,0
 Serie A,2026/27,2026-10-10,Genoa CFC,ACF Fiorentina,2,1
 Serie A,2026/27,2026-10-10,SSC Napoli,Frosinone,3,0
+Süper Lig,2026/27,2026-10-10,Alanyaspor,Erzurumspor,0,0
+Süper Lig,2026/27,2026-10-10,Gençlerbirligi,Amedspor,2,2
+Süper Lig,2026/27,2026-10-10,Samsunspor,Trabzonspor,0,3
+Süper Lig,2026/27,2026-10-10,Çaykur Rizespor,Fenerbahçe,0,3
+2. Bundesliga,2026/27,2026-10-11,FC St. Pauli,Karlsruher SC,2,0
+2. Bundesliga,2026/27,2026-10-11,Hertha BSC,SpVgg Greuther Fürth,2,1
+2. Bundesliga,2026/27,2026-10-11,VfL Bochum,DSC Arminia Bielefeld,0,1
+Belgian Pro League,2026/27,2026-10-11,KV Mechelen,Sint-Truidense,4,3
+Belgian Pro League,2026/27,2026-10-11,KVC Westerlo,Antwerp,5,1
+Belgian Pro League,2026/27,2026-10-11,Standard Liege,Royal Charleroi SC,0,1
+Belgian Pro League,2026/27,2026-10-11,Union St.-Gilloise,OH Leuven,1,1
 Bundesliga,2026/27,2026-10-11,1. FC Köln,Borussia Mönchengladbach,2,1
 Bundesliga,2026/27,2026-10-11,SC Freiburg,FC Schalke 04,2,1
 English Championship,2026/27,2026-10-11,Southampton FC,Portsmouth FC,1,0
@@ -3456,16 +3866,23 @@ Premier League,2026/27,2026-10-11,Liverpool FC,Manchester City FC,0,3
 Primeira Liga,2026/27,2026-10-11,FC Arouca,CF Estrela da Amadora,1,0
 Primeira Liga,2026/27,2026-10-11,Rio Ave FC,CD Nacional,3,2
 Primeira Liga,2026/27,2026-10-11,Sport Lisboa e Benfica,Vitória SC,2,0
+Scottish Premiership,2026/27,2026-10-11,Aberdeen,St. Johnstone,0,1
+Scottish Premiership,2026/27,2026-10-11,Motherwell,Celtic,0,2
 Serie A,2026/27,2026-10-11,Cagliari Calcio,Juventus FC,1,1
 Serie A,2026/27,2026-10-11,Como 1907,AS Roma,0,0
 Serie A,2026/27,2026-10-11,SS Lazio,Monza,3,1
 Serie A,2026/27,2026-10-11,US Lecce,Bologna FC 1909,1,2
 Serie A,2026/27,2026-10-11,US Sassuolo Calcio,AC Milan,1,1
+Süper Lig,2026/27,2026-10-11,Besiktas,Kocaelispor,2,1
+Süper Lig,2026/27,2026-10-11,Gaziantep,Çorum,0,3
+Süper Lig,2026/27,2026-10-11,Konyaspor,Istanbul Basaksehir,0,0
 La Liga,2026/27,2026-10-12,Levante UD,Sevilla FC,3,3
+Ligue 2,2026/27,2026-10-12,Dijon FCO,FC Metz,4,2
 Premier League,2026/27,2026-10-12,Coventry,Newcastle United FC,4,1
 Primeira Liga,2026/27,2026-10-12,FC Famalicão,FC Alverca,1,4
 Serie A,2026/27,2026-10-12,Atalanta BC,Venezia,3,1
 Serie A,2026/27,2026-10-12,Torino FC,Udinese Calcio,2,1
+Süper Lig,2026/27,2026-10-12,Eyüpspor,Göztepe,0,4
 English Championship,2026/27,2026-10-13,Birmingham City FC,Preston North End FC,4,0
 English Championship,2026/27,2026-10-13,Bristol City FC,Blackburn Rovers FC,0,1
 English Championship,2026/27,2026-10-13,Burnley,Charlton Athletic FC,2,2
@@ -3474,16 +3891,82 @@ English Championship,2026/27,2026-10-13,Millwall FC,Swansea City AFC,0,1
 English Championship,2026/27,2026-10-13,Stoke City FC,Middlesbrough FC,2,3
 English Championship,2026/27,2026-10-13,Wolverhampton Wanderers,Bolton Wanderers,1,3
 English Championship,2026/27,2026-10-13,Wrexham AFC,West Bromwich Albion FC,1,2
+UEFA Champions League,2026/27,2026-10-13,Arsenal,Lille,3,0
+UEFA Champions League,2026/27,2026-10-13,Atleti,Man Utd,2,0
+UEFA Champions League,2026/27,2026-10-13,Galatasaray,Barcelona,1,4
+UEFA Champions League,2026/27,2026-10-13,Inter,Club Brugge,3,4
+UEFA Champions League,2026/27,2026-10-13,Leipzig,PSV,1,0
+UEFA Champions League,2026/27,2026-10-13,Lens,Sporting CP,0,2
+UEFA Champions League,2026/27,2026-10-13,Sabah,Slavia Praha,2,0
+UEFA Champions League,2026/27,2026-10-13,Viking,Bayern München,3,3
+UEFA Champions League,2026/27,2026-10-13,Villarreal,Napoli,3,1
 English Championship,2026/27,2026-10-14,Lincoln City,West Ham United,0,6
 English Championship,2026/27,2026-10-14,Norwich City FC,Southampton FC,0,1
 English Championship,2026/27,2026-10-14,Portsmouth FC,Sheffield United FC,3,2
 English Championship,2026/27,2026-10-14,Queens Park Rangers FC,Derby County FC,4,1
+UEFA Champions League,2026/27,2026-10-14,Aston Villa,Fenerbahçe,6,0
+UEFA Champions League,2026/27,2026-10-14,Bodø/Glimt,B. Dortmund,1,0
+UEFA Champions League,2026/27,2026-10-14,Feyenoord,Como,3,2
+UEFA Champions League,2026/27,2026-10-14,LASK,Liverpool,3,6
+UEFA Champions League,2026/27,2026-10-14,Man City,Paris,2,4
+UEFA Champions League,2026/27,2026-10-14,Real Betis,Porto,3,2
+UEFA Champions League,2026/27,2026-10-14,Roma,Real Madrid,3,4
+UEFA Champions League,2026/27,2026-10-14,S. Bratislava,Stuttgart,0,3
+UEFA Champions League,2026/27,2026-10-14,Shakhtar,AEK Athens,3,1
+UEFA Conference League,2026/27,2026-10-15,Atalanta,Pafos,3,1
+UEFA Conference League,2026/27,2026-10-15,Brann,L. Red Imps,2,1
+UEFA Conference League,2026/27,2026-10-15,Brighton,Kauno Žalgiris,4,0
+UEFA Conference League,2026/27,2026-10-15,CSKA Sofia,Monaco,1,2
+UEFA Conference League,2026/27,2026-10-15,Copenhagen,Braga,3,0
+UEFA Conference League,2026/27,2026-10-15,Egnatia,Midtjylland,1,1
+UEFA Conference League,2026/27,2026-10-15,Freiburg,Jablonec,3,2
+UEFA Conference League,2026/27,2026-10-15,Gent,Aarhus,1,0
+UEFA Conference League,2026/27,2026-10-15,Hajduk Split,Ajax,2,1
+UEFA Conference League,2026/27,2026-10-15,Hearts,Nordsjælland,1,1
+UEFA Conference League,2026/27,2026-10-15,KuPS Kuopio,Trabzonspor,2,4
+UEFA Conference League,2026/27,2026-10-15,Lugano,Crvena Zvezda,3,2
+UEFA Conference League,2026/27,2026-10-15,Mjällby,Inter Escaldes,2,0
+UEFA Conference League,2026/27,2026-10-15,Panathinaikos,Borac,2,1
+UEFA Conference League,2026/27,2026-10-15,Riga,Kairat Almaty,1,1
+UEFA Conference League,2026/27,2026-10-15,Sint-Truidense,Iberia Tbilisi,2,0
+UEFA Conference League,2026/27,2026-10-15,Twente,Thun,1,0
+UEFA Conference League,2026/27,2026-10-15,U. Craiova,Getafe,1,1
+UEFA Europa League,2026/27,2026-10-15,AZ Alkmaar,H. Beer-Sheva,2,1
+UEFA Europa League,2026/27,2026-10-15,Benfica,Celtic,4,1
+UEFA Europa League,2026/27,2026-10-15,Bournemouth,Sturm Graz,3,0
+UEFA Europa League,2026/27,2026-10-15,Celje,Omonia,0,3
+UEFA Europa League,2026/27,2026-10-15,Celta,Juventus,1,2
+UEFA Europa League,2026/27,2026-10-15,Ferencváros,Viktoria Plzen,2,1
+UEFA Europa League,2026/27,2026-10-15,GNK Dinamo,Anderlecht,1,0
+UEFA Europa League,2026/27,2026-10-15,Hoffenheim,Besiktas,2,3
+UEFA Europa League,2026/27,2026-10-15,Jagiellonia,Ararat-Armenia,3,1
+UEFA Europa League,2026/27,2026-10-15,Lech Poznan,Leverkusen,0,4
+UEFA Europa League,2026/27,2026-10-15,Lyon,Crystal Palace,3,2
+UEFA Europa League,2026/27,2026-10-15,Marseille,Olympiacos,0,1
+UEFA Europa League,2026/27,2026-10-15,N.E.C.,Levski Sofia,1,1
+UEFA Europa League,2026/27,2026-10-15,Rennes,OFI Crete,2,1
+UEFA Europa League,2026/27,2026-10-15,Salzburg,Milan,0,4
+UEFA Europa League,2026/27,2026-10-15,Sparta Praha,Lillestrøm,1,1
+UEFA Europa League,2026/27,2026-10-15,Torreense,Sunderland,1,2
+UEFA Europa League,2026/27,2026-10-15,Union SG,Real Sociedad,1,1
+2. Bundesliga,2026/27,2026-10-16,Energie Cottbus,1. FC Nürnberg,1,1
+2. Bundesliga,2026/27,2026-10-16,Holstein Kiel,Hertha BSC,0,0
 Bundesliga,2026/27,2026-10-16,Eintracht Frankfurt,1. FC Köln,1,0
 English Championship,2026/27,2026-10-16,Burnley,Wolverhampton Wanderers,1,2
 Eredivisie,2026/27,2026-10-16,SC Heerenveen,SBV Excelsior,4,0
 La Liga,2026/27,2026-10-16,RC Deportivo,Levante UD,1,1
 Ligue 1,2026/27,2026-10-16,Le Mans FC,Toulouse FC,0,3
+Ligue 2,2026/27,2026-10-16,EN Avant Guingamp,Pau FC,1,2
+Ligue 2,2026/27,2026-10-16,FC Annecy,AS Nancy Lorraine,1,2
+Ligue 2,2026/27,2026-10-16,Grenoble Foot 38,US Boulogne CO,0,2
+Ligue 2,2026/27,2026-10-16,Stade DE Reims,Dijon FCO,4,2
+Ligue 2,2026/27,2026-10-16,Stade Lavallois MFC,Clermont Foot 63,3,3
 Serie A,2026/27,2026-10-16,Frosinone,US Sassuolo Calcio,4,2
+Süper Lig,2026/27,2026-10-16,Çorum,Çaykur Rizespor,2,1
+2. Bundesliga,2026/27,2026-10-17,1. FC Kaiserslautern,VfL Bochum,2,0
+2. Bundesliga,2026/27,2026-10-17,Hannover 96,FC St. Pauli,1,1
+2. Bundesliga,2026/27,2026-10-17,SpVgg Greuther Fürth,Eintracht Braunschweig,2,0
+2. Bundesliga,2026/27,2026-10-17,VfL Wolfsburg,1. FC Heidenheim 1846,3,1
 Bundesliga,2026/27,2026-10-17,1. FC Union Berlin,Borussia Dortmund,0,0
 Bundesliga,2026/27,2026-10-17,FC Bayern München,RB Leipzig,6,1
 Bundesliga,2026/27,2026-10-17,FC Schalke 04,1. FSV Mainz 05,0,1
@@ -3511,14 +3994,29 @@ La Liga,2026/27,2026-10-17,Villarreal CF,Elche CF,0,0
 Ligue 1,2026/27,2026-10-17,Estac Troyes,Racing Club de Lens,1,3
 Ligue 1,2026/27,2026-10-17,Lille OSC,Stade Brestois 29,1,1
 Ligue 1,2026/27,2026-10-17,RC Strasbourg Alsace,Paris Saint-Germain FC,1,3
+Ligue 2,2026/27,2026-10-17,FC Metz,FC Sochaux-Montbéliard,3,2
+Ligue 2,2026/27,2026-10-17,FC Nantes,USL Dunkerque,2,3
+Ligue 2,2026/27,2026-10-17,Red Star FC,AS Saint-Étienne,0,1
 Premier League,2026/27,2026-10-17,Brentford FC,Liverpool FC,1,2
 Premier League,2026/27,2026-10-17,Everton FC,Chelsea FC,0,2
 Premier League,2026/27,2026-10-17,Fulham FC,Hull,1,0
 Premier League,2026/27,2026-10-17,Manchester City FC,Ipswich,3,2
 Premier League,2026/27,2026-10-17,Newcastle United FC,Aston Villa FC,0,1
+Scottish Premiership,2026/27,2026-10-17,Aberdeen,St. Mirren,3,1
+Scottish Premiership,2026/27,2026-10-17,Dundee,Rangers,2,2
+Scottish Premiership,2026/27,2026-10-17,Hibernian,Falkirk,1,2
+Scottish Premiership,2026/27,2026-10-17,Kilmarnock,Motherwell,3,2
+Scottish Premiership,2026/27,2026-10-17,St. Johnstone,Dundee United,1,1
 Serie A,2026/27,2026-10-17,AS Roma,Genoa CFC,2,0
 Serie A,2026/27,2026-10-17,Bologna FC 1909,FC Internazionale Milano,1,3
 Serie A,2026/27,2026-10-17,Venezia,SSC Napoli,1,0
+Süper Lig,2026/27,2026-10-17,Amedspor,Konyaspor,1,0
+Süper Lig,2026/27,2026-10-17,Erzurumspor,Eyüpspor,2,0
+Süper Lig,2026/27,2026-10-17,Fenerbahçe,Alanyaspor,3,0
+Süper Lig,2026/27,2026-10-17,Gençlerbirligi,Galatasaray,0,1
+2. Bundesliga,2026/27,2026-10-18,DSC Arminia Bielefeld,VfL Osnabrück,2,1
+2. Bundesliga,2026/27,2026-10-18,Dynamo Dresden,1. FC Magdeburg,2,0
+2. Bundesliga,2026/27,2026-10-18,Karlsruher SC,SV Darmstadt 98,4,0
 Bundesliga,2026/27,2026-10-18,Bayer 04 Leverkusen,SC Freiburg,2,1
 Bundesliga,2026/27,2026-10-18,Borussia Mönchengladbach,TSG 1899 Hoffenheim,1,2
 Eredivisie,2026/27,2026-10-18,FC Groningen,AFC Ajax,2,5
@@ -3539,25 +4037,101 @@ Premier League,2026/27,2026-10-18,AFC Bournemouth,Sunderland AFC,2,0
 Premier League,2026/27,2026-10-18,Brighton & Hove Albion FC,Crystal Palace FC,5,0
 Premier League,2026/27,2026-10-18,Leeds United FC,Manchester United FC,1,1
 Premier League,2026/27,2026-10-18,Nottingham Forest FC,Arsenal FC,0,1
+Scottish Premiership,2026/27,2026-10-18,Celtic,Heart of Midlothian,7,1
 Serie A,2026/27,2026-10-18,AC Milan,Atalanta BC,3,2
 Serie A,2026/27,2026-10-18,ACF Fiorentina,Como 1907,1,3
 Serie A,2026/27,2026-10-18,Juventus FC,SS Lazio,0,3
 Serie A,2026/27,2026-10-18,Udinese Calcio,US Lecce,0,3
+Süper Lig,2026/27,2026-10-18,Istanbul Basaksehir,Gaziantep,2,1
+Süper Lig,2026/27,2026-10-18,Kasimpasa,Samsunspor,4,1
+Süper Lig,2026/27,2026-10-18,Kocaelispor,Göztepe,1,2
 La Liga,2026/27,2026-10-19,Getafe CF,Rayo Vallecano de Madrid,1,1
+Ligue 2,2026/27,2026-10-19,Rodez Aveyron Football,Montpellier Hérault SC,0,3
 Premier League,2026/27,2026-10-19,Tottenham Hotspur FC,Coventry,3,1
 Primeira Liga,2026/27,2026-10-19,Sporting Clube de Braga,Gil Vicente FC,1,2
 Serie A,2026/27,2026-10-19,Monza,Cagliari Calcio,4,0
 Serie A,2026/27,2026-10-19,Parma Calcio 1913,Torino FC,0,3
+Süper Lig,2026/27,2026-10-19,Trabzonspor,Besiktas,2,0
 English Championship,2026/27,2026-10-20,Wolverhampton Wanderers,Portsmouth FC,1,1
+UEFA Champions League,2026/27,2026-10-20,Fenerbahçe,Slavia Praha,2,2
+UEFA Champions League,2026/27,2026-10-20,Liverpool,Villarreal,4,3
+UEFA Champions League,2026/27,2026-10-20,Man City,AEK Athens,5,1
+UEFA Champions League,2026/27,2026-10-20,Napoli,Bodø/Glimt,4,3
+UEFA Champions League,2026/27,2026-10-20,Paris,Barcelona,4,2
+UEFA Champions League,2026/27,2026-10-20,Porto,PSV,0,1
+UEFA Champions League,2026/27,2026-10-20,Roma,S. Bratislava,4,0
+UEFA Champions League,2026/27,2026-10-20,Sabah,B. Dortmund,1,2
+UEFA Champions League,2026/27,2026-10-20,Stuttgart,Atleti,1,1
 La Liga,2026/27,2026-10-21,Levante UD,Athletic Club,3,1
+UEFA Champions League,2026/27,2026-10-21,Aston Villa,Viking,3,1
+UEFA Champions League,2026/27,2026-10-21,Bayern München,Arsenal,2,2
+UEFA Champions League,2026/27,2026-10-21,Club Brugge,Lens,3,0
+UEFA Champions League,2026/27,2026-10-21,Como,Man Utd,4,1
+UEFA Champions League,2026/27,2026-10-21,Inter,Shakhtar,1,0
+UEFA Champions League,2026/27,2026-10-21,Lille,Galatasaray,2,4
+UEFA Champions League,2026/27,2026-10-21,Real Betis,Feyenoord,1,0
+UEFA Champions League,2026/27,2026-10-21,Real Madrid,Leipzig,4,1
+UEFA Champions League,2026/27,2026-10-21,Sporting CP,LASK,2,3
+UEFA Conference League,2026/27,2026-10-22,Aarhus,Egnatia,1,1
+UEFA Conference League,2026/27,2026-10-22,Ajax,Atalanta,2,0
+UEFA Conference League,2026/27,2026-10-22,Borac,KuPS Kuopio,2,0
+UEFA Conference League,2026/27,2026-10-22,Braga,Gent,2,0
+UEFA Conference League,2026/27,2026-10-22,Crvena Zvezda,Copenhagen,2,2
+UEFA Conference League,2026/27,2026-10-22,Getafe,Lugano,2,5
+UEFA Conference League,2026/27,2026-10-22,Iberia Tbilisi,Mjällby,1,1
+UEFA Conference League,2026/27,2026-10-22,Inter Escaldes,U. Craiova,1,3
+UEFA Conference League,2026/27,2026-10-22,Jablonec,Brighton,0,0
+UEFA Conference League,2026/27,2026-10-22,Kairat Almaty,Panathinaikos,1,5
+UEFA Conference League,2026/27,2026-10-22,Kauno Žalgiris,Brann,1,4
+UEFA Conference League,2026/27,2026-10-22,L. Red Imps,Twente,1,4
+UEFA Conference League,2026/27,2026-10-22,Midtjylland,Sint-Truidense,0,1
+UEFA Conference League,2026/27,2026-10-22,Monaco,Freiburg,3,0
+UEFA Conference League,2026/27,2026-10-22,Nordsjælland,CSKA Sofia,2,2
+UEFA Conference League,2026/27,2026-10-22,Pafos,Riga,1,1
+UEFA Conference League,2026/27,2026-10-22,Thun,Hajduk Split,0,1
+UEFA Conference League,2026/27,2026-10-22,Trabzonspor,Hearts,2,0
+UEFA Europa League,2026/27,2026-10-22,Ararat-Armenia,AZ Alkmaar,0,4
+UEFA Europa League,2026/27,2026-10-22,Besiktas,Crystal Palace,2,2
+UEFA Europa League,2026/27,2026-10-22,Bournemouth,Milan,3,0
+UEFA Europa League,2026/27,2026-10-22,Celje,Salzburg,2,2
+UEFA Europa League,2026/27,2026-10-22,Celtic,Celta,1,2
+UEFA Europa League,2026/27,2026-10-22,Ferencváros,Torreense,4,1
+UEFA Europa League,2026/27,2026-10-22,GNK Dinamo,N.E.C.,2,4
+UEFA Europa League,2026/27,2026-10-22,Hoffenheim,Lyon,3,0
+UEFA Europa League,2026/27,2026-10-22,Jagiellonia,Anderlecht,0,3
+UEFA Europa League,2026/27,2026-10-22,Juventus,Rennes,2,2
+UEFA Europa League,2026/27,2026-10-22,Lech Poznan,Sunderland,1,1
+UEFA Europa League,2026/27,2026-10-22,Lillestrøm,Real Sociedad,0,6
+UEFA Europa League,2026/27,2026-10-22,OFI Crete,Leverkusen,0,2
+UEFA Europa League,2026/27,2026-10-22,Olympiacos,Sparta Praha,1,0
+UEFA Europa League,2026/27,2026-10-22,Omonia,Benfica,1,4
+UEFA Europa League,2026/27,2026-10-22,Sturm Graz,Marseille,1,0
+UEFA Europa League,2026/27,2026-10-22,Union SG,H. Beer-Sheva,4,0
+UEFA Europa League,2026/27,2026-10-22,Viktoria Plzen,Levski Sofia,1,2
+2. Bundesliga,2026/27,2026-10-23,SV Darmstadt 98,FC St. Pauli,0,0
+2. Bundesliga,2026/27,2026-10-23,VfL Bochum,VfL Wolfsburg,1,1
 Bundesliga,2026/27,2026-10-23,VfB Stuttgart,Borussia Mönchengladbach,2,3
 English Championship,2026/27,2026-10-23,Bolton Wanderers,Middlesbrough FC,1,5
 Eredivisie,2026/27,2026-10-23,Go Ahead Eagles,Telstar 1963,3,2
 La Liga,2026/27,2026-10-23,Deportivo Alavés,Málaga CF,1,1
 Ligue 1,2026/27,2026-10-23,Stade Brestois 29,OGC Nice,1,2
+Ligue 2,2026/27,2026-10-23,AS Nancy Lorraine,Stade Lavallois MFC,1,0
+Ligue 2,2026/27,2026-10-23,Clermont Foot 63,EN Avant Guingamp,0,2
+Ligue 2,2026/27,2026-10-23,FC Sochaux-Montbéliard,FC Annecy,1,3
+Ligue 2,2026/27,2026-10-23,Pau FC,Grenoble Foot 38,2,1
+Ligue 2,2026/27,2026-10-23,USL Dunkerque,FC Metz,1,1
 Premier League,2026/27,2026-10-23,Ipswich,Nottingham Forest FC,1,1
 Primeira Liga,2026/27,2026-10-23,Vitória SC,Marítimo M.,5,0
 Serie A,2026/27,2026-10-23,Torino FC,Monza,3,2
+Süper Lig,2026/27,2026-10-23,Alanyaspor,Kocaelispor,1,2
+2. Bundesliga,2026/27,2026-10-24,1. FC Heidenheim 1846,Energie Cottbus,1,1
+2. Bundesliga,2026/27,2026-10-24,1. FC Magdeburg,Karlsruher SC,6,1
+2. Bundesliga,2026/27,2026-10-24,1. FC Nürnberg,1. FC Kaiserslautern,0,1
+2. Bundesliga,2026/27,2026-10-24,Hertha BSC,DSC Arminia Bielefeld,1,0
+Belgian Pro League,2026/27,2026-10-24,Antwerp,Royal Charleroi SC,3,0
+Belgian Pro League,2026/27,2026-10-24,KVC Westerlo,Waasland-Beveren,4,4
+Belgian Pro League,2026/27,2026-10-24,OH Leuven,Lommel SK,2,2
+Belgian Pro League,2026/27,2026-10-24,RAAL La Louvière,Zulte-Waregem,3,0
 Bundesliga,2026/27,2026-10-24,1. FC Köln,FC Schalke 04,0,0
 Bundesliga,2026/27,2026-10-24,1. FSV Mainz 05,SV Werder Bremen,2,3
 Bundesliga,2026/27,2026-10-24,Borussia Dortmund,Eintracht Frankfurt,1,0
@@ -3583,6 +4157,8 @@ La Liga,2026/27,2026-10-24,R. Racing Club,RCD Espanyol de Barcelona,2,1
 La Liga,2026/27,2026-10-24,Rayo Vallecano de Madrid,Elche CF,0,3
 La Liga,2026/27,2026-10-24,Valencia CF,Villarreal CF,1,2
 Ligue 1,2026/27,2026-10-24,Racing Club de Lens,Paris FC,2,1
+Ligue 2,2026/27,2026-10-24,AS Saint-Étienne,FC Nantes,1,0
+Ligue 2,2026/27,2026-10-24,Dijon FCO,Rodez Aveyron Football,1,2
 Premier League,2026/27,2026-10-24,Arsenal FC,Everton FC,2,0
 Premier League,2026/27,2026-10-24,Aston Villa FC,Manchester City FC,2,1
 Premier League,2026/27,2026-10-24,Chelsea FC,Tottenham Hotspur FC,0,2
@@ -3590,10 +4166,24 @@ Premier League,2026/27,2026-10-24,Coventry,Fulham FC,0,1
 Primeira Liga,2026/27,2026-10-24,CF Estrela da Amadora,Casa Pia AC,0,2
 Primeira Liga,2026/27,2026-10-24,FC Alverca,FC Arouca,0,1
 Primeira Liga,2026/27,2026-10-24,Gil Vicente FC,FC Porto,0,1
+Scottish Premiership,2026/27,2026-10-24,Dundee United,Aberdeen,3,2
+Scottish Premiership,2026/27,2026-10-24,Falkirk,Kilmarnock,3,0
+Scottish Premiership,2026/27,2026-10-24,Rangers,St. Johnstone,4,0
+Scottish Premiership,2026/27,2026-10-24,St. Mirren,Dundee,2,1
 Serie A,2026/27,2026-10-24,Cagliari Calcio,Bologna FC 1909,0,2
 Serie A,2026/27,2026-10-24,Como 1907,US Sassuolo Calcio,2,0
 Serie A,2026/27,2026-10-24,SS Lazio,Parma Calcio 1913,2,1
 Serie A,2026/27,2026-10-24,SSC Napoli,AS Roma,3,3
+Süper Lig,2026/27,2026-10-24,Eyüpspor,Kasimpasa,0,1
+Süper Lig,2026/27,2026-10-24,Gaziantep,Erzurumspor,1,3
+Süper Lig,2026/27,2026-10-24,Samsunspor,Amedspor,1,2
+2. Bundesliga,2026/27,2026-10-25,Eintracht Braunschweig,Hannover 96,2,0
+2. Bundesliga,2026/27,2026-10-25,Holstein Kiel,Dynamo Dresden,3,0
+2. Bundesliga,2026/27,2026-10-25,VfL Osnabrück,SpVgg Greuther Fürth,3,0
+Belgian Pro League,2026/27,2026-10-25,Club Brugge,Sint-Truidense,3,2
+Belgian Pro League,2026/27,2026-10-25,KAA Gent,Anderlecht,4,0
+Belgian Pro League,2026/27,2026-10-25,Racing Genk,Standard Liege,2,1
+Belgian Pro League,2026/27,2026-10-25,Union St.-Gilloise,Cercle Brugge KSV,5,2
 Bundesliga,2026/27,2026-10-25,SC Freiburg,FC Bayern München,1,3
 Bundesliga,2026/27,2026-10-25,TSG 1899 Hoffenheim,Bayer 04 Leverkusen,3,0
 Eredivisie,2026/27,2026-10-25,AZ,FC Twente '65,0,2
@@ -3620,17 +4210,32 @@ Primeira Liga,2026/27,2026-10-25,CD Nacional,Sporting Clube de Braga,1,0
 Primeira Liga,2026/27,2026-10-25,GD Estoril Praia,Moreirense FC,1,3
 Primeira Liga,2026/27,2026-10-25,Rio Ave FC,FC Famalicão,0,4
 Primeira Liga,2026/27,2026-10-25,Sporting Clube de Portugal,Académico,1,2
+Scottish Premiership,2026/27,2026-10-25,Hibernian,Celtic,1,2
+Scottish Premiership,2026/27,2026-10-25,Motherwell,Heart of Midlothian,0,2
 Serie A,2026/27,2026-10-25,Atalanta BC,Frosinone,4,4
 Serie A,2026/27,2026-10-25,FC Internazionale Milano,ACF Fiorentina,2,1
 Serie A,2026/27,2026-10-25,Genoa CFC,Venezia,1,0
 Serie A,2026/27,2026-10-25,US Lecce,Juventus FC,0,2
 Serie A,2026/27,2026-10-25,Udinese Calcio,AC Milan,0,2
+Süper Lig,2026/27,2026-10-25,Göztepe,Çorum,2,0
+Süper Lig,2026/27,2026-10-25,Konyaspor,Gençlerbirligi,2,0
 La Liga,2026/27,2026-10-26,Sevilla FC,CA Osasuna,2,0
 Ligue 1,2026/27,2026-10-26,Paris Saint-Germain FC,Olympique Lyonnais,2,0
+Ligue 2,2026/27,2026-10-26,Montpellier Hérault SC,Red Star FC,2,1
+Ligue 2,2026/27,2026-10-26,US Boulogne CO,Stade DE Reims,1,1
 Primeira Liga,2026/27,2026-10-26,CD Santa Clara,Sport Lisboa e Benfica,1,2
+Süper Lig,2026/27,2026-10-26,Besiktas,Istanbul Basaksehir,2,0
+Süper Lig,2026/27,2026-10-26,Galatasaray,Fenerbahçe,2,1
+Süper Lig,2026/27,2026-10-26,Çaykur Rizespor,Trabzonspor,3,4
 Serie A,2026/27,2026-10-27,AS Roma,Cagliari Calcio,4,2
 Serie A,2026/27,2026-10-27,Torino FC,Como 1907,1,3
 Serie A,2026/27,2026-10-27,US Sassuolo Calcio,SS Lazio,2,6
+Scottish Premiership,2026/27,2026-10-28,Aberdeen,Falkirk,0,1
+Scottish Premiership,2026/27,2026-10-28,Celtic,Dundee United,2,2
+Scottish Premiership,2026/27,2026-10-28,Dundee,Kilmarnock,3,1
+Scottish Premiership,2026/27,2026-10-28,Heart of Midlothian,Rangers,2,2
+Scottish Premiership,2026/27,2026-10-28,St. Johnstone,Motherwell,2,2
+Scottish Premiership,2026/27,2026-10-28,St. Mirren,Hibernian,1,1
 Serie A,2026/27,2026-10-28,AC Milan,Bologna FC 1909,2,4
 Serie A,2026/27,2026-10-28,Genoa CFC,Juventus FC,2,0
 Serie A,2026/27,2026-10-28,Monza,SSC Napoli,1,4
@@ -3638,13 +4243,30 @@ Serie A,2026/27,2026-10-28,Parma Calcio 1913,Udinese Calcio,0,0
 Serie A,2026/27,2026-10-28,Venezia,FC Internazionale Milano,0,2
 Serie A,2026/27,2026-10-29,ACF Fiorentina,Atalanta BC,2,2
 Serie A,2026/27,2026-10-29,Frosinone,US Lecce,5,1
+2. Bundesliga,2026/27,2026-10-30,DSC Arminia Bielefeld,Eintracht Braunschweig,3,1
+2. Bundesliga,2026/27,2026-10-30,Energie Cottbus,VfL Bochum,1,2
+Belgian Pro League,2026/27,2026-10-30,Zulte-Waregem,Club Brugge,2,4
 Bundesliga,2026/27,2026-10-30,SV 07 Elversberg,1. FSV Mainz 05,4,1
 English Championship,2026/27,2026-10-30,Sheffield United FC,Wrexham AFC,1,0
 La Liga,2026/27,2026-10-30,Villarreal CF,RCD Espanyol de Barcelona,0,1
 Ligue 1,2026/27,2026-10-30,Le Havre AC,Paris Saint-Germain FC,1,5
 Ligue 1,2026/27,2026-10-30,Lille OSC,Racing Club de Lens,1,0
 Ligue 1,2026/27,2026-10-30,OGC Nice,Stade Rennais FC 1901,5,2
+Ligue 2,2026/27,2026-10-30,FC Metz,Pau FC,1,3
+Ligue 2,2026/27,2026-10-30,FC Nantes,Clermont Foot 63,1,1
+Ligue 2,2026/27,2026-10-30,Grenoble Foot 38,Dijon FCO,1,3
+Ligue 2,2026/27,2026-10-30,Rodez Aveyron Football,USL Dunkerque,1,0
+Ligue 2,2026/27,2026-10-30,Stade Lavallois MFC,US Boulogne CO,1,0
 Primeira Liga,2026/27,2026-10-30,Casa Pia AC,Sporting Clube de Portugal,0,2
+Süper Lig,2026/27,2026-10-30,Konyaspor,Galatasaray,0,4
+2. Bundesliga,2026/27,2026-10-31,1. FC Kaiserslautern,Hertha BSC,0,3
+2. Bundesliga,2026/27,2026-10-31,Karlsruher SC,1. FC Heidenheim 1846,2,1
+2. Bundesliga,2026/27,2026-10-31,SV Darmstadt 98,1. FC Magdeburg,1,1
+2. Bundesliga,2026/27,2026-10-31,VfL Wolfsburg,VfL Osnabrück,2,0
+Belgian Pro League,2026/27,2026-10-31,Anderlecht,KVC Westerlo,4,1
+Belgian Pro League,2026/27,2026-10-31,KV Mechelen,Racing Genk,1,0
+Belgian Pro League,2026/27,2026-10-31,Standard Liege,KV Kortrijk,1,1
+Belgian Pro League,2026/27,2026-10-31,Waasland-Beveren,Union St.-Gilloise,1,2
 Bundesliga,2026/27,2026-10-31,Bayer 04 Leverkusen,VfB Stuttgart,2,4
 Bundesliga,2026/27,2026-10-31,Borussia Mönchengladbach,SC Paderborn 07,0,0
 Bundesliga,2026/27,2026-10-31,FC Augsburg,SC Freiburg,1,2
@@ -3672,6 +4294,8 @@ La Liga,2026/27,2026-10-31,Levante UD,Club Atlético de Madrid,0,2
 La Liga,2026/27,2026-10-31,Rayo Vallecano de Madrid,RC Celta de Vigo,3,0
 La Liga,2026/27,2026-10-31,Real Betis Balompié,Málaga CF,2,1
 Ligue 1,2026/27,2026-10-31,Estac Troyes,Le Mans FC,2,0
+Ligue 2,2026/27,2026-10-31,EN Avant Guingamp,AS Saint-Étienne,3,0
+Ligue 2,2026/27,2026-10-31,FC Annecy,Montpellier Hérault SC,0,3
 Premier League,2026/27,2026-10-31,AFC Bournemouth,Leeds United FC,2,0
 Premier League,2026/27,2026-10-31,Aston Villa FC,Fulham FC,1,1
 Premier League,2026/27,2026-10-31,Brentford FC,Nottingham Forest FC,2,0
@@ -3682,9 +4306,21 @@ Premier League,2026/27,2026-10-31,Manchester City FC,Brighton & Hove Albion FC,0
 Premier League,2026/27,2026-10-31,Tottenham Hotspur FC,Crystal Palace FC,2,0
 Primeira Liga,2026/27,2026-10-31,FC Porto,GD Estoril Praia,4,0
 Primeira Liga,2026/27,2026-10-31,Moreirense FC,CF Estrela da Amadora,2,1
+Scottish Premiership,2026/27,2026-10-31,Kilmarnock,St. Johnstone,2,2
+Scottish Premiership,2026/27,2026-10-31,Motherwell,St. Mirren,1,0
 Serie A,2026/27,2026-10-31,AC Milan,FC Internazionale Milano,3,1
 Serie A,2026/27,2026-10-31,Bologna FC 1909,Monza,2,1
 Serie A,2026/27,2026-10-31,Udinese Calcio,AS Roma,2,5
+Süper Lig,2026/27,2026-10-31,Erzurumspor,Çorum,1,3
+Süper Lig,2026/27,2026-10-31,Fenerbahçe,Göztepe,1,2
+Süper Lig,2026/27,2026-10-31,Kocaelispor,Çaykur Rizespor,0,0
+2. Bundesliga,2026/27,2026-11-01,FC St. Pauli,1. FC Nürnberg,1,3
+2. Bundesliga,2026/27,2026-11-01,Hannover 96,Dynamo Dresden,2,1
+2. Bundesliga,2026/27,2026-11-01,SpVgg Greuther Fürth,Holstein Kiel,1,0
+Belgian Pro League,2026/27,2026-11-01,Cercle Brugge KSV,Antwerp,2,1
+Belgian Pro League,2026/27,2026-11-01,Lommel SK,KAA Gent,2,0
+Belgian Pro League,2026/27,2026-11-01,Royal Charleroi SC,RAAL La Louvière,5,2
+Belgian Pro League,2026/27,2026-11-01,Sint-Truidense,OH Leuven,1,2
 Bundesliga,2026/27,2026-11-01,1. FC Union Berlin,1. FC Köln,1,1
 Bundesliga,2026/27,2026-11-01,Eintracht Frankfurt,Hamburger SV,3,1
 Eredivisie,2026/27,2026-11-01,FC Groningen,Sparta Rotterdam,2,3
@@ -3704,18 +4340,26 @@ Primeira Liga,2026/27,2026-11-01,Académico,Rio Ave FC,2,1
 Primeira Liga,2026/27,2026-11-01,FC Arouca,CD Nacional,1,0
 Primeira Liga,2026/27,2026-11-01,Marítimo M.,CD Santa Clara,0,2
 Primeira Liga,2026/27,2026-11-01,Sporting Clube de Braga,FC Famalicão,3,0
+Scottish Premiership,2026/27,2026-11-01,Falkirk,Celtic,2,0
 Serie A,2026/27,2026-11-01,Como 1907,Venezia,1,0
 Serie A,2026/27,2026-11-01,Frosinone,Torino FC,2,0
 Serie A,2026/27,2026-11-01,Juventus FC,SSC Napoli,2,0
 Serie A,2026/27,2026-11-01,SS Lazio,Cagliari Calcio,2,1
 Serie A,2026/27,2026-11-01,US Lecce,Genoa CFC,1,2
+Süper Lig,2026/27,2026-11-01,Amedspor,Eyüpspor,5,1
+Süper Lig,2026/27,2026-11-01,Istanbul Basaksehir,Samsunspor,5,2
+Süper Lig,2026/27,2026-11-01,Kasimpasa,Besiktas,2,2
+Süper Lig,2026/27,2026-11-01,Trabzonspor,Gaziantep,2,0
 La Liga,2026/27,2026-11-02,RC Deportivo,CA Osasuna,2,1
 Ligue 1,2026/27,2026-11-02,FC Lorient,Stade Brestois 29,0,2
+Ligue 2,2026/27,2026-11-02,Red Star FC,AS Nancy Lorraine,1,4
+Ligue 2,2026/27,2026-11-02,Stade DE Reims,FC Sochaux-Montbéliard,2,0
 Premier League,2026/27,2026-11-02,Newcastle United FC,Everton FC,0,1
 Primeira Liga,2026/27,2026-11-02,Gil Vicente FC,Vitória SC,0,0
 Primeira Liga,2026/27,2026-11-02,Sport Lisboa e Benfica,FC Alverca,1,0
 Serie A,2026/27,2026-11-02,Atalanta BC,Parma Calcio 1913,0,3
 Serie A,2026/27,2026-11-02,US Sassuolo Calcio,ACF Fiorentina,2,4
+Süper Lig,2026/27,2026-11-02,Gençlerbirligi,Alanyaspor,5,0
 English Championship,2026/27,2026-11-03,Birmingham City FC,Millwall FC,3,0
 English Championship,2026/27,2026-11-03,Blackburn Rovers FC,Stoke City FC,1,2
 English Championship,2026/27,2026-11-03,Charlton Athletic FC,Bolton Wanderers,0,1
@@ -3725,17 +4369,90 @@ English Championship,2026/27,2026-11-03,Preston North End FC,Sheffield United FC
 English Championship,2026/27,2026-11-03,Queens Park Rangers FC,Burnley,1,1
 English Championship,2026/27,2026-11-03,Watford FC,Lincoln City,1,0
 English Championship,2026/27,2026-11-03,West Bromwich Albion FC,Southampton FC,1,1
+UEFA Champions League,2026/27,2026-11-03,Atleti,Bayern München,0,2
+UEFA Champions League,2026/27,2026-11-03,Barcelona,Aston Villa,3,0
+UEFA Champions League,2026/27,2026-11-03,Bodø/Glimt,Lille,0,0
+UEFA Champions League,2026/27,2026-11-03,Feyenoord,Inter,0,3
+UEFA Champions League,2026/27,2026-11-03,Galatasaray,Stuttgart,2,0
+UEFA Champions League,2026/27,2026-11-03,LASK,S. Bratislava,4,0
+UEFA Champions League,2026/27,2026-11-03,Man Utd,Roma,3,2
+UEFA Champions League,2026/27,2026-11-03,Shakhtar,Sporting CP,0,1
+UEFA Champions League,2026/27,2026-11-03,Villarreal,Paris,0,6
+Belgian Pro League,2026/27,2026-11-04,KV Kortrijk,KV Mechelen,1,3
 English Championship,2026/27,2026-11-04,Bristol City FC,Wolverhampton Wanderers,1,2
 English Championship,2026/27,2026-11-04,Cardiff City,West Ham United,3,3
 English Championship,2026/27,2026-11-04,Wrexham AFC,Middlesbrough FC,2,0
+UEFA Champions League,2026/27,2026-11-04,AEK Athens,Real Madrid,2,3
+UEFA Champions League,2026/27,2026-11-04,B. Dortmund,Real Betis,2,1
+UEFA Champions League,2026/27,2026-11-04,Fenerbahçe,Liverpool,3,2
+UEFA Champions League,2026/27,2026-11-04,Leipzig,Man City,2,3
+UEFA Champions League,2026/27,2026-11-04,Lens,Como,1,9
+UEFA Champions League,2026/27,2026-11-04,PSV,Club Brugge,1,2
+UEFA Champions League,2026/27,2026-11-04,Porto,Napoli,4,1
+UEFA Champions League,2026/27,2026-11-04,Slavia Praha,Arsenal,1,2
+UEFA Champions League,2026/27,2026-11-04,Viking,Sabah,4,1
+UEFA Europa League,2026/27,2026-11-04,Rennes,Olympiacos,0,0
+UEFA Conference League,2026/27,2026-11-05,Aarhus,Braga,0,0
+UEFA Conference League,2026/27,2026-11-05,Atalanta,Kairat Almaty,1,1
+UEFA Conference League,2026/27,2026-11-05,Copenhagen,Iberia Tbilisi,2,1
+UEFA Conference League,2026/27,2026-11-05,Crvena Zvezda,Inter Escaldes,2,1
+UEFA Conference League,2026/27,2026-11-05,Getafe,Brighton,0,1
+UEFA Conference League,2026/27,2026-11-05,KuPS Kuopio,Gent,0,0
+UEFA Conference League,2026/27,2026-11-05,L. Red Imps,Hajduk Split,1,0
+UEFA Conference League,2026/27,2026-11-05,Lugano,Kauno Žalgiris,3,0
+UEFA Conference League,2026/27,2026-11-05,Midtjylland,Ajax,1,6
+UEFA Conference League,2026/27,2026-11-05,Mjällby,Borac,2,0
+UEFA Conference League,2026/27,2026-11-05,Monaco,Nordsjælland,2,0
+UEFA Conference League,2026/27,2026-11-05,Panathinaikos,CSKA Sofia,2,1
+UEFA Conference League,2026/27,2026-11-05,Riga,Jablonec,1,1
+UEFA Conference League,2026/27,2026-11-05,Sint-Truidense,Brann,1,1
+UEFA Conference League,2026/27,2026-11-05,Thun,Hearts,3,1
+UEFA Conference League,2026/27,2026-11-05,Trabzonspor,Freiburg,0,1
+UEFA Conference League,2026/27,2026-11-05,Twente,Pafos,3,1
+UEFA Conference League,2026/27,2026-11-05,U. Craiova,Egnatia,2,0
+UEFA Europa League,2026/27,2026-11-05,AZ Alkmaar,Juventus,1,2
+UEFA Europa League,2026/27,2026-11-05,Anderlecht,Salzburg,2,0
+UEFA Europa League,2026/27,2026-11-05,Benfica,Lech Poznan,3,1
+UEFA Europa League,2026/27,2026-11-05,Celta,Union SG,1,2
+UEFA Europa League,2026/27,2026-11-05,Celtic,Besiktas,3,2
+UEFA Europa League,2026/27,2026-11-05,Crystal Palace,Hoffenheim,1,1
+UEFA Europa League,2026/27,2026-11-05,H. Beer-Sheva,OFI Crete,0,2
+UEFA Europa League,2026/27,2026-11-05,Leverkusen,Marseille,0,1
+UEFA Europa League,2026/27,2026-11-05,Levski Sofia,Jagiellonia,1,0
+UEFA Europa League,2026/27,2026-11-05,Lillestrøm,Viktoria Plzen,0,1
+UEFA Europa League,2026/27,2026-11-05,Milan,Ferencváros,0,2
+UEFA Europa League,2026/27,2026-11-05,N.E.C.,Omonia,3,1
+UEFA Europa League,2026/27,2026-11-05,Real Sociedad,Lyon,1,1
+UEFA Europa League,2026/27,2026-11-05,Sparta Praha,Bournemouth,1,3
+UEFA Europa League,2026/27,2026-11-05,Sturm Graz,Celje,2,3
+UEFA Europa League,2026/27,2026-11-05,Sunderland,GNK Dinamo,0,2
+UEFA Europa League,2026/27,2026-11-05,Torreense,Ararat-Armenia,3,2
+2. Bundesliga,2026/27,2026-11-06,Dynamo Dresden,SpVgg Greuther Fürth,3,0
+2. Bundesliga,2026/27,2026-11-06,Eintracht Braunschweig,Energie Cottbus,0,0
+Belgian Pro League,2026/27,2026-11-06,Standard Liege,Waasland-Beveren,3,0
 Bundesliga,2026/27,2026-11-06,Hamburger SV,Borussia Mönchengladbach,3,1
 English Championship,2026/27,2026-11-06,Derby County FC,Bolton Wanderers,3,1
 Eredivisie,2026/27,2026-11-06,Willem II,PEC Zwolle,1,1
 La Liga,2026/27,2026-11-06,Sevilla FC,Deportivo Alavés,0,0
 Ligue 1,2026/27,2026-11-06,Toulouse FC,RC Strasbourg Alsace,3,1
+Ligue 2,2026/27,2026-11-06,AS Nancy Lorraine,FC Sochaux-Montbéliard,1,0
+Ligue 2,2026/27,2026-11-06,Dijon FCO,Red Star FC,1,0
+Ligue 2,2026/27,2026-11-06,Grenoble Foot 38,Stade DE Reims,3,2
+Ligue 2,2026/27,2026-11-06,Montpellier Hérault SC,FC Metz,2,3
+Ligue 2,2026/27,2026-11-06,US Boulogne CO,FC Annecy,3,0
+Ligue 2,2026/27,2026-11-06,USL Dunkerque,EN Avant Guingamp,3,0
 Premier League,2026/27,2026-11-06,Everton FC,Coventry,3,1
 Primeira Liga,2026/27,2026-11-06,FC Famalicão,FC Arouca,1,0
 Serie A,2026/27,2026-11-06,Venezia,Udinese Calcio,2,1
+Süper Lig,2026/27,2026-11-06,Gaziantep,Kasimpasa,0,2
+2. Bundesliga,2026/27,2026-11-07,1. FC Nürnberg,SV Darmstadt 98,2,0
+2. Bundesliga,2026/27,2026-11-07,Hertha BSC,VfL Wolfsburg,2,1
+2. Bundesliga,2026/27,2026-11-07,Holstein Kiel,DSC Arminia Bielefeld,1,2
+2. Bundesliga,2026/27,2026-11-07,VfL Osnabrück,1. FC Kaiserslautern,0,1
+Belgian Pro League,2026/27,2026-11-07,Antwerp,Lommel SK,2,2
+Belgian Pro League,2026/27,2026-11-07,KVC Westerlo,Royal Charleroi SC,1,5
+Belgian Pro League,2026/27,2026-11-07,OH Leuven,KV Mechelen,2,0
+Belgian Pro League,2026/27,2026-11-07,RAAL La Louvière,Cercle Brugge KSV,0,1
 Bundesliga,2026/27,2026-11-07,1. FSV Mainz 05,FC Bayern München,1,2
 Bundesliga,2026/27,2026-11-07,Borussia Dortmund,SV 07 Elversberg,2,1
 Bundesliga,2026/27,2026-11-07,RB Leipzig,FC Augsburg,5,2
@@ -3761,16 +4478,34 @@ La Liga,2026/27,2026-11-07,RCD Espanyol de Barcelona,RC Deportivo,0,0
 La Liga,2026/27,2026-11-07,Valencia CF,Real Madrid CF,0,3
 Ligue 1,2026/27,2026-11-07,AJ Auxerre,Paris FC,0,1
 Ligue 1,2026/27,2026-11-07,Paris Saint-Germain FC,Estac Troyes,1,0
+Ligue 2,2026/27,2026-11-07,AS Saint-Étienne,Stade Lavallois MFC,2,0
+Ligue 2,2026/27,2026-11-07,Clermont Foot 63,Rodez Aveyron Football,1,0
+Ligue 2,2026/27,2026-11-07,Pau FC,FC Nantes,0,2
 Premier League,2026/27,2026-11-07,Arsenal FC,Hull,1,0
 Premier League,2026/27,2026-11-07,Fulham FC,Newcastle United FC,1,1
 Premier League,2026/27,2026-11-07,Leeds United FC,Tottenham Hotspur FC,1,0
 Premier League,2026/27,2026-11-07,Nottingham Forest FC,Manchester City FC,3,1
 Primeira Liga,2026/27,2026-11-07,FC Alverca,Casa Pia AC,1,1
 Primeira Liga,2026/27,2026-11-07,Sporting Clube de Portugal,Moreirense FC,1,0
+Scottish Premiership,2026/27,2026-11-07,Aberdeen,Hibernian,0,4
+Scottish Premiership,2026/27,2026-11-07,Dundee United,Motherwell,1,1
+Scottish Premiership,2026/27,2026-11-07,St. Johnstone,Dundee,2,1
+Scottish Premiership,2026/27,2026-11-07,St. Mirren,Rangers,0,2
 Serie A,2026/27,2026-11-07,AS Roma,US Sassuolo Calcio,3,0
 Serie A,2026/27,2026-11-07,Cagliari Calcio,Frosinone,1,0
 Serie A,2026/27,2026-11-07,Parma Calcio 1913,Bologna FC 1909,1,2
 Serie A,2026/27,2026-11-07,Torino FC,US Lecce,1,1
+Süper Lig,2026/27,2026-11-07,Eyüpspor,Kocaelispor,0,2
+Süper Lig,2026/27,2026-11-07,Galatasaray,Amedspor,4,3
+Süper Lig,2026/27,2026-11-07,Göztepe,Istanbul Basaksehir,1,2
+Süper Lig,2026/27,2026-11-07,Samsunspor,Konyaspor,1,0
+2. Bundesliga,2026/27,2026-11-08,1. FC Heidenheim 1846,Hannover 96,2,2
+2. Bundesliga,2026/27,2026-11-08,1. FC Magdeburg,FC St. Pauli,4,1
+2. Bundesliga,2026/27,2026-11-08,VfL Bochum,Karlsruher SC,3,2
+Belgian Pro League,2026/27,2026-11-08,Club Brugge,Anderlecht,1,1
+Belgian Pro League,2026/27,2026-11-08,KAA Gent,KV Kortrijk,1,0
+Belgian Pro League,2026/27,2026-11-08,Sint-Truidense,Zulte-Waregem,4,1
+Belgian Pro League,2026/27,2026-11-08,Union St.-Gilloise,Racing Genk,1,0
 Bundesliga,2026/27,2026-11-08,1. FC Köln,Bayer 04 Leverkusen,1,2
 Bundesliga,2026/27,2026-11-08,SC Freiburg,1. FC Union Berlin,2,0
 Bundesliga,2026/27,2026-11-08,TSG 1899 Hoffenheim,FC Schalke 04,2,1
@@ -3800,14 +4535,36 @@ Primeira Liga,2026/27,2026-11-08,CD Santa Clara,Gil Vicente FC,1,2
 Primeira Liga,2026/27,2026-11-08,CF Estrela da Amadora,Sport Lisboa e Benfica,2,3
 Primeira Liga,2026/27,2026-11-08,Rio Ave FC,Sporting Clube de Braga,0,1
 Primeira Liga,2026/27,2026-11-08,Vitória SC,FC Porto,1,2
+Scottish Premiership,2026/27,2026-11-08,Celtic,Kilmarnock,1,0
+Scottish Premiership,2026/27,2026-11-08,Heart of Midlothian,Falkirk,2,5
 Serie A,2026/27,2026-11-08,ACF Fiorentina,Juventus FC,2,2
 Serie A,2026/27,2026-11-08,FC Internazionale Milano,Como 1907,2,0
 Serie A,2026/27,2026-11-08,Genoa CFC,AC Milan,1,2
 Serie A,2026/27,2026-11-08,Monza,Atalanta BC,0,1
 Serie A,2026/27,2026-11-08,SSC Napoli,SS Lazio,1,1
+Süper Lig,2026/27,2026-11-08,Alanyaspor,Trabzonspor,0,2
+Süper Lig,2026/27,2026-11-08,Besiktas,Gençlerbirligi,3,0
+Süper Lig,2026/27,2026-11-08,Çaykur Rizespor,Erzurumspor,2,1
+Süper Lig,2026/27,2026-11-08,Çorum,Fenerbahçe,0,5
+2. Bundesliga,2026/27,2026-11-20,DSC Arminia Bielefeld,1. FC Magdeburg,1,2
+2. Bundesliga,2026/27,2026-11-20,SV Darmstadt 98,1. FC Heidenheim 1846,3,1
+Belgian Pro League,2026/27,2026-11-20,Cercle Brugge KSV,KVC Westerlo,1,0
 Bundesliga,2026/27,2026-11-20,FC Bayern München,1. FC Köln,1,1
 La Liga,2026/27,2026-11-20,Athletic Club,RCD Espanyol de Barcelona,0,1
 Ligue 1,2026/27,2026-11-20,Estac Troyes,Le Havre AC,3,1
+Ligue 2,2026/27,2026-11-20,AS Nancy Lorraine,Dijon FCO,1,0
+Ligue 2,2026/27,2026-11-20,EN Avant Guingamp,Rodez Aveyron Football,1,3
+Ligue 2,2026/27,2026-11-20,FC Annecy,Clermont Foot 63,4,2
+Ligue 2,2026/27,2026-11-20,FC Metz,US Boulogne CO,2,1
+Ligue 2,2026/27,2026-11-20,Red Star FC,Pau FC,2,1
+2. Bundesliga,2026/27,2026-11-21,1. FC Nürnberg,Eintracht Braunschweig,1,2
+2. Bundesliga,2026/27,2026-11-21,FC St. Pauli,VfL Bochum,2,0
+2. Bundesliga,2026/27,2026-11-21,Hannover 96,SpVgg Greuther Fürth,2,1
+2. Bundesliga,2026/27,2026-11-21,VfL Wolfsburg,Holstein Kiel,3,0
+Belgian Pro League,2026/27,2026-11-21,KV Mechelen,Club Brugge,1,5
+Belgian Pro League,2026/27,2026-11-21,Racing Genk,RAAL La Louvière,3,0
+Belgian Pro League,2026/27,2026-11-21,Royal Charleroi SC,Sint-Truidense,2,2
+Belgian Pro League,2026/27,2026-11-21,Zulte-Waregem,Antwerp,2,2
 Bundesliga,2026/27,2026-11-21,1. FC Union Berlin,RB Leipzig,1,5
 Bundesliga,2026/27,2026-11-21,Bayer 04 Leverkusen,SC Paderborn 07,4,0
 Bundesliga,2026/27,2026-11-21,Borussia Mönchengladbach,Borussia Dortmund,0,1
@@ -3839,6 +4596,8 @@ Ligue 1,2026/27,2026-11-21,Lille OSC,Olympique Lyonnais,0,1
 Ligue 1,2026/27,2026-11-21,OGC Nice,Paris Saint-Germain FC,2,3
 Ligue 1,2026/27,2026-11-21,RC Strasbourg Alsace,Stade Brestois 29,0,1
 Ligue 1,2026/27,2026-11-21,Racing Club de Lens,Toulouse FC,1,1
+Ligue 2,2026/27,2026-11-21,Stade DE Reims,AS Saint-Étienne,0,1
+Ligue 2,2026/27,2026-11-21,Stade Lavallois MFC,Montpellier Hérault SC,1,0
 Premier League,2026/27,2026-11-21,AFC Bournemouth,Nottingham Forest FC,2,0
 Premier League,2026/27,2026-11-21,Aston Villa FC,Sunderland AFC,0,0
 Premier League,2026/27,2026-11-21,Chelsea FC,Leeds United FC,1,4
@@ -3846,10 +4605,27 @@ Premier League,2026/27,2026-11-21,Coventry,Crystal Palace FC,3,2
 Premier League,2026/27,2026-11-21,Manchester City FC,Fulham FC,1,1
 Premier League,2026/27,2026-11-21,Newcastle United FC,Arsenal FC,2,2
 Premier League,2026/27,2026-11-21,Tottenham Hotspur FC,Ipswich,2,0
+Scottish Premiership,2026/27,2026-11-21,Celtic,St. Mirren,4,1
+Scottish Premiership,2026/27,2026-11-21,Dundee,Heart of Midlothian,0,8
+Scottish Premiership,2026/27,2026-11-21,Falkirk,St. Johnstone,2,1
+Scottish Premiership,2026/27,2026-11-21,Hibernian,Dundee United,0,4
+Scottish Premiership,2026/27,2026-11-21,Kilmarnock,Aberdeen,2,4
+Scottish Premiership,2026/27,2026-11-21,Motherwell,Rangers,1,2
 Serie A,2026/27,2026-11-21,Como 1907,Cagliari Calcio,2,0
 Serie A,2026/27,2026-11-21,Parma Calcio 1913,AS Roma,1,5
 Serie A,2026/27,2026-11-21,SS Lazio,US Lecce,3,0
 Serie A,2026/27,2026-11-21,SSC Napoli,Torino FC,1,0
+Süper Lig,2026/27,2026-11-21,Amedspor,Çaykur Rizespor,0,2
+Süper Lig,2026/27,2026-11-21,Galatasaray,Samsunspor,2,1
+Süper Lig,2026/27,2026-11-21,Gençlerbirligi,Gaziantep,1,0
+Süper Lig,2026/27,2026-11-21,Kocaelispor,Fenerbahçe,2,2
+2. Bundesliga,2026/27,2026-11-22,1. FC Kaiserslautern,Dynamo Dresden,2,2
+2. Bundesliga,2026/27,2026-11-22,Energie Cottbus,Hertha BSC,0,4
+2. Bundesliga,2026/27,2026-11-22,Karlsruher SC,VfL Osnabrück,0,0
+Belgian Pro League,2026/27,2026-11-22,Anderlecht,OH Leuven,1,0
+Belgian Pro League,2026/27,2026-11-22,KV Kortrijk,Union St.-Gilloise,0,1
+Belgian Pro League,2026/27,2026-11-22,Lommel SK,Standard Liege,1,2
+Belgian Pro League,2026/27,2026-11-22,Waasland-Beveren,KAA Gent,1,0
 Bundesliga,2026/27,2026-11-22,FC Augsburg,1. FSV Mainz 05,3,1
 Bundesliga,2026/27,2026-11-22,SV Werder Bremen,Hamburger SV,4,0
 English Championship,2026/27,2026-11-22,Burnley,Blackburn Rovers FC,2,2
@@ -3871,9 +4647,16 @@ Serie A,2026/27,2026-11-22,Atalanta BC,FC Internazionale Milano,4,4
 Serie A,2026/27,2026-11-22,Bologna FC 1909,Udinese Calcio,1,1
 Serie A,2026/27,2026-11-22,Juventus FC,Venezia,4,0
 Serie A,2026/27,2026-11-22,US Sassuolo Calcio,Genoa CFC,0,2
+Süper Lig,2026/27,2026-11-22,Erzurumspor,Göztepe,0,1
+Süper Lig,2026/27,2026-11-22,Kasimpasa,Alanyaspor,2,1
+Süper Lig,2026/27,2026-11-22,Konyaspor,Besiktas,2,4
+Süper Lig,2026/27,2026-11-22,Trabzonspor,Eyüpspor,1,0
 La Liga,2026/27,2026-11-23,Levante UD,Elche CF,1,1
+Ligue 2,2026/27,2026-11-23,FC Nantes,Grenoble Foot 38,1,0
+Ligue 2,2026/27,2026-11-23,FC Sochaux-Montbéliard,USL Dunkerque,2,3
 Premier League,2026/27,2026-11-23,Brentford FC,Everton FC,4,0
 Serie A,2026/27,2026-11-23,Monza,ACF Fiorentina,3,0
+Süper Lig,2026/27,2026-11-23,Istanbul Basaksehir,Çorum,4,2
 English Championship,2026/27,2026-11-24,Bristol City FC,Wrexham AFC,1,1
 English Championship,2026/27,2026-11-24,Cardiff City,Preston North End FC,0,4
 English Championship,2026/27,2026-11-24,Charlton Athletic FC,Lincoln City,4,0
@@ -3882,3 +4665,33 @@ English Championship,2026/27,2026-11-24,Norwich City FC,Queens Park Rangers FC,1
 English Championship,2026/27,2026-11-24,Portsmouth FC,West Ham United,1,0
 English Championship,2026/27,2026-11-24,Sheffield United FC,Southampton FC,1,1
 English Championship,2026/27,2026-11-24,Wolverhampton Wanderers,Derby County FC,3,0
+Scottish Premiership,2026/27,2026-11-24,Hibernian,Dundee,2,1
+Scottish Premiership,2026/27,2026-11-24,Rangers,Aberdeen,3,2
+UEFA Champions League,2026/27,2026-11-24,Arsenal,B. Dortmund,1,1
+UEFA Champions League,2026/27,2026-11-24,Bodø/Glimt,LASK,1,0
+UEFA Champions League,2026/27,2026-11-24,Como,AEK Athens,1,0
+UEFA Champions League,2026/27,2026-11-24,Feyenoord,Porto,0,1
+UEFA Champions League,2026/27,2026-11-24,Galatasaray,Aston Villa,1,0
+UEFA Champions League,2026/27,2026-11-24,Leipzig,Lens,3,1
+UEFA Champions League,2026/27,2026-11-24,Man City,Napoli,2,2
+UEFA Champions League,2026/27,2026-11-24,Real Madrid,PSV,5,1
+UEFA Champions League,2026/27,2026-11-24,S. Bratislava,Real Betis,0,2
+English Championship,2026/27,2026-11-25,Bolton Wanderers,West Bromwich Albion FC,1,3
+English Championship,2026/27,2026-11-25,Burnley,Birmingham City FC,0,2
+English Championship,2026/27,2026-11-25,Stoke City FC,Millwall FC,2,1
+English Championship,2026/27,2026-11-25,Watford FC,Blackburn Rovers FC,0,1
+UEFA Champions League,2026/27,2026-11-25,Atleti,Viking,2,0
+UEFA Champions League,2026/27,2026-11-25,Club Brugge,Liverpool,0,3
+UEFA Champions League,2026/27,2026-11-25,Inter,Stuttgart,2,0
+UEFA Champions League,2026/27,2026-11-25,Lille,Bayern München,2,1
+UEFA Champions League,2026/27,2026-11-25,Paris,Roma,2,2
+UEFA Champions League,2026/27,2026-11-25,Sabah,Barcelona,1,4
+UEFA Champions League,2026/27,2026-11-25,Shakhtar,Fenerbahçe,0,1
+UEFA Champions League,2026/27,2026-11-25,Slavia Praha,Villarreal,0,1
+UEFA Champions League,2026/27,2026-11-25,Sporting CP,Man Utd,2,2
+UEFA Europa League,2020/21,2027-10-22,Celtic,Milan,1,3
+UEFA Europa League,2020/21,2027-10-29,Milan,Sparta Praha,3,0
+UEFA Europa League,2020/21,2027-11-05,Celtic,Sparta Praha,1,4
+UEFA Europa League,2020/21,2027-11-26,Sparta Praha,Celtic,4,1
+UEFA Europa League,2020/21,2027-12-03,Milan,Celtic,4,2
+UEFA Europa League,2020/21,2027-12-10,Sparta Praha,Milan,0,1
