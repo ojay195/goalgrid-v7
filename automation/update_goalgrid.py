@@ -310,7 +310,7 @@ def main():
         canonical_key = safe_team_key(canonical)
 
         if alias_key:
-            alias_index.setdefault(alias_key, set()).add(canonical)
+            alias_index.setdefault((existing_league, alias_key), set()).add(canonical)
 
         if canonical_key:
             canonical_index.setdefault(canonical_key, set()).add(canonical)
