@@ -27,19 +27,22 @@ jobs:
         run: python automation/update_goalgrid.py
       - name: Upload Stage A test reports
      uses: actions/upload-artifact@v4
-  if: always()
-  with:
-    name: goalgrid-stage-a-test-reports
-    path: |
-      automation/data/
-      automation/team_matching_audit.csv
-      automation/v7_fixture_eligibility_report.csv
-      automation/v7_live_predictions.csv
-      automation/uefa_missing_aliases.csv
-    if-no-files-found: warn
-    retention-days: 7
+if: always()
+with:
+      - name: Upload Stage A test reports
+        uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: goalgrid-stage-a-test-reports
+          path: |
+            automation/data/
+            automation/team_matching_audit.csv
+            automation/v7_fixture_eligibility_report.csv
+            automation/v7_live_predictions.csv
+            automation/uefa_missing_aliases.csv
+          if-no-files-found: warn
+          retention-days: 7
       
-
       # - name: Publish generated data
       #   run: |
       #     git config user.name "github-actions[bot]"
