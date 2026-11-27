@@ -26,13 +26,16 @@ jobs:
 
       - name: Build updated V7 predictions
         run: python automation/update_goalgrid.py
-
+      - name: Run V7 domestic-history experiment
+        run: python automation/live_v7_domestic_history_test.py
       - name: Upload Stage A test reports
         uses: actions/upload-artifact@v4
         if: always()
         with:
           name: goalgrid-stage-a-test-reports
           path: |
+            automation/v7_live_predictions_domestic_test.csv
+            automation/v7_fixture_eligibility_domestic_test.csv
             automation/data/
             automation/team_matching_audit.csv
             automation/v7_fixture_eligibility_report.csv
