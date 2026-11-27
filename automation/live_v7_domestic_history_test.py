@@ -189,11 +189,12 @@ def main():
                 ]
                 status = "READY"
 
-        history = v7.new_history()
-        for match in history_matches:
+         history = v7.new_history()
+         for match in history_matches:
             v7.add_match(history, match)
-                   # Add verified domestic home records to the home team's
-        # statistics only. Do not add them to UEFA league averages.
+
+        # Add domestic history only to UEFA team statistics.
+        # Keep domestic matches out of UEFA league averages.
         if league in UEFA_LEAGUES and home:
             for match in domestic_home_matches[home]:
                 if match["date"] < fixture_date:
@@ -202,15 +203,13 @@ def main():
                     team["home_scored"] += match["hg"]
                     team["home_conceded"] += match["ag"]
 
-        # Add verified domestic away records to the away team's
-        # statistics only. Do not add them to UEFA league averages.
-       if league in UEFA_LEAGUES and away:
+        if league in UEFA_LEAGUES and away:
             for match in domestic_away_matches[away]:
                 if match["date"] < fixture_date:
                     team = history["teams"][away]
                     team["away_played"] += 1
                     team["away_scored"] += match["ag"]
-                    team["away_conceded"] += match["hg"] 
+                    team["away_conceded"] += match["hg"]
 
         home_played = history["teams"][home]["home_played"] if home else 0
         away_played = history["teams"][away]["away_played"] if away else 0
