@@ -229,9 +229,9 @@ def main():
                         "home_team":r["home_team"],"away_team":r["away_team"],
                         "home_goals":r["home_goals"],"away_goals":r["away_goals"]})
 
-    source_results=0; unmatched_results=[]; fixture_rows=[]; source_fixture_count=0
+        source_results=0; unmatched_results=[]; fixture_rows=[]; source_fixture_count=0
         uefa_history_count = 0
-    uefa_missing_files = []
+        uefa_missing_files = []
 
     for season, competitions in UEFA_HISTORY_FILES.items():
         for league, filename in competitions.items():
