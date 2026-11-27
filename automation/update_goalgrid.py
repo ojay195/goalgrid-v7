@@ -1,10 +1,10 @@
-from urllib.error import HTTPError
 #!/usr/bin/env python3
 """GoalGrid V7 scheduled data refresh. Does not alter V7 model logic or weights."""
 import csv, json, re, sys, subprocess, unicodedata
 from pathlib import Path
 from datetime import datetime, timezone, date
 from urllib.request import urlopen, Request
+from urllib.error import HTTPError
 from collections import defaultdict
 
 ROOT = Path(__file__).resolve().parent
