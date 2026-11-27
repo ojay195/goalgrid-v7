@@ -23,12 +23,10 @@ jobs:
         with:
           python-version: '3.12'
 
+
       - name: Build updated V7 predictions
         run: python automation/update_goalgrid.py
-      - name: Upload Stage A test reports
-     uses: actions/upload-artifact@v4
-if: always()
-with:
+
       - name: Upload Stage A test reports
         uses: actions/upload-artifact@v4
         if: always()
@@ -42,6 +40,7 @@ with:
             automation/uefa_missing_aliases.csv
           if-no-files-found: warn
           retention-days: 7
+
       
       # - name: Publish generated data
       #   run: |
