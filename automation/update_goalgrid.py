@@ -1,3 +1,4 @@
+from urllib.error import HTTPError
 #!/usr/bin/env python3
 """GoalGrid V7 scheduled data refresh. Does not alter V7 model logic or weights."""
 import csv, json, re, sys, subprocess, unicodedata
@@ -97,6 +98,116 @@ def fetch_csv(url):
     with urlopen(req, timeout=45) as r:
         return list(csv.DictReader(line.decode("utf-8-sig") for line in r))
 
+
+UEFA_HISTORY_BASE = "https://raw.githubusercontent.com/openfootball/champions-league/master"
+
+UEFA_HISTORY_FILES = {
+    "2020-21": {
+        "UEFA Champions League": "cl.txt",
+        "UEFA Europa League": "el.txt",
+    },
+    "2021-22": {
+        "UEFA Champions League": "cl.txt",
+        "UEFA Europa League": "el.txt",
+        "UEFA Conference League": "conf.txt",
+    },
+    "2022-23": {
+        "UEFA Champions League": "cl.txt",
+        "UEFA Europa League": "el.txt",
+        "UEFA Conference League": "conf.txt",
+    },
+    "2023-24": {
+        "UEFA Champions League": "cl.txt",
+        "UEFA Europa League": "el.txt",
+        "UEFA Conference League": "conf.txt",
+    },
+    "2024-25": {
+        "UEFA Champions League": "cl.txt",
+        "UEFA Europa League": "el.txt",
+        "UEFA Conference League": "conf.txt",
+    },
+    "2025-26": {
+        "UEFA Champions League": "cl.txt",
+    },
+}
+
+
+def fetch_text(url):
+    req = Request(url, headers={
+        "User-Agent": "GoalGridV7-personal-noncommercial/1.0"
+    })
+    try:
+        with urlopen(req, timeout=45) as response:
+            return response.read().decode("utf-8-sig")
+    except HTTPError as exc:
+        if exc.code == 404:
+            return None
+        raise
+
+
+def parse_openfootball_results(content):
+    rows = []
+    current_date = None
+    current_year = None
+
+    date_pattern = re.compile(
+        r"^\s{2,}(?:Mon|Tue|Wed|Thu|Fri|Sat|Sun)\s+"
+        r"([A-Z][a-z]{2})\s+(\d{1,2})(?:\s+(\d{4}))?\s*$"
+    )
+
+    match_pattern = re.compile(
+        r"^\s*(?:\d{1,2}:\d{2}\s+)?"
+        r"(.+?)\s+v\s+(.+?)\s+"
+        r"(\d+)-(\d+)"
+        r"(?:\s+\(\d+-\d+\))?"
+        r"(?:\s+\[([^\]]+)\])?\s*$"
+    )
+
+    for line in content.splitlines():
+        date_match = date_pattern.match(line)
+
+        if date_match:
+            month, day, year = date_match.groups()
+            month_number = datetime.strptime(month, "%b").month
+
+            if year:
+                current_year = int(year)
+            elif current_year is None:
+                continue
+            elif current_date and month_number < current_date.month:
+                current_year += 1
+
+            current_date = datetime.strptime(
+                f"{month} {day} {current_year}", "%b %d %Y"
+            ).date()
+            continue
+
+        if current_date is None:
+            continue
+
+        match = match_pattern.match(line)
+        if not match:
+            continue
+
+        home, away, home_goals, away_goals, note = match.groups()
+
+        # Do not treat awarded matches as normally played results.
+        if note and "awarded" in note.lower():
+            continue
+
+        # Remove the three-letter country code, e.g. (ENG).
+        home = re.sub(r"\s+\([A-Z]{3}\)$", "", home).strip()
+        away = re.sub(r"\s+\([A-Z]{3}\)$", "", away).strip()
+
+        rows.append({
+            "date": current_date.isoformat(),
+            "home": home,
+            "away": away,
+            "home_goals": home_goals,
+            "away_goals": away_goals,
+        })
+
+    return rows
 
 def main():
     now=datetime.now(timezone.utc)
