@@ -272,7 +272,8 @@ def main():
 
     print(f"UEFA historical matches imported: {uefa_history_count}")
     print(f"UEFA files missing: {uefa_missing_files}")
-    # Audit missing UEFA team aliases
+    
+    # Audit missing UEFA team aliases and suggest existing canonical names
     uefa_missing_aliases = set()
 
     for season, competitions in UEFA_HISTORY_FILES.items():
@@ -288,15 +289,48 @@ def main():
                     if not resolve(league, team):
                         uefa_missing_aliases.add((league, team))
 
+    # Build a lookup of existing canonical team names
+    canonical_index = {}
+
+    for (existing_league, existing_alias), canonical in aliases.items():
+        key = norm(canonical)
+        if key:
+            canonical_index.setdefault(key, set()).add(canonical)
+
     audit_path = ROOT / "uefa_missing_aliases.csv"
+
+    suggested_count = 0
+    ambiguous_count = 0
+    no_match_count = 0
 
     with open(audit_path, "w", newline="", encoding="utf-8") as f:
         writer = csv.writer(f)
-        writer.writerow(["league", "alias", "canonical_team"])
+        writer.writerow([
+            "league", "alias", "canonical_team", "match_status"
+        ])
+
         for league, team in sorted(uefa_missing_aliases):
-            writer.writerow([league, team, ""])
+            candidates = canonical_index.get(norm(team), set())
+
+            if len(candidates) == 1:
+                canonical = next(iter(candidates))
+                status = "SUGGESTED_MATCH"
+                suggested_count += 1
+            elif len(candidates) > 1:
+                canonical = ""
+                status = "AMBIGUOUS"
+                ambiguous_count += 1
+            else:
+                canonical = ""
+                status = "NO_MATCH"
+                no_match_count += 1
+
+            writer.writerow([league, team, canonical, status])
 
     print(f"UEFA missing aliases identified: {len(uefa_missing_aliases)}")
+    print(f"Unique suggestions: {suggested_count}")
+    print(f"Ambiguous names: {ambiguous_count}")
+    print(f"No matches: {no_match_count}")
     for league,(folder, source_name) in LEAGUES.items():
         url=f"{BASE}/{folder}/results_{SEASON}.csv"
         results=fetch_csv(url)
