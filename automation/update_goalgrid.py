@@ -230,6 +230,48 @@ def main():
                         "home_goals":r["home_goals"],"away_goals":r["away_goals"]})
 
     source_results=0; unmatched_results=[]; fixture_rows=[]; source_fixture_count=0
+        uefa_history_count = 0
+    uefa_missing_files = []
+
+    for season, competitions in UEFA_HISTORY_FILES.items():
+        for league, filename in competitions.items():
+            url = f"{UEFA_HISTORY_BASE}/{season}/{filename}"
+            content = fetch_text(url)
+
+            if content is None:
+                uefa_missing_files.append(f"{season}/{filename}")
+                continue
+
+            matches = parse_openfootball_results(content)
+
+            for match in matches:
+                home = resolve(league, match["home"])
+                away = resolve(league, match["away"])
+
+                if not home or not away:
+                    unmatched_results.append({
+                        "league": league,
+                        "date": match["date"],
+                        "home": match["home"],
+                        "away": match["away"],
+                        "issue": "UNMATCHED_RESULT_TEAM"
+                    })
+                    continue
+
+                history.append({
+                    "league": league,
+                    "source_season": season.replace("-", "/"),
+                    "date": match["date"],
+                    "home_team": home,
+                    "away_team": away,
+                    "home_goals": match["home_goals"],
+                    "away_goals": match["away_goals"]
+                })
+
+                uefa_history_count += 1
+
+    print(f"UEFA historical matches imported: {uefa_history_count}")
+    print(f"UEFA files missing: {uefa_missing_files}")
     for league,(folder, source_name) in LEAGUES.items():
         url=f"{BASE}/{folder}/results_{SEASON}.csv"
         results=fetch_csv(url)
