@@ -272,7 +272,7 @@ def main():
 
     print(f"UEFA historical matches imported: {uefa_history_count}")
     print(f"UEFA files missing: {uefa_missing_files}")
-        # Audit missing UEFA team aliases
+    # Audit missing UEFA team aliases
     uefa_missing_aliases = set()
 
     for season, competitions in UEFA_HISTORY_FILES.items():
