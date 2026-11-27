@@ -21,8 +21,8 @@ DATA_FOLDER = ANDROID_FOLDER if ANDROID_FOLDER.exists() else SCRIPT_FOLDER
 HISTORY_FILE = DATA_FOLDER / "live_v7_combined_history.csv"
 ALIASES_FILE = DATA_FOLDER / "live_v7_team_aliases.csv"
 FIXTURES_FILE = DATA_FOLDER / "upcoming_fixtures.csv"
-PREDICTIONS_FILE = DATA_FOLDER / "v7_live_predictions.csv"
-ELIGIBILITY_FILE = DATA_FOLDER / "v7_fixture_eligibility_report.csv"
+PREDICTIONS_FILE = DATA_FOLDER / "v7_live_predictions_domestic_test.csv"
+ELIGIBILITY_FILE = DATA_FOLDER / "v7_fixture_eligibility_domestic_test.csv"
 
 sys.path.insert(0, str(DATA_FOLDER))
 import backtest_engine as v7
