@@ -126,6 +126,37 @@ def main():
     matches_by_league = defaultdict(list)
     for match in matches:
         matches_by_league[match["league"]].append(match)
+        
+    # UEFA competitions are kept separate from domestic competitions.
+    UEFA_LEAGUES = {
+        "UEFA Champions League",
+        "UEFA Europa League",
+        "UEFA Conference League"
+    }
+
+    # Index verified domestic home and away records by canonical team.
+    domestic_home_matches = defaultdict(list)
+    domestic_away_matches = defaultdict(list)
+
+    for match in matches:
+        domestic_league = match["league"]
+
+        if domestic_league in UEFA_LEAGUES:
+            continue
+
+        domestic_home = resolve_team(
+            domestic_league, match["home"], aliases
+        )
+        domestic_away = resolve_team(
+            domestic_league, match["away"], aliases
+        )
+
+        if domestic_home:
+            domestic_home_matches[domestic_home].append(match)
+
+        if domestic_away:
+            domestic_away_matches[domestic_away].append(match)
+       
 
     prediction_rows = []
     eligibility_rows = []
@@ -161,6 +192,25 @@ def main():
         history = v7.new_history()
         for match in history_matches:
             v7.add_match(history, match)
+                   # Add verified domestic home records to the home team's
+        # statistics only. Do not add them to UEFA league averages.
+        if league in UEFA_LEAGUES and home:
+            for match in domestic_home_matches[home]:
+                if match["date"] < fixture_date:
+                    team = history["teams"][home]
+                    team["home_played"] += 1
+                    team["home_scored"] += match["hg"]
+                    team["home_conceded"] += match["ag"]
+
+        # Add verified domestic away records to the away team's
+        # statistics only. Do not add them to UEFA league averages.
+       if league in UEFA_LEAGUES and away:
+            for match in domestic_away_matches[away]:
+                if match["date"] < fixture_date:
+                    team = history["teams"][away]
+                    team["away_played"] += 1
+                    team["away_scored"] += match["ag"]
+                    team["away_conceded"] += match["hg"] 
 
         home_played = history["teams"][home]["home_played"] if home else 0
         away_played = history["teams"][away]["away_played"] if away else 0
