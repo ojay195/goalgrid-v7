@@ -273,7 +273,7 @@ def main():
     print(f"UEFA historical matches imported: {uefa_history_count}")
     print(f"UEFA files missing: {uefa_missing_files}")
     
-    # Audit missing UEFA team aliases and suggest existing canonical names
+    # Audit missing UEFA team aliases using existing aliases first
     uefa_missing_aliases = set()
 
     for season, competitions in UEFA_HISTORY_FILES.items():
@@ -289,13 +289,31 @@ def main():
                     if not resolve(league, team):
                         uefa_missing_aliases.add((league, team))
 
-    # Build a lookup of existing canonical team names
+    # Conservative matching key: remove accents and punctuation,
+    # but preserve meaningful words such as FC, BC and AC.
+    def safe_team_key(name):
+        value = unicodedata.normalize(
+            "NFKD", str(name or "").strip().lower()
+        )
+        value = "".join(
+            ch for ch in value if not unicodedata.combining(ch)
+        )
+        value = re.sub(r"[^a-z0-9]+", " ", value)
+        return " ".join(value.split())
+
+    # Index existing aliases and their canonical team names
+    alias_index = {}
     canonical_index = {}
 
     for (existing_league, existing_alias), canonical in aliases.items():
-        key = norm(canonical)
-        if key:
-            canonical_index.setdefault(key, set()).add(canonical)
+        alias_key = safe_team_key(existing_alias)
+        canonical_key = safe_team_key(canonical)
+
+        if alias_key:
+            alias_index.setdefault(alias_key, set()).add(canonical)
+
+        if canonical_key:
+            canonical_index.setdefault(canonical_key, set()).add(canonical)
 
     audit_path = ROOT / "uefa_missing_aliases.csv"
 
@@ -310,7 +328,14 @@ def main():
         ])
 
         for league, team in sorted(uefa_missing_aliases):
-            candidates = canonical_index.get(norm(team), set())
+            key = safe_team_key(team)
+
+            # Existing alias mappings take priority
+            candidates = alias_index.get(key, set())
+
+            # If no alias exists, check exact canonical names
+            if not candidates:
+                candidates = canonical_index.get(key, set())
 
             if len(candidates) == 1:
                 canonical = next(iter(candidates))
@@ -331,6 +356,8 @@ def main():
     print(f"Unique suggestions: {suggested_count}")
     print(f"Ambiguous names: {ambiguous_count}")
     print(f"No matches: {no_match_count}")
+
+    
     for league,(folder, source_name) in LEAGUES.items():
         url=f"{BASE}/{folder}/results_{SEASON}.csv"
         results=fetch_csv(url)
