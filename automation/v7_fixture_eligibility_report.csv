@@ -1,5 +1,4 @@
 league,date,home,away,canonical_home_team,canonical_away_team,home_matches_before_fixture,away_matches_before_fixture,status,same_date_results_excluded
-Premier League,2026-11-27T20:00:00Z,Nott'm Forest,Chelsea,Nottingham Forest FC,Chelsea FC,24,24,READY,YES
 Premier League,2026-11-28T15:00:00Z,Leeds,Coventry,Leeds United FC,Coventry,24,5,READY,YES
 Premier League,2026-11-28T15:00:00Z,Man Utd,Brentford,Manchester United FC,Brentford FC,24,24,READY,YES
 Premier League,2026-11-28T17:30:00Z,Ipswich,Aston Villa,Ipswich,Aston Villa FC,5,24,READY,YES
@@ -269,7 +268,6 @@ Premier League,2027-05-30T15:00:00Z,Ipswich,Everton,Ipswich,Everton FC,5,25,READ
 Premier League,2027-05-30T15:00:00Z,Liverpool,Bournemouth,Liverpool FC,AFC Bournemouth,25,24,READY,YES
 Premier League,2027-05-30T15:00:00Z,Man Utd,Fulham,Manchester United FC,Fulham FC,24,25,READY,YES
 Premier League,2027-05-30T15:00:00Z,Sunderland,Man City,Sunderland AFC,Manchester City FC,24,24,READY,YES
-La Liga,2026-11-27T20:00:00Z,Levante UD,R. Racing Club,Levante UD,R. Racing Club,25,6,READY,YES
 La Liga,2026-11-28T13:00:00Z,Real Betis,Rayo Vallecano,Real Betis Balompié,Rayo Vallecano de Madrid,25,25,READY,YES
 La Liga,2026-11-28T15:15:00Z,Málaga CF,Athletic Club,Málaga CF,Athletic Club,6,24,READY,YES
 La Liga,2026-11-28T17:30:00Z,Elche CF,Atlético de Madrid,Elche CF,Club Atlético de Madrid,25,26,READY,YES
@@ -520,7 +518,6 @@ La Liga,2027-05-30T00:00:00Z,RCD Espanyol de Barcelona,Deportivo Alavés,RCD Esp
 La Liga,2027-05-30T00:00:00Z,Real Betis,Atlético de Madrid,Real Betis Balompié,Club Atlético de Madrid,25,26,READY,YES
 La Liga,2027-05-30T00:00:00Z,Real Madrid,RC Deportivo,Real Madrid CF,RC Deportivo,25,7,READY,YES
 La Liga,2027-05-30T00:00:00Z,Real Sociedad,Villarreal CF,Real Sociedad de Fútbol,Villarreal CF,25,26,READY,YES
-Bundesliga,2026-11-27T19:30:00Z,SV Werder Bremen,Borussia Mönchengladbach,SV Werder Bremen,Borussia Mönchengladbach,22,22,READY,YES
 Bundesliga,2026-11-28T14:30:00Z,1. FC Köln,SV 07 Elversberg,1. FC Köln,SV 07 Elversberg,22,5,READY,YES
 Bundesliga,2026-11-28T14:30:00Z,1. FSV Mainz 05,1. FC Union Berlin,1. FSV Mainz 05,1. FC Union Berlin,22,21,READY,YES
 Bundesliga,2026-11-28T14:30:00Z,Hamburger SV,FC Bayern München,Hamburger SV,FC Bayern München,21,22,READY,YES
@@ -736,7 +733,6 @@ Bundesliga,2027-05-22T13:30:00Z,FC Schalke 04,Bayer 04 Leverkusen,FC Schalke 04,
 Bundesliga,2027-05-22T13:30:00Z,RB Leipzig,TSG Hoffenheim,RB Leipzig,TSG 1899 Hoffenheim,22,22,READY,YES
 Bundesliga,2027-05-22T13:30:00Z,SC Freiburg,Borussia Dortmund,SC Freiburg,Borussia Dortmund,22,22,READY,YES
 Bundesliga,2027-05-22T13:30:00Z,SV 07 Elversberg,SV Werder Bremen,SV 07 Elversberg,SV Werder Bremen,5,22,READY,YES
-Serie A,2026-11-27T19:45:00Z,Venezia,Bologna,Venezia,Bologna FC 1909,6,25,READY,YES
 Serie A,2026-11-28T14:00:00Z,Frosinone,Parma,Frosinone,Parma Calcio 1913,6,24,READY,YES
 Serie A,2026-11-28T17:00:00Z,Torino,Lazio,Torino FC,SS Lazio,25,25,READY,YES
 Serie A,2026-11-28T19:45:00Z,Internazionale,Genoa,FC Internazionale Milano,Genoa CFC,25,24,READY,YES
@@ -996,7 +992,6 @@ Serie A,2027-05-30T00:00:00Z,Milan,Udinese,AC Milan,Udinese Calcio,25,25,READY,Y
 Serie A,2027-05-30T00:00:00Z,Monza,Torino,Monza,Torino FC,6,25,READY,YES
 Serie A,2027-05-30T00:00:00Z,Napoli,Atalanta,SSC Napoli,Atalanta BC,25,24,READY,YES
 Serie A,2027-05-30T00:00:00Z,Sassuolo,Internazionale,US Sassuolo Calcio,FC Internazionale Milano,25,25,READY,YES
-Ligue 1,2026-11-27T19:45:00Z,Stade Brestois 29,Paris FC,Stade Brestois 29,Paris FC,22,22,READY,YES
 Ligue 1,2026-11-28T16:15:00Z,Angers SCO,RC Lens,Angers SCO,Racing Club de Lens,23,22,READY,YES
 Ligue 1,2026-11-28T19:45:00Z,Havre Athletic Club,RC Strasbourg Alsace,Le Havre AC,RC Strasbourg Alsace,23,23,READY,YES
 Ligue 1,2026-11-28T19:45:00Z,Le Mans FC,LOSC Lille,Le Mans FC,Lille OSC,5,22,READY,YES
@@ -1203,7 +1198,6 @@ Ligue 1,2027-05-28T22:00:00Z,Paris Saint-Germain,Toulouse FC,Paris Saint-Germain
 Ligue 1,2027-05-28T22:00:00Z,RC Strasbourg Alsace,OGC Nice,RC Strasbourg Alsace,OGC Nice,22,22,READY,YES
 Ligue 1,2027-05-28T22:00:00Z,Stade Brestois 29,RC Lens,Stade Brestois 29,Racing Club de Lens,22,22,READY,YES
 Ligue 1,2027-05-28T22:00:00Z,Stade Rennais FC,Angers SCO,Stade Rennais FC 1901,Angers SCO,23,22,READY,YES
-Eredivisie,2026-11-27T19:00:00Z,FC Groningen,Willem II,FC Groningen,Willem II,24,7,READY,YES
 Eredivisie,2026-11-28T15:30:00Z,Excelsior Rotterdam,Telstar,SBV Excelsior,Telstar 1963,23,23,READY,YES
 Eredivisie,2026-11-28T17:45:00Z,PSV,Go Ahead Eagles,PSV,Go Ahead Eagles,23,24,READY,YES
 Eredivisie,2026-11-28T20:00:00Z,SC Cambuur,Sparta Rotterdam,SC Cambuur,Sparta Rotterdam,7,23,READY,YES
@@ -1392,7 +1386,6 @@ Eredivisie,2027-05-23T12:30:00Z,Sparta Rotterdam,Fortuna Sittard,Sparta Rotterda
 Eredivisie,2027-05-23T12:30:00Z,Telstar,Excelsior Rotterdam,Telstar 1963,SBV Excelsior,24,24,READY,YES
 Eredivisie,2027-05-23T12:30:00Z,Willem II,Go Ahead Eagles,Willem II,Go Ahead Eagles,6,24,READY,YES
 Eredivisie,2027-05-23T12:30:00Z,sc Heerenveen,PSV,SC Heerenveen,PSV,24,24,READY,YES
-Primeira Liga,2026-11-27T20:15:00Z,Marítimo M.,CD Nacional,Marítimo M.,CD Nacional,5,22,READY,YES
 Primeira Liga,2026-11-28T15:30:00Z,FC Arouca,Rio Ave FC,FC Arouca,Rio Ave FC,22,22,READY,YES
 Primeira Liga,2026-11-28T15:30:00Z,Moreirense FC,Santa Clara,Moreirense FC,CD Santa Clara,22,22,READY,YES
 Primeira Liga,2026-11-28T18:00:00Z,Académico,FC Alverca,Académico,FC Alverca,5,22,READY,YES
@@ -1600,7 +1593,6 @@ Primeira Liga,2027-05-14T23:00:00Z,Moreirense FC,Rio Ave FC,Moreirense FC,Rio Av
 Primeira Liga,2027-05-14T23:00:00Z,SL Benfica,FC Arouca,Sport Lisboa e Benfica,FC Arouca,22,23,READY,YES
 Primeira Liga,2027-05-14T23:00:00Z,Santa Clara,Sporting CP,CD Santa Clara,Sporting Clube de Portugal,23,22,READY,YES
 Primeira Liga,2027-05-14T23:00:00Z,Vitória SC,FC Famalicão,Vitória SC,FC Famalicão,23,23,READY,YES
-English Championship,2026-11-27T20:00:00Z,Southampton,Middlesbrough,Southampton FC,Middlesbrough FC,32,33,READY,YES
 English Championship,2026-11-28T12:30:00Z,Blackburn Rovers,Charlton Athletic,Blackburn Rovers FC,Charlton Athletic FC,31,31,READY,YES
 English Championship,2026-11-28T12:30:00Z,Lincoln City,Wolverhampton Wanderers,Lincoln City,Wolverhampton Wanderers,8,8,READY,YES
 English Championship,2026-11-28T12:30:00Z,Preston North End,Norwich City,Preston North End FC,Norwich City FC,31,31,READY,YES
@@ -1948,8 +1940,8 @@ English Championship,2027-05-01T11:30:00Z,Swansea City,Middlesbrough,Swansea Cit
 English Championship,2027-05-01T11:30:00Z,West Bromwich Albion,Bolton Wanderers,West Bromwich Albion FC,Bolton Wanderers,31,8,READY,YES
 English Championship,2027-05-01T11:30:00Z,West Ham United,Portsmouth,West Ham United,Portsmouth FC,8,31,READY,YES
 English Championship,2027-05-01T11:30:00Z,Wrexham,Bristol City,Wrexham AFC,Bristol City FC,31,31,READY,YES
-UEFA Champions League,2026-12-08T17:45:00Z,Viking,Feyenoord,Viking,Feyenoord,2,2,INSUFFICIENT_HISTORY,YES
-UEFA Champions League,2026-12-08T17:45:00Z,Villarreal,Sabah,Villarreal,Sabah,4,2,INSUFFICIENT_HISTORY,YES
+UEFA Champions League,2026-12-08T17:45:00Z,Viking,Feyenoord,Viking,Feyenoord Rotterdam,2,2,INSUFFICIENT_HISTORY,YES
+UEFA Champions League,2026-12-08T17:45:00Z,Villarreal,Sabah,Villarreal,Sabah,5,2,INSUFFICIENT_HISTORY,YES
 UEFA Champions League,2026-12-08T20:00:00Z,AEK Athens,Galatasaray,AEK Athens,Galatasaray,2,2,INSUFFICIENT_HISTORY,YES
 UEFA Champions League,2026-12-08T20:00:00Z,Aston Villa,Paris,Aston Villa,Paris,3,2,INSUFFICIENT_HISTORY,YES
 UEFA Champions League,2026-12-08T20:00:00Z,Barcelona,Man City,Barcelona,Man City,8,2,INSUFFICIENT_HISTORY,YES
@@ -1959,23 +1951,23 @@ UEFA Champions League,2026-12-08T20:00:00Z,Napoli,Club Brugge,Napoli,Club Brugge
 UEFA Champions League,2026-12-08T20:00:00Z,Roma,Sporting CP,Roma,Sporting CP,2,2,INSUFFICIENT_HISTORY,YES
 UEFA Champions League,2026-12-09T17:45:00Z,Real Betis,Como,Real Betis,Como,2,2,INSUFFICIENT_HISTORY,YES
 UEFA Champions League,2026-12-09T17:45:00Z,S. Bratislava,Shakhtar,S. Bratislava,Shakhtar,2,2,INSUFFICIENT_HISTORY,YES
-UEFA Champions League,2026-12-09T20:00:00Z,Arsenal,Real Madrid,Arsenal,Real Madrid,7,13,READY,YES
+UEFA Champions League,2026-12-09T20:00:00Z,Arsenal,Real Madrid,Arsenal,Real Madrid,7,14,READY,YES
 UEFA Champions League,2026-12-09T20:00:00Z,B. Dortmund,Inter,B. Dortmund,Inter,2,8,INSUFFICIENT_HISTORY,YES
 UEFA Champions League,2026-12-09T20:00:00Z,LASK,Fenerbahçe,LASK,Fenerbahçe,2,2,INSUFFICIENT_HISTORY,YES
 UEFA Champions League,2026-12-09T20:00:00Z,Lens,Bodø/Glimt,Lens,Bodø/Glimt,2,2,INSUFFICIENT_HISTORY,YES
-UEFA Champions League,2026-12-09T20:00:00Z,Liverpool,Porto,Liverpool,Porto,12,5,READY,YES
+UEFA Champions League,2026-12-09T20:00:00Z,Liverpool,Porto,Liverpool,Porto,13,5,READY,YES
 UEFA Champions League,2026-12-09T20:00:00Z,PSV,Atleti,PSV,Atleti,7,2,INSUFFICIENT_HISTORY,YES
 UEFA Champions League,2026-12-09T20:00:00Z,Stuttgart,Lille,Stuttgart,Lille,2,2,INSUFFICIENT_HISTORY,YES
 UEFA Champions League,2027-01-19T17:45:00Z,Bodø/Glimt,Atleti,Bodø/Glimt,Atleti,3,2,INSUFFICIENT_HISTORY,YES
-UEFA Champions League,2027-01-19T17:45:00Z,Galatasaray,Feyenoord,Galatasaray,Feyenoord,3,2,INSUFFICIENT_HISTORY,YES
+UEFA Champions League,2027-01-19T17:45:00Z,Galatasaray,Feyenoord,Galatasaray,Feyenoord Rotterdam,3,2,INSUFFICIENT_HISTORY,YES
 UEFA Champions League,2027-01-19T20:00:00Z,AEK Athens,Roma,AEK Athens,Roma,2,3,INSUFFICIENT_HISTORY,YES
 UEFA Champions League,2027-01-19T20:00:00Z,Aston Villa,B. Dortmund,Aston Villa,B. Dortmund,3,3,INSUFFICIENT_HISTORY,YES
-UEFA Champions League,2027-01-19T20:00:00Z,Inter,Liverpool,Inter,Liverpool,9,10,READY,YES
+UEFA Champions League,2027-01-19T20:00:00Z,Inter,Liverpool,Inter,Liverpool,9,11,READY,YES
 UEFA Champions League,2027-01-19T20:00:00Z,Lille,S. Bratislava,Lille,S. Bratislava,3,3,INSUFFICIENT_HISTORY,YES
 UEFA Champions League,2027-01-19T20:00:00Z,Porto,Slavia Praha,Porto,Slavia Praha,7,2,INSUFFICIENT_HISTORY,YES
-UEFA Champions League,2027-01-19T20:00:00Z,Real Madrid,LASK,Real Madrid,LASK,12,3,INSUFFICIENT_HISTORY,YES
+UEFA Champions League,2027-01-19T20:00:00Z,Real Madrid,LASK,Real Madrid,LASK,13,3,INSUFFICIENT_HISTORY,YES
 UEFA Champions League,2027-01-19T20:00:00Z,Stuttgart,Club Brugge,Stuttgart,Club Brugge,2,2,INSUFFICIENT_HISTORY,YES
-UEFA Champions League,2027-01-20T17:45:00Z,Fenerbahçe,Villarreal,Fenerbahçe,Villarreal,3,5,INSUFFICIENT_HISTORY,YES
+UEFA Champions League,2027-01-20T17:45:00Z,Fenerbahçe,Villarreal,Fenerbahçe,Villarreal,3,6,INSUFFICIENT_HISTORY,YES
 UEFA Champions League,2027-01-20T17:45:00Z,Sabah,Napoli,Sabah,Napoli,3,7,INSUFFICIENT_HISTORY,YES
 UEFA Champions League,2027-01-20T20:00:00Z,Como,Paris,Como,Paris,3,2,INSUFFICIENT_HISTORY,YES
 UEFA Champions League,2027-01-20T20:00:00Z,Leipzig,Shakhtar,Leipzig,Shakhtar,3,2,INSUFFICIENT_HISTORY,YES
@@ -1990,109 +1982,108 @@ UEFA Champions League,2027-01-27T20:00:00Z,B. Dortmund,AEK Athens,B. Dortmund,AE
 UEFA Champions League,2027-01-27T20:00:00Z,Barcelona,Como,Barcelona,Como,8,2,INSUFFICIENT_HISTORY,YES
 UEFA Champions League,2027-01-27T20:00:00Z,Bayern München,Real Betis,Bayern München,Real Betis,9,3,INSUFFICIENT_HISTORY,YES
 UEFA Champions League,2027-01-27T20:00:00Z,Club Brugge,Bodø/Glimt,Club Brugge,Bodø/Glimt,3,2,INSUFFICIENT_HISTORY,YES
-UEFA Champions League,2027-01-27T20:00:00Z,Feyenoord,Leipzig,Feyenoord,Leipzig,3,2,INSUFFICIENT_HISTORY,YES
+UEFA Champions League,2027-01-27T20:00:00Z,Feyenoord,Leipzig,Feyenoord Rotterdam,Leipzig,3,2,INSUFFICIENT_HISTORY,YES
 UEFA Champions League,2027-01-27T20:00:00Z,LASK,Porto,LASK,Porto,2,5,INSUFFICIENT_HISTORY,YES
-UEFA Champions League,2027-01-27T20:00:00Z,Liverpool,Lens,Liverpool,Lens,12,3,INSUFFICIENT_HISTORY,YES
+UEFA Champions League,2027-01-27T20:00:00Z,Liverpool,Lens,Liverpool,Lens,13,3,INSUFFICIENT_HISTORY,YES
 UEFA Champions League,2027-01-27T20:00:00Z,Man City,Sporting CP,Man City,Sporting CP,3,2,INSUFFICIENT_HISTORY,YES
 UEFA Champions League,2027-01-27T20:00:00Z,Napoli,Viking,Napoli,Viking,5,3,INSUFFICIENT_HISTORY,YES
 UEFA Champions League,2027-01-27T20:00:00Z,PSV,Stuttgart,PSV,Stuttgart,7,4,INSUFFICIENT_HISTORY,YES
 UEFA Champions League,2027-01-27T20:00:00Z,Paris,Galatasaray,Paris,Galatasaray,3,2,INSUFFICIENT_HISTORY,YES
 UEFA Champions League,2027-01-27T20:00:00Z,Roma,Lille,Roma,Lille,2,2,INSUFFICIENT_HISTORY,YES
 UEFA Champions League,2027-01-27T20:00:00Z,S. Bratislava,Inter,S. Bratislava,Inter,2,8,INSUFFICIENT_HISTORY,YES
-UEFA Champions League,2027-01-27T20:00:00Z,Shakhtar,Real Madrid,Shakhtar,Real Madrid,3,13,INSUFFICIENT_HISTORY,YES
+UEFA Champions League,2027-01-27T20:00:00Z,Shakhtar,Real Madrid,Shakhtar,Real Madrid,3,14,INSUFFICIENT_HISTORY,YES
 UEFA Champions League,2027-01-27T20:00:00Z,Slavia Praha,Aston Villa,Slavia Praha,Aston Villa,3,3,INSUFFICIENT_HISTORY,YES
-UEFA Champions League,2027-01-27T20:00:00Z,Villarreal,Man Utd,Villarreal,Man Utd,4,3,INSUFFICIENT_HISTORY,YES
-UEFA Europa League,2026-12-10T17:45:00Z,AZ Alkmaar,Sturm Graz,AZ Alkmaar,Sturm Graz,3,2,INSUFFICIENT_HISTORY,YES
+UEFA Champions League,2027-01-27T20:00:00Z,Villarreal,Man Utd,Villarreal,Man Utd,5,3,INSUFFICIENT_HISTORY,YES
+UEFA Europa League,2026-12-10T17:45:00Z,AZ Alkmaar,Sturm Graz,AZ Alkmaar,Sturm Graz,3,4,INSUFFICIENT_HISTORY,YES
 UEFA Europa League,2026-12-10T17:45:00Z,Anderlecht,Hoffenheim,Anderlecht,Hoffenheim,2,2,INSUFFICIENT_HISTORY,YES
 UEFA Europa League,2026-12-10T17:45:00Z,Ararat-Armenia,N.E.C.,Ararat-Armenia,N.E.C.,2,2,INSUFFICIENT_HISTORY,YES
 UEFA Europa League,2026-12-10T17:45:00Z,Celje,Olympiacos,Celje,Olympiacos,2,2,INSUFFICIENT_HISTORY,YES
 UEFA Europa League,2026-12-10T17:45:00Z,H. Beer-Sheva,Juventus,H. Beer-Sheva,Juventus,2,2,INSUFFICIENT_HISTORY,YES
 UEFA Europa League,2026-12-10T17:45:00Z,Jagiellonia,Crystal Palace,Jagiellonia,Crystal Palace,2,2,INSUFFICIENT_HISTORY,YES
-UEFA Europa League,2026-12-10T17:45:00Z,Marseille,Celta,Marseille,Celta,1,2,INSUFFICIENT_HISTORY,YES
-UEFA Europa League,2026-12-10T17:45:00Z,Omonia,Celtic,Omonia,Celtic,2,1,INSUFFICIENT_HISTORY,YES
+UEFA Europa League,2026-12-10T17:45:00Z,Marseille,Celta,Marseille,Celta,2,2,INSUFFICIENT_HISTORY,YES
+UEFA Europa League,2026-12-10T17:45:00Z,Omonia,Celtic,Omonia,Celtic,2,2,INSUFFICIENT_HISTORY,YES
 UEFA Europa League,2026-12-10T17:45:00Z,Rennes,GNK Dinamo,Rennes,GNK Dinamo,2,2,INSUFFICIENT_HISTORY,YES
 UEFA Europa League,2026-12-10T20:00:00Z,Benfica,OFI Crete,Benfica,OFI Crete,2,2,INSUFFICIENT_HISTORY,YES
 UEFA Europa League,2026-12-10T20:00:00Z,Bournemouth,Viktoria Plzen,Bournemouth,Viktoria Plzen,2,2,INSUFFICIENT_HISTORY,YES
 UEFA Europa League,2026-12-10T20:00:00Z,Lech Poznan,Ferencváros,Lech Poznan,Ferencváros,2,2,INSUFFICIENT_HISTORY,YES
 UEFA Europa League,2026-12-10T20:00:00Z,Leverkusen,Besiktas,Leverkusen,Besiktas,2,2,INSUFFICIENT_HISTORY,YES
-UEFA Europa League,2026-12-10T20:00:00Z,Levski Sofia,Lillestrøm,Levski Sofia,Lillestrøm,2,1,INSUFFICIENT_HISTORY,YES
-UEFA Europa League,2026-12-10T20:00:00Z,Lyon,Union SG,Lyon,Union SG,1,2,INSUFFICIENT_HISTORY,YES
+UEFA Europa League,2026-12-10T20:00:00Z,Levski Sofia,Lillestrøm,Levski Sofia,Lillestrøm,2,2,INSUFFICIENT_HISTORY,YES
+UEFA Europa League,2026-12-10T20:00:00Z,Lyon,Union SG,Lyon,Union SG,2,2,INSUFFICIENT_HISTORY,YES
 UEFA Europa League,2026-12-10T20:00:00Z,Milan,Sunderland,Milan,Sunderland,2,2,INSUFFICIENT_HISTORY,YES
 UEFA Europa League,2026-12-10T20:00:00Z,Real Sociedad,Torreense,Real Sociedad,Torreense,4,2,INSUFFICIENT_HISTORY,YES
-UEFA Europa League,2026-12-10T20:00:00Z,Salzburg,Sparta Praha,Salzburg,Sparta Praha,1,2,INSUFFICIENT_HISTORY,YES
-UEFA Europa League,2027-01-21T17:45:00Z,Ararat-Armenia,Celje,Ararat-Armenia,Celje,2,2,INSUFFICIENT_HISTORY,YES
-UEFA Europa League,2027-01-21T17:45:00Z,Besiktas,Union SG,Besiktas,Union SG,2,2,INSUFFICIENT_HISTORY,YES
-UEFA Europa League,2027-01-21T17:45:00Z,Ferencváros,Juventus,Ferencváros,Juventus,2,2,INSUFFICIENT_HISTORY,YES
+UEFA Europa League,2026-12-10T20:00:00Z,Salzburg,Sparta Praha,Salzburg,Sparta Praha,2,2,INSUFFICIENT_HISTORY,YES
+UEFA Europa League,2027-01-21T17:45:00Z,Ararat-Armenia,Celje,Ararat-Armenia,Celje,2,3,INSUFFICIENT_HISTORY,YES
+UEFA Europa League,2027-01-21T17:45:00Z,Besiktas,Union SG,Besiktas,Union SG,3,2,INSUFFICIENT_HISTORY,YES
+UEFA Europa League,2027-01-21T17:45:00Z,Ferencváros,Juventus,Ferencváros,Juventus,3,2,INSUFFICIENT_HISTORY,YES
 UEFA Europa League,2027-01-21T17:45:00Z,Jagiellonia,Lyon,Jagiellonia,Lyon,2,3,INSUFFICIENT_HISTORY,YES
-UEFA Europa League,2027-01-21T17:45:00Z,Lillestrøm,Bournemouth,Lillestrøm,Bournemouth,3,2,INSUFFICIENT_HISTORY,YES
-UEFA Europa League,2027-01-21T17:45:00Z,N.E.C.,Benfica,N.E.C.,Benfica,2,2,INSUFFICIENT_HISTORY,YES
-UEFA Europa League,2027-01-21T17:45:00Z,Olympiacos,Hoffenheim,Olympiacos,Hoffenheim,2,2,INSUFFICIENT_HISTORY,YES
+UEFA Europa League,2027-01-21T17:45:00Z,Lillestrøm,Bournemouth,Lillestrøm,Bournemouth,3,3,INSUFFICIENT_HISTORY,YES
+UEFA Europa League,2027-01-21T17:45:00Z,N.E.C.,Benfica,N.E.C.,Benfica,3,3,INSUFFICIENT_HISTORY,YES
+UEFA Europa League,2027-01-21T17:45:00Z,Olympiacos,Hoffenheim,Olympiacos,Hoffenheim,3,2,INSUFFICIENT_HISTORY,YES
 UEFA Europa League,2027-01-21T17:45:00Z,Real Sociedad,Viktoria Plzen,Real Sociedad,Viktoria Plzen,4,2,INSUFFICIENT_HISTORY,YES
-UEFA Europa League,2027-01-21T17:45:00Z,Sturm Graz,OFI Crete,Sturm Graz,OFI Crete,4,2,INSUFFICIENT_HISTORY,YES
+UEFA Europa League,2027-01-21T17:45:00Z,Sturm Graz,OFI Crete,Sturm Graz,OFI Crete,5,2,INSUFFICIENT_HISTORY,YES
 UEFA Europa League,2027-01-21T20:00:00Z,AZ Alkmaar,GNK Dinamo,AZ Alkmaar,GNK Dinamo,3,2,INSUFFICIENT_HISTORY,YES
 UEFA Europa League,2027-01-21T20:00:00Z,Anderlecht,Sunderland,Anderlecht,Sunderland,2,2,INSUFFICIENT_HISTORY,YES
 UEFA Europa League,2027-01-21T20:00:00Z,Celtic,Marseille,Celtic,Marseille,3,3,INSUFFICIENT_HISTORY,YES
-UEFA Europa League,2027-01-21T20:00:00Z,Crystal Palace,Sparta Praha,Crystal Palace,Sparta Praha,2,2,INSUFFICIENT_HISTORY,YES
+UEFA Europa League,2027-01-21T20:00:00Z,Crystal Palace,Sparta Praha,Crystal Palace,Sparta Praha,3,2,INSUFFICIENT_HISTORY,YES
 UEFA Europa League,2027-01-21T20:00:00Z,H. Beer-Sheva,Celta,H. Beer-Sheva,Celta,2,2,INSUFFICIENT_HISTORY,YES
 UEFA Europa League,2027-01-21T20:00:00Z,Lech Poznan,Torreense,Lech Poznan,Torreense,2,2,INSUFFICIENT_HISTORY,YES
 UEFA Europa League,2027-01-21T20:00:00Z,Leverkusen,Salzburg,Leverkusen,Salzburg,2,3,INSUFFICIENT_HISTORY,YES
-UEFA Europa League,2027-01-21T20:00:00Z,Levski Sofia,Milan,Levski Sofia,Milan,2,2,INSUFFICIENT_HISTORY,YES
-UEFA Europa League,2027-01-21T20:00:00Z,Rennes,Omonia,Rennes,Omonia,2,2,INSUFFICIENT_HISTORY,YES
-UEFA Europa League,2027-01-28T20:00:00Z,Benfica,AZ Alkmaar,Benfica,AZ Alkmaar,2,3,INSUFFICIENT_HISTORY,YES
-UEFA Europa League,2027-01-28T20:00:00Z,Bournemouth,H. Beer-Sheva,Bournemouth,H. Beer-Sheva,2,2,INSUFFICIENT_HISTORY,YES
+UEFA Europa League,2027-01-21T20:00:00Z,Levski Sofia,Milan,Levski Sofia,Milan,2,3,INSUFFICIENT_HISTORY,YES
+UEFA Europa League,2027-01-21T20:00:00Z,Rennes,Omonia,Rennes,Omonia,2,3,INSUFFICIENT_HISTORY,YES
+UEFA Europa League,2027-01-28T20:00:00Z,Benfica,AZ Alkmaar,Benfica,AZ Alkmaar,2,4,INSUFFICIENT_HISTORY,YES
+UEFA Europa League,2027-01-28T20:00:00Z,Bournemouth,H. Beer-Sheva,Bournemouth,H. Beer-Sheva,2,3,INSUFFICIENT_HISTORY,YES
 UEFA Europa League,2027-01-28T20:00:00Z,Celje,N.E.C.,Celje,N.E.C.,2,2,INSUFFICIENT_HISTORY,YES
-UEFA Europa League,2027-01-28T20:00:00Z,Celta,Lillestrøm,Celta,Lillestrøm,2,1,INSUFFICIENT_HISTORY,YES
-UEFA Europa League,2027-01-28T20:00:00Z,GNK Dinamo,Sturm Graz,GNK Dinamo,Sturm Graz,2,2,INSUFFICIENT_HISTORY,YES
-UEFA Europa League,2027-01-28T20:00:00Z,Hoffenheim,Ferencváros,Hoffenheim,Ferencváros,2,2,INSUFFICIENT_HISTORY,YES
-UEFA Europa League,2027-01-28T20:00:00Z,Juventus,Real Sociedad,Juventus,Real Sociedad,2,5,INSUFFICIENT_HISTORY,YES
-UEFA Europa League,2027-01-28T20:00:00Z,Lyon,Leverkusen,Lyon,Leverkusen,1,2,INSUFFICIENT_HISTORY,YES
-UEFA Europa League,2027-01-28T20:00:00Z,Marseille,Anderlecht,Marseille,Anderlecht,1,2,INSUFFICIENT_HISTORY,YES
-UEFA Europa League,2027-01-28T20:00:00Z,Milan,Ararat-Armenia,Milan,Ararat-Armenia,2,2,INSUFFICIENT_HISTORY,YES
-UEFA Europa League,2027-01-28T20:00:00Z,OFI Crete,Lech Poznan,OFI Crete,Lech Poznan,2,2,INSUFFICIENT_HISTORY,YES
+UEFA Europa League,2027-01-28T20:00:00Z,Celta,Lillestrøm,Celta,Lillestrøm,3,2,INSUFFICIENT_HISTORY,YES
+UEFA Europa League,2027-01-28T20:00:00Z,GNK Dinamo,Sturm Graz,GNK Dinamo,Sturm Graz,3,4,INSUFFICIENT_HISTORY,YES
+UEFA Europa League,2027-01-28T20:00:00Z,Hoffenheim,Ferencváros,Hoffenheim,Ferencváros,3,2,INSUFFICIENT_HISTORY,YES
+UEFA Europa League,2027-01-28T20:00:00Z,Juventus,Real Sociedad,Juventus,Real Sociedad,3,6,INSUFFICIENT_HISTORY,YES
+UEFA Europa League,2027-01-28T20:00:00Z,Lyon,Leverkusen,Lyon,Leverkusen,2,3,INSUFFICIENT_HISTORY,YES
+UEFA Europa League,2027-01-28T20:00:00Z,Marseille,Anderlecht,Marseille,Anderlecht,2,3,INSUFFICIENT_HISTORY,YES
+UEFA Europa League,2027-01-28T20:00:00Z,Milan,Ararat-Armenia,Milan,Ararat-Armenia,2,3,INSUFFICIENT_HISTORY,YES
+UEFA Europa League,2027-01-28T20:00:00Z,OFI Crete,Lech Poznan,OFI Crete,Lech Poznan,3,3,INSUFFICIENT_HISTORY,YES
 UEFA Europa League,2027-01-28T20:00:00Z,Omonia,Besiktas,Omonia,Besiktas,2,2,INSUFFICIENT_HISTORY,YES
-UEFA Europa League,2027-01-28T20:00:00Z,Salzburg,Crystal Palace,Salzburg,Crystal Palace,1,2,INSUFFICIENT_HISTORY,YES
-UEFA Europa League,2027-01-28T20:00:00Z,Sparta Praha,Rennes,Sparta Praha,Rennes,2,2,INSUFFICIENT_HISTORY,YES
-UEFA Europa League,2027-01-28T20:00:00Z,Sunderland,Levski Sofia,Sunderland,Levski Sofia,2,2,INSUFFICIENT_HISTORY,YES
-UEFA Europa League,2027-01-28T20:00:00Z,Torreense,Olympiacos,Torreense,Olympiacos,2,2,INSUFFICIENT_HISTORY,YES
-UEFA Europa League,2027-01-28T20:00:00Z,Union SG,Celtic,Union SG,Celtic,2,1,INSUFFICIENT_HISTORY,YES
-UEFA Europa League,2027-01-28T20:00:00Z,Viktoria Plzen,Jagiellonia,Viktoria Plzen,Jagiellonia,3,2,INSUFFICIENT_HISTORY,YES
-UEFA Conference League,2026-12-10T15:30:00Z,Kairat Almaty,U. Craiova,Kairat Almaty,U. Craiova,1,1,INSUFFICIENT_HISTORY,YES
-UEFA Conference League,2026-12-10T17:45:00Z,Brann,Braga,Brann,Braga,1,2,INSUFFICIENT_HISTORY,YES
-UEFA Conference League,2026-12-10T17:45:00Z,Copenhagen,Lugano,Copenhagen,Lugano,2,1,INSUFFICIENT_HISTORY,YES
-UEFA Conference League,2026-12-10T17:45:00Z,Freiburg,Panathinaikos,Freiburg,Panathinaikos,1,1,INSUFFICIENT_HISTORY,YES
+UEFA Europa League,2027-01-28T20:00:00Z,Salzburg,Crystal Palace,Salzburg,Crystal Palace,2,2,INSUFFICIENT_HISTORY,YES
+UEFA Europa League,2027-01-28T20:00:00Z,Sparta Praha,Rennes,Sparta Praha,Rennes,3,3,INSUFFICIENT_HISTORY,YES
+UEFA Europa League,2027-01-28T20:00:00Z,Sunderland,Levski Sofia,Sunderland,Levski Sofia,3,3,INSUFFICIENT_HISTORY,YES
+UEFA Europa League,2027-01-28T20:00:00Z,Torreense,Olympiacos,Torreense,Olympiacos,3,2,INSUFFICIENT_HISTORY,YES
+UEFA Europa League,2027-01-28T20:00:00Z,Union SG,Celtic,Union SG,Celtic,3,2,INSUFFICIENT_HISTORY,YES
+UEFA Europa League,2027-01-28T20:00:00Z,Viktoria Plzen,Jagiellonia,Viktoria Plzen,Jagiellonia,4,3,INSUFFICIENT_HISTORY,YES
+UEFA Conference League,2026-12-10T15:30:00Z,Kairat Almaty,U. Craiova,Kairat Almaty,U. Craiova,2,2,INSUFFICIENT_HISTORY,YES
+UEFA Conference League,2026-12-10T17:45:00Z,Brann,Braga,Brann,Braga,2,2,INSUFFICIENT_HISTORY,YES
+UEFA Conference League,2026-12-10T17:45:00Z,Copenhagen,Lugano,Copenhagen,Lugano,2,2,INSUFFICIENT_HISTORY,YES
+UEFA Conference League,2026-12-10T17:45:00Z,Freiburg,Panathinaikos,Freiburg,Panathinaikos,2,2,INSUFFICIENT_HISTORY,YES
 UEFA Conference League,2026-12-10T17:45:00Z,Getafe,Inter Escaldes,Getafe,Inter Escaldes,2,2,INSUFFICIENT_HISTORY,YES
-UEFA Conference League,2026-12-10T17:45:00Z,Iberia Tbilisi,Crvena Zvezda,Iberia Tbilisi,Crvena Zvezda,1,1,INSUFFICIENT_HISTORY,YES
+UEFA Conference League,2026-12-10T17:45:00Z,Iberia Tbilisi,Crvena Zvezda,Iberia Tbilisi,Crvena Zvezda,2,2,INSUFFICIENT_HISTORY,YES
 UEFA Conference League,2026-12-10T17:45:00Z,KuPS Kuopio,CSKA Sofia,KuPS Kuopio,CSKA Sofia,2,2,INSUFFICIENT_HISTORY,YES
-UEFA Conference League,2026-12-10T17:45:00Z,L. Red Imps,Midtjylland,L. Red Imps,Midtjylland,2,1,INSUFFICIENT_HISTORY,YES
-UEFA Conference League,2026-12-10T17:45:00Z,Riga,Atalanta,Riga,Atalanta,2,1,INSUFFICIENT_HISTORY,YES
+UEFA Conference League,2026-12-10T17:45:00Z,L. Red Imps,Midtjylland,L. Red Imps,Midtjylland,2,2,INSUFFICIENT_HISTORY,YES
+UEFA Conference League,2026-12-10T17:45:00Z,Riga,Atalanta,Riga,Atalanta BC,2,2,INSUFFICIENT_HISTORY,YES
 UEFA Conference League,2026-12-10T17:45:00Z,Trabzonspor,Jablonec,Trabzonspor,Jablonec,2,2,INSUFFICIENT_HISTORY,YES
-UEFA Conference League,2026-12-10T20:00:00Z,Aarhus,Twente,Aarhus,Twente,2,1,INSUFFICIENT_HISTORY,YES
-UEFA Conference League,2026-12-10T20:00:00Z,Brighton,Monaco,Brighton,Monaco,1,1,INSUFFICIENT_HISTORY,YES
-UEFA Conference League,2026-12-10T20:00:00Z,Egnatia,Kauno Žalgiris,Egnatia,Kauno Žalgiris,1,2,INSUFFICIENT_HISTORY,YES
-UEFA Conference League,2026-12-10T20:00:00Z,Hajduk Split,Nordsjælland,Hajduk Split,Nordsjælland,1,2,INSUFFICIENT_HISTORY,YES
-UEFA Conference League,2026-12-10T20:00:00Z,Hearts,Borac,Hearts,Borac,1,2,INSUFFICIENT_HISTORY,YES
+UEFA Conference League,2026-12-10T20:00:00Z,Aarhus,Twente,Aarhus,Twente,2,2,INSUFFICIENT_HISTORY,YES
+UEFA Conference League,2026-12-10T20:00:00Z,Brighton,Monaco,Brighton,Monaco,2,2,INSUFFICIENT_HISTORY,YES
+UEFA Conference League,2026-12-10T20:00:00Z,Egnatia,Kauno Žalgiris,Egnatia,Kauno Žalgiris,2,2,INSUFFICIENT_HISTORY,YES
+UEFA Conference League,2026-12-10T20:00:00Z,Hajduk Split,Nordsjælland,Hajduk Split,Nordsjælland,2,2,INSUFFICIENT_HISTORY,YES
+UEFA Conference League,2026-12-10T20:00:00Z,Hearts,Borac,Hearts,Borac,2,2,INSUFFICIENT_HISTORY,YES
 UEFA Conference League,2026-12-10T20:00:00Z,Mjällby,Pafos,Mjällby,Pafos,2,2,INSUFFICIENT_HISTORY,YES
 UEFA Conference League,2026-12-10T20:00:00Z,Sint-Truidense,Ajax,Sint-Truidense,Ajax,2,2,INSUFFICIENT_HISTORY,YES
 UEFA Conference League,2026-12-10T20:00:00Z,Thun,Gent,Thun,Gent,2,2,INSUFFICIENT_HISTORY,YES
-UEFA Conference League,2026-12-17T20:00:00Z,Ajax,Getafe,Ajax,Getafe,1,1,INSUFFICIENT_HISTORY,YES
-UEFA Conference League,2026-12-17T20:00:00Z,Atalanta,Mjällby,Atalanta,Mjällby,2,1,INSUFFICIENT_HISTORY,YES
-UEFA Conference League,2026-12-17T20:00:00Z,Borac,Riga,Borac,Riga,1,1,INSUFFICIENT_HISTORY,YES
-UEFA Conference League,2026-12-17T20:00:00Z,Braga,Egnatia,Braga,Egnatia,1,2,INSUFFICIENT_HISTORY,YES
-UEFA Conference League,2026-12-17T20:00:00Z,CSKA Sofia,Thun,CSKA Sofia,Thun,1,1,INSUFFICIENT_HISTORY,YES
-UEFA Conference League,2026-12-17T20:00:00Z,Crvena Zvezda,Trabzonspor,Crvena Zvezda,Trabzonspor,2,1,INSUFFICIENT_HISTORY,YES
-UEFA Conference League,2026-12-17T20:00:00Z,Gent,Brann,Gent,Brann,1,2,INSUFFICIENT_HISTORY,YES
-UEFA Conference League,2026-12-17T20:00:00Z,Inter Escaldes,Aarhus,Inter Escaldes,Aarhus,1,1,INSUFFICIENT_HISTORY,YES
-UEFA Conference League,2026-12-17T20:00:00Z,Jablonec,Iberia Tbilisi,Jablonec,Iberia Tbilisi,1,2,INSUFFICIENT_HISTORY,YES
-UEFA Conference League,2026-12-17T20:00:00Z,Kauno Žalgiris,Freiburg,Kauno Žalgiris,Freiburg,1,2,INSUFFICIENT_HISTORY,YES
-UEFA Conference League,2026-12-17T20:00:00Z,Lugano,Sint-Truidense,Lugano,Sint-Truidense,2,1,INSUFFICIENT_HISTORY,YES
+UEFA Conference League,2026-12-17T20:00:00Z,Ajax,Getafe,Ajax,Getafe,2,2,INSUFFICIENT_HISTORY,YES
+UEFA Conference League,2026-12-17T20:00:00Z,Atalanta,Mjällby,Atalanta BC,Mjällby,2,2,INSUFFICIENT_HISTORY,YES
+UEFA Conference League,2026-12-17T20:00:00Z,Borac,Riga,Borac,Riga,2,2,INSUFFICIENT_HISTORY,YES
+UEFA Conference League,2026-12-17T20:00:00Z,Braga,Egnatia,Braga,Egnatia,2,2,INSUFFICIENT_HISTORY,YES
+UEFA Conference League,2026-12-17T20:00:00Z,CSKA Sofia,Thun,CSKA Sofia,Thun,2,2,INSUFFICIENT_HISTORY,YES
+UEFA Conference League,2026-12-17T20:00:00Z,Crvena Zvezda,Trabzonspor,Crvena Zvezda,Trabzonspor,2,2,INSUFFICIENT_HISTORY,YES
+UEFA Conference League,2026-12-17T20:00:00Z,Gent,Brann,Gent,Brann,2,2,INSUFFICIENT_HISTORY,YES
+UEFA Conference League,2026-12-17T20:00:00Z,Inter Escaldes,Aarhus,Inter Escaldes,Aarhus,2,2,INSUFFICIENT_HISTORY,YES
+UEFA Conference League,2026-12-17T20:00:00Z,Jablonec,Iberia Tbilisi,Jablonec,Iberia Tbilisi,2,2,INSUFFICIENT_HISTORY,YES
+UEFA Conference League,2026-12-17T20:00:00Z,Kauno Žalgiris,Freiburg,Kauno Žalgiris,Freiburg,2,2,INSUFFICIENT_HISTORY,YES
+UEFA Conference League,2026-12-17T20:00:00Z,Lugano,Sint-Truidense,Lugano,Sint-Truidense,2,2,INSUFFICIENT_HISTORY,YES
 UEFA Conference League,2026-12-17T20:00:00Z,Midtjylland,Hajduk Split,Midtjylland,Hajduk Split,2,2,INSUFFICIENT_HISTORY,YES
-UEFA Conference League,2026-12-17T20:00:00Z,Monaco,L. Red Imps,Monaco,L. Red Imps,2,1,INSUFFICIENT_HISTORY,YES
-UEFA Conference League,2026-12-17T20:00:00Z,Nordsjælland,KuPS Kuopio,Nordsjælland,KuPS Kuopio,1,1,INSUFFICIENT_HISTORY,YES
-UEFA Conference League,2026-12-17T20:00:00Z,Pafos,Hearts,Pafos,Hearts,1,2,INSUFFICIENT_HISTORY,YES
+UEFA Conference League,2026-12-17T20:00:00Z,Monaco,L. Red Imps,Monaco,L. Red Imps,2,2,INSUFFICIENT_HISTORY,YES
+UEFA Conference League,2026-12-17T20:00:00Z,Nordsjælland,KuPS Kuopio,Nordsjælland,KuPS Kuopio,2,2,INSUFFICIENT_HISTORY,YES
+UEFA Conference League,2026-12-17T20:00:00Z,Pafos,Hearts,Pafos,Hearts,2,2,INSUFFICIENT_HISTORY,YES
 UEFA Conference League,2026-12-17T20:00:00Z,Panathinaikos,Brighton,Panathinaikos,Brighton,2,2,INSUFFICIENT_HISTORY,YES
 UEFA Conference League,2026-12-17T20:00:00Z,Twente,Kairat Almaty,Twente,Kairat Almaty,2,2,INSUFFICIENT_HISTORY,YES
-UEFA Conference League,2026-12-17T20:00:00Z,U. Craiova,Copenhagen,U. Craiova,Copenhagen,2,1,INSUFFICIENT_HISTORY,YES
-Belgian Pro League,2026-11-27T19:45:00Z,OH Leuven,KV Kortrijk,OH Leuven,KV Kortrijk,6,6,READY,YES
+UEFA Conference League,2026-12-17T20:00:00Z,U. Craiova,Copenhagen,U. Craiova,Copenhagen,2,2,INSUFFICIENT_HISTORY,YES
 Belgian Pro League,2026-11-28T15:00:00Z,KVC Westerlo,RAAL La Louvière,KVC Westerlo,RAAL La Louvière,6,6,READY,YES
 Belgian Pro League,2026-11-28T17:15:00Z,Cercle Brugge KSV,KV Mechelen,Cercle Brugge KSV,KV Mechelen,6,6,READY,YES
 Belgian Pro League,2026-11-28T19:45:00Z,Lommel SK,Zulte-Waregem,Lommel SK,Zulte-Waregem,6,6,READY,YES
@@ -2290,8 +2281,6 @@ Belgian Pro League,2027-05-22T18:00:00Z,RAAL La Louvière,Anderlecht,RAAL La Lou
 Belgian Pro League,2027-05-22T18:00:00Z,Racing Genk,KV Mechelen,Racing Genk,KV Mechelen,6,6,READY,YES
 Belgian Pro League,2027-05-22T18:00:00Z,Union St.-Gilloise,Royal Charleroi SC,Union St.-Gilloise,Royal Charleroi SC,6,6,READY,YES
 Belgian Pro League,2027-05-22T18:00:00Z,Waasland-Beveren,Standard Liege,Waasland-Beveren,Standard Liege,6,6,READY,YES
-Süper Lig,2026-11-27T17:00:00Z,Alanyaspor,Konyaspor,Alanyaspor,Konyaspor,5,5,READY,YES
-Süper Lig,2026-11-27T17:00:00Z,Çaykur Rizespor,Kasimpasa,Çaykur Rizespor,Kasimpasa,5,6,READY,YES
 Süper Lig,2026-11-28T13:00:00Z,Samsunspor,Gençlerbirligi,Samsunspor,Gençlerbirligi,6,5,READY,YES
 Süper Lig,2026-11-28T16:00:00Z,Gaziantep,Amedspor,Gaziantep,Amedspor,6,5,READY,YES
 Süper Lig,2026-11-29T10:30:00Z,Çorum,Kocaelispor,Çorum,Kocaelispor,5,6,READY,YES
@@ -2603,8 +2592,6 @@ Scottish Premiership,2027-04-10T14:00:00Z,Dundee,Rangers,Dundee,Rangers,7,8,READ
 Scottish Premiership,2027-04-10T14:00:00Z,Falkirk,St. Mirren,Falkirk,St. Mirren,7,7,READY,YES
 Scottish Premiership,2027-04-10T14:00:00Z,Hibernian,Heart of Midlothian,Hibernian,Heart of Midlothian,8,7,READY,YES
 Scottish Premiership,2027-04-10T14:00:00Z,St. Johnstone,Motherwell,St. Johnstone,Motherwell,7,7,READY,YES
-2. Bundesliga,2026-11-27T17:30:00Z,1. FC Heidenheim 1846,1. FC Nürnberg,1. FC Heidenheim 1846,1. FC Nürnberg,6,5,READY,YES
-2. Bundesliga,2026-11-27T17:30:00Z,VfL Bochum,SV Darmstadt 98,VfL Bochum,SV Darmstadt 98,6,5,READY,YES
 2. Bundesliga,2026-11-28T12:00:00Z,Dynamo Dresden,FC St. Pauli,Dynamo Dresden,FC St. Pauli,5,6,READY,YES
 2. Bundesliga,2026-11-28T12:00:00Z,Hertha BSC,Karlsruher SC,Hertha BSC,Karlsruher SC,5,5,READY,YES
 2. Bundesliga,2026-11-28T12:00:00Z,Holstein Kiel,1. FC Kaiserslautern,Holstein Kiel,1. FC Kaiserslautern,6,6,READY,YES

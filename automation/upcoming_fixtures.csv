@@ -1,5 +1,4 @@
 league,date,home,away
-Premier League,2026-11-27T20:00:00Z,Nott'm Forest,Chelsea
 Premier League,2026-11-28T15:00:00Z,Leeds,Coventry
 Premier League,2026-11-28T15:00:00Z,Man Utd,Brentford
 Premier League,2026-11-28T17:30:00Z,Ipswich,Aston Villa
@@ -269,7 +268,6 @@ Premier League,2027-05-30T15:00:00Z,Ipswich,Everton
 Premier League,2027-05-30T15:00:00Z,Liverpool,Bournemouth
 Premier League,2027-05-30T15:00:00Z,Man Utd,Fulham
 Premier League,2027-05-30T15:00:00Z,Sunderland,Man City
-La Liga,2026-11-27T20:00:00Z,Levante UD,R. Racing Club
 La Liga,2026-11-28T13:00:00Z,Real Betis,Rayo Vallecano
 La Liga,2026-11-28T15:15:00Z,Málaga CF,Athletic Club
 La Liga,2026-11-28T17:30:00Z,Elche CF,Atlético de Madrid
@@ -520,7 +518,6 @@ La Liga,2027-05-30T00:00:00Z,RCD Espanyol de Barcelona,Deportivo Alavés
 La Liga,2027-05-30T00:00:00Z,Real Betis,Atlético de Madrid
 La Liga,2027-05-30T00:00:00Z,Real Madrid,RC Deportivo
 La Liga,2027-05-30T00:00:00Z,Real Sociedad,Villarreal CF
-Bundesliga,2026-11-27T19:30:00Z,SV Werder Bremen,Borussia Mönchengladbach
 Bundesliga,2026-11-28T14:30:00Z,1. FC Köln,SV 07 Elversberg
 Bundesliga,2026-11-28T14:30:00Z,1. FSV Mainz 05,1. FC Union Berlin
 Bundesliga,2026-11-28T14:30:00Z,Hamburger SV,FC Bayern München
@@ -736,7 +733,6 @@ Bundesliga,2027-05-22T13:30:00Z,FC Schalke 04,Bayer 04 Leverkusen
 Bundesliga,2027-05-22T13:30:00Z,RB Leipzig,TSG Hoffenheim
 Bundesliga,2027-05-22T13:30:00Z,SC Freiburg,Borussia Dortmund
 Bundesliga,2027-05-22T13:30:00Z,SV 07 Elversberg,SV Werder Bremen
-Serie A,2026-11-27T19:45:00Z,Venezia,Bologna
 Serie A,2026-11-28T14:00:00Z,Frosinone,Parma
 Serie A,2026-11-28T17:00:00Z,Torino,Lazio
 Serie A,2026-11-28T19:45:00Z,Internazionale,Genoa
@@ -996,7 +992,6 @@ Serie A,2027-05-30T00:00:00Z,Milan,Udinese
 Serie A,2027-05-30T00:00:00Z,Monza,Torino
 Serie A,2027-05-30T00:00:00Z,Napoli,Atalanta
 Serie A,2027-05-30T00:00:00Z,Sassuolo,Internazionale
-Ligue 1,2026-11-27T19:45:00Z,Stade Brestois 29,Paris FC
 Ligue 1,2026-11-28T16:15:00Z,Angers SCO,RC Lens
 Ligue 1,2026-11-28T19:45:00Z,Havre Athletic Club,RC Strasbourg Alsace
 Ligue 1,2026-11-28T19:45:00Z,Le Mans FC,LOSC Lille
@@ -1203,7 +1198,6 @@ Ligue 1,2027-05-28T22:00:00Z,Paris Saint-Germain,Toulouse FC
 Ligue 1,2027-05-28T22:00:00Z,RC Strasbourg Alsace,OGC Nice
 Ligue 1,2027-05-28T22:00:00Z,Stade Brestois 29,RC Lens
 Ligue 1,2027-05-28T22:00:00Z,Stade Rennais FC,Angers SCO
-Eredivisie,2026-11-27T19:00:00Z,FC Groningen,Willem II
 Eredivisie,2026-11-28T15:30:00Z,Excelsior Rotterdam,Telstar
 Eredivisie,2026-11-28T17:45:00Z,PSV,Go Ahead Eagles
 Eredivisie,2026-11-28T20:00:00Z,SC Cambuur,Sparta Rotterdam
@@ -1392,7 +1386,6 @@ Eredivisie,2027-05-23T12:30:00Z,Sparta Rotterdam,Fortuna Sittard
 Eredivisie,2027-05-23T12:30:00Z,Telstar,Excelsior Rotterdam
 Eredivisie,2027-05-23T12:30:00Z,Willem II,Go Ahead Eagles
 Eredivisie,2027-05-23T12:30:00Z,sc Heerenveen,PSV
-Primeira Liga,2026-11-27T20:15:00Z,Marítimo M.,CD Nacional
 Primeira Liga,2026-11-28T15:30:00Z,FC Arouca,Rio Ave FC
 Primeira Liga,2026-11-28T15:30:00Z,Moreirense FC,Santa Clara
 Primeira Liga,2026-11-28T18:00:00Z,Académico,FC Alverca
@@ -1600,7 +1593,6 @@ Primeira Liga,2027-05-14T23:00:00Z,Moreirense FC,Rio Ave FC
 Primeira Liga,2027-05-14T23:00:00Z,SL Benfica,FC Arouca
 Primeira Liga,2027-05-14T23:00:00Z,Santa Clara,Sporting CP
 Primeira Liga,2027-05-14T23:00:00Z,Vitória SC,FC Famalicão
-English Championship,2026-11-27T20:00:00Z,Southampton,Middlesbrough
 English Championship,2026-11-28T12:30:00Z,Blackburn Rovers,Charlton Athletic
 English Championship,2026-11-28T12:30:00Z,Lincoln City,Wolverhampton Wanderers
 English Championship,2026-11-28T12:30:00Z,Preston North End,Norwich City
@@ -2092,7 +2084,6 @@ UEFA Conference League,2026-12-17T20:00:00Z,Pafos,Hearts
 UEFA Conference League,2026-12-17T20:00:00Z,Panathinaikos,Brighton
 UEFA Conference League,2026-12-17T20:00:00Z,Twente,Kairat Almaty
 UEFA Conference League,2026-12-17T20:00:00Z,U. Craiova,Copenhagen
-Belgian Pro League,2026-11-27T19:45:00Z,OH Leuven,KV Kortrijk
 Belgian Pro League,2026-11-28T15:00:00Z,KVC Westerlo,RAAL La Louvière
 Belgian Pro League,2026-11-28T17:15:00Z,Cercle Brugge KSV,KV Mechelen
 Belgian Pro League,2026-11-28T19:45:00Z,Lommel SK,Zulte-Waregem
@@ -2290,8 +2281,6 @@ Belgian Pro League,2027-05-22T18:00:00Z,RAAL La Louvière,Anderlecht
 Belgian Pro League,2027-05-22T18:00:00Z,Racing Genk,KV Mechelen
 Belgian Pro League,2027-05-22T18:00:00Z,Union St.-Gilloise,Royal Charleroi SC
 Belgian Pro League,2027-05-22T18:00:00Z,Waasland-Beveren,Standard Liege
-Süper Lig,2026-11-27T17:00:00Z,Alanyaspor,Konyaspor
-Süper Lig,2026-11-27T17:00:00Z,Çaykur Rizespor,Kasimpasa
 Süper Lig,2026-11-28T13:00:00Z,Samsunspor,Gençlerbirligi
 Süper Lig,2026-11-28T16:00:00Z,Gaziantep,Amedspor
 Süper Lig,2026-11-29T10:30:00Z,Çorum,Kocaelispor
@@ -2603,8 +2592,6 @@ Scottish Premiership,2027-04-10T14:00:00Z,Dundee,Rangers
 Scottish Premiership,2027-04-10T14:00:00Z,Falkirk,St. Mirren
 Scottish Premiership,2027-04-10T14:00:00Z,Hibernian,Heart of Midlothian
 Scottish Premiership,2027-04-10T14:00:00Z,St. Johnstone,Motherwell
-2. Bundesliga,2026-11-27T17:30:00Z,1. FC Heidenheim 1846,1. FC Nürnberg
-2. Bundesliga,2026-11-27T17:30:00Z,VfL Bochum,SV Darmstadt 98
 2. Bundesliga,2026-11-28T12:00:00Z,Dynamo Dresden,FC St. Pauli
 2. Bundesliga,2026-11-28T12:00:00Z,Hertha BSC,Karlsruher SC
 2. Bundesliga,2026-11-28T12:00:00Z,Holstein Kiel,1. FC Kaiserslautern
